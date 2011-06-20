@@ -1,0 +1,10 @@
+{"lon":17.95031,"address":"Flyttblocksv�gen 10","startPrice":4795000,"hood":"Bromma - Marieh�ll","lat":59.3581301,"squareMeters":151}
+{"lon":17.9340225,"address":"Gamla Bromstensv�gen 37","startPrice":3300000,"hood":"B�llsta","lat":59.3639771,"squareMeters":88}
+{"lon":17.8713727,"address":"Edebyv�gen 51","startPrice":9500000,"hood":"Eker� Drottningholm","lat":59.3059201,"squareMeters":180}
+{"lon":17.9203401,"address":"Carl Barks V�g 13K","startPrice":2695000,"hood":"Sp�nga Bromsten","lat":59.3771816,"squareMeters":121}
+{"lon":17.9177631,"address":"B�tsman Stens v�g 51C","startPrice":3175000,"hood":"Sp�nga - Bromsten","lat":59.3847935,"squareMeters":104}
+{"lon":18.0644881,"address":"V�stra Johannelund - Hus 13","startPrice":3350000,"hood":"V�llingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":18.0644881,"address":"V�stra Johannelund - Hus 1","startPrice":3315000,"hood":"V�llingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":18.0644881,"address":"Linjem�starv�gen 4-Toppklass!","startPrice":5950000,"hood":"N�lsta","lat":59.3327881,"squareMeters":172}
+{"lon":18.0644881,"address":"V�stra Johannelund - Hus 6 (Bokad)","startPrice":2750000,"hood":"V�llingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":17.8205013,"address":"�broddsv�gen 53","startPrice":3850000,"hood":"H�sselby S�dra Villastad","lat":59.3771274,"squareMeters":152}

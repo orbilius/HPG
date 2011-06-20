@@ -1,0 +1,10 @@
+{"fee":0,"id":"1160116","address":"Barkarby 10 \/ Rörbyvägen 47","startPrice":3750000,"hood":"Drottningholm","url":"\/beskrivning\/1160116?r=2","squareMeters":78}
+{"fee":0,"id":"1157656","address":"Hjortronvägen 9","startPrice":3475000,"hood":"Bromma Eneby","url":"\/beskrivning\/1157656?r=2","squareMeters":66}
+{"fee":0,"id":"1184704","address":"Karlebyvägen 3","startPrice":2500000,"hood":"Bromma - Norra Ängby","url":"\/beskrivning\/1184704?r=2","squareMeters":52}
+{"fee":0,"id":"1138215","address":"Zornvägen 66 ***","startPrice":12975000,"hood":"Södra Ängby","url":"\/beskrivning\/1138215?r=2","squareMeters":210}
+{"fee":0,"id":"1170575","address":"Gamla Bromstensvägen 31","startPrice":3650000,"hood":"Bromma, Bällsta","url":"\/beskrivning\/1170575?r=2","squareMeters":65}
+{"fee":0,"id":"1173795","address":"Kakvägen 51","startPrice":2395000,"hood":"Bromma Bällsta","url":"\/beskrivning\/1173795?r=2","squareMeters":54}
+{"fee":0,"id":"1078457","address":"Rånövägen 5","startPrice":17000000,"hood":"Nockebyhov","url":"\/beskrivning\/1078457?r=2","squareMeters":0}
+{"fee":0,"id":"1184560","address":"Lokattsvägen 42","startPrice":8250000,"hood":"Bromma Stora Mossen","url":"\/beskrivning\/1184560?r=2","squareMeters":170}
+{"fee":0,"id":"1180756","address":"Vildkattsvägen 8","startPrice":10400000,"hood":"Bromma - Ålsten","url":"\/beskrivning\/1180756?r=2","squareMeters":187}
+{"fee":0,"id":"1179256","address":"Lövåsvägen 20","startPrice":3990000,"hood":"Bromma Ulvsunda","url":"\/beskrivning\/1179256?r=2","squareMeters":101}

@@ -1,0 +1,94 @@
+{"kommun":"Bromma","hood":" ","address":"Grönviksvägen 168","rooms":7,"squareMeters":154,"fee":0,"lotarea":609,"startPrice":6900000,"type":"Friliggande villa","information":"FIN SJÖUTSIKT!"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Råcksta","address":"Brunflogatan 12","rooms":6,"squareMeters":116,"fee":0,"lotarea":674,"startPrice":3375000,"type":"Friliggande villa","information":"Rymlig Råckstavilla!"}
+{"kommun":"Bromma","hood":"Bromma - Södra Ängby","address":"Roslinvägen 6","rooms":9,"squareMeters":165,"fee":0,"lotarea":671,"startPrice":7750000,"type":"Friliggande villa","information":"Ovanligt välskött!"}
+{"kommun":"Bromma","hood":"Bromma - Norra Ängby","address":"Adilsvägen 17","rooms":7,"squareMeters":91,"fee":0,"lotarea":471,"startPrice":3990000,"type":"Friliggande villa","information":"180 KVM INREDD YTA !"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Bromma - Beckomberga","address":"Ockravägen 3","rooms":6,"squareMeters":141,"fee":0,"lotarea":151,"startPrice":5200000,"type":"Par/Rad/Kedjehus","information":"Nyproduktion"}
+{"kommun":"Bromma","hood":"Bromma - Höglandet","address":"Grönviksvägen 14","rooms":7,"squareMeters":229,"fee":0,"lotarea":848,"startPrice":9975000,"type":"Friliggande villa","information":"Fantastisk sjöutsikt"}
+{"kommun":"Bromma","hood":"Bromma - Norra Ängby","address":"Egilsvägen 18","rooms":3,"squareMeters":83,"fee":0,"lotarea":492,"startPrice":3800000,"type":"Friliggande villa","information":"Original, toppläge!"}
+{"kommun":"Bromma","hood":"Bromma, Bromma Kyrka","address":"Torvsticksvägen 24","rooms":8,"squareMeters":184,"fee":0,"lotarea":865,"startPrice":5450000,"type":"Friliggande villa","information":"Extraordinärt!"}
+{"kommun":"Bromma","hood":"Bromma - Äppelviken","address":"Stavgårdsgatan 14","rooms":7,"squareMeters":153,"fee":0,"lotarea":1,"startPrice":7900000,"type":"Friliggande villa","information":"STOR TOMT I SV-LÄGE!"}
+{"kommun":"Bromma","hood":"Bromma - Äppelviken","address":"Majvägen 5","rooms":6,"squareMeters":141,"fee":0,"lotarea":1,"startPrice":8450000,"type":"Friliggande villa","information":"200 kvm inredd yta"}
+{"kommun":"Bromma","hood":"Bromma - Höglandet","address":"Orevägen 29","rooms":7,"squareMeters":270,"fee":0,"lotarea":1,"startPrice":13000000,"type":"Friliggande villa","information":"I mycket gott skick"}
+{"kommun":"Bromma","hood":"Bromma Kyrka","address":"Gliavägen 90","rooms":6,"squareMeters":124,"fee":0,"lotarea":1,"startPrice":5500000,"type":"Friliggande villa","information":"Charmigt och rymligt"}
+{"kommun":"Bromma","hood":"Bromma - Ålsten","address":"Järpstigen 14","rooms":11,"squareMeters":389,"fee":0,"lotarea":623,"startPrice":13000000,"type":"Friliggande villa","information":"Familjevilla"}
+{"kommun":"Bromma","hood":"Bromma - Norra Ängby","address":"Islandsvägen 30","rooms":5,"squareMeters":78,"fee":0,"lotarea":426,"startPrice":3495000,"type":"Friliggande villa","information":"Charmig villa"}
+{"kommun":"Bromma","hood":"Bromma - Ålsten","address":"Brötvägen 60","rooms":7,"squareMeters":265,"fee":0,"lotarea":1,"startPrice":10900000,"type":"Friliggande villa","information":"UNIKT VÄLRENOVERAT"}
+{"kommun":"Bromma","hood":"Bromma - Norra Ängby","address":"Rökstensvägen 14","rooms":4,"squareMeters":50,"fee":0,"lotarea":368,"startPrice":3400000,"type":"Friliggande villa","information":"Fint skick bra läge!"}
+{"kommun":"Bromma","hood":"Bromma - Nockebyhov","address":"Drottningholmsvägen 516","rooms":6,"squareMeters":126,"fee":0,"lotarea":477,"startPrice":4975000,"type":"Friliggande villa","information":"Allt i bästa skick!"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Bromma - Eneby","address":"Plommonvägen 22","rooms":3,"squareMeters":66,"fee":0,"lotarea":475,"startPrice":2850000,"type":"Friliggande villa","information":"Hus med möjligheter!"}
+{"kommun":"Bromma","hood":"Bromma Kyrka","address":"Gliavägen 125","rooms":9,"squareMeters":202,"fee":0,"lotarea":1,"startPrice":5600000,"type":"Friliggande villa","information":"Fantastisk tomt!"}
+{"kommun":"Bromma","hood":"Bromma - Äppelviken","address":"Poppelvägen 6","rooms":12,"squareMeters":343,"fee":0,"lotarea":908,"startPrice":16000000,"type":"Friliggande villa","information":"3 varmgarage"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Bromma - Beckomberga","address":"Ockravägen 1-17","rooms":6,"squareMeters":141,"fee":0,"lotarea":151,"startPrice":5200000,"type":"Par/Rad/Kedjehus","information":"Nyproduktion"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Bromma - Norra Ängby","address":"Beckombergavägen 175","rooms":7,"squareMeters":128,"fee":0,"lotarea":424,"startPrice":4650000,"type":"Friliggande villa","information":"Möjligheternas hus"}
+{"kommun":"Bromma","hood":"Bromma Nockebyhov","address":"Fritidsvägen 6","rooms":5,"squareMeters":120,"fee":0,"lotarea":771,"startPrice":4575000,"type":"Friliggande villa","information":"Klassiskt 50-tal"}
+{"kommun":"Bromma","hood":"Bromma Södra Ängby","address":"Blackebergsvägen 52","rooms":1,"squareMeters":25,"fee":0,"lotarea":850,"startPrice":995000,"type":"Vinterbonat fritidshus","information":"Sjönära med utsikt!"}
+{"kommun":"Bromma","hood":"Bromma - Annedal","address":"Brf Båtsman","rooms":4,"squareMeters":113,"fee":5991,"lotarea":0,"startPrice":3890000,"type":"Bostadsrätt","information":"NYPRODUKTION"}
+{"kommun":"Bromma","hood":"Bromma - Nockeby","address":"Grönviksvägen 112","rooms":7,"squareMeters":262,"fee":0,"lotarea":756,"startPrice":10900000,"type":"Friliggande villa","information":"Nära vattnet vill..."}
+{"kommun":"Bromma","hood":"Bromma Bällsta","address":"Mjölvägen 20","rooms":4,"squareMeters":67,"fee":0,"lotarea":447,"startPrice":2950000,"type":"Friliggande villa","information":"Bra planlösning!"}
+{"kommun":"Bromma","hood":"Bromma - Olovslund","address":"Drakstigen 11","rooms":5,"squareMeters":110,"fee":0,"lotarea":526,"startPrice":5750000,"type":"Friliggande villa","information":"SOLIG HÖRNTOMT..."}
+{"kommun":"Bromma","hood":"Bromma - Traneberg","address":"Svartviksvägen 10","rooms":5,"squareMeters":171,"fee":0,"lotarea":0,"startPrice":7900000,"type":"Friliggande villa","information":"INTILL MÄLAREN!"}
+{"kommun":"Bromma","hood":"Bromma - Ålsten","address":"Lusthusbacken 11","rooms":10,"squareMeters":338,"fee":0,"lotarea":1,"startPrice":0,"type":"Friliggande villa","information":"Brommaresidens"}
+{"kommun":"Bromma","hood":"Spånga - Sundby","address":"Oskarsvägen 8","rooms":8,"squareMeters":264,"fee":0,"lotarea":834,"startPrice":4950000,"type":"Friliggande villa","information":"Mkt fin familjvilla!"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Vällingby/Kälvesta","address":"Tenorgränd 64","rooms":6,"squareMeters":133,"fee":0,"lotarea":429,"startPrice":2425000,"type":"Par/Rad/Kedjehus","information":"unknown"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Hässelby villastad","address":"Drivbänksvägen 92","rooms":6,"squareMeters":154,"fee":0,"lotarea":147,"startPrice":3595000,"type":"Par/Rad/Kedjehus","information":"ACCEPTPRIS"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Hässelby Södra Villastad","address":"Åbroddsvägen 15","rooms":5,"squareMeters":121,"fee":0,"lotarea":1,"startPrice":2975000,"type":"Friliggande villa","information":"1-plans hus i vinkel"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Akalla","address":"Imatragatan 17","rooms":1,"squareMeters":42,"fee":2615,"lotarea":0,"startPrice":795000,"type":"Bostadsrätt","information":"unknown"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Vällingby","address":"Bollnäsbacken 37","rooms":5,"squareMeters":125,"fee":0,"lotarea":0,"startPrice":2995000,"type":"Villa","information":"K-märkt funkisradhus"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Hässelby Norra Villastad","address":"Dvärglinsgränd 104","rooms":5,"squareMeters":117,"fee":0,"lotarea":304,"startPrice":1975000,"type":"Par/Rad/Kedjehus","information":"Bra läge i området"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Hässelby Gård","address":"Ardennergatan 13","rooms":5,"squareMeters":90,"fee":0,"lotarea":160,"startPrice":1995000,"type":"Par/Rad/Kedjehus","information":"Fjärrvärme"}
+{"kommun":"",{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Kista","address":"Jyllandsgatan 103","rooms":4,"squareMeters":101,"fee":3808,"lotarea":0,"startPrice":2000000,"type":"Bostadsrätt","information":"Radhus m låg avgift!"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Spånga - Rinkeby","address":"Rinkebystråket 9","rooms":6,"squareMeters":140,"fee":6187,"lotarea":0,"startPrice":1295000,"type":"Bostadsrätt","information":"Helfräscht boende!!"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Hässelby Norra Villastad","address":"Granskogsvägen 11","rooms":3,"squareMeters":82,"fee":4300,"lotarea":0,"startPrice":1400000,"type":"Bostadsrätt","information":"Byteschans!"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Hässelby Villastad","address":"Liden 9","rooms":6,"squareMeters":180,"fee":0,"lotarea":726,"startPrice":3375000,"type":"Friliggande villa","information":"unknown"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Spånga - Solhöjden","address":"Solhems Hagväg 54","rooms":5,"squareMeters":114,"fee":0,"lotarea":187,"startPrice":2295000,"type":"Par/Rad/Kedjehus","information":"Lekplats intill"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Vällingby - Nälsta","address":"Dalkärrsleden 115","rooms":5,"squareMeters":173,"fee":0,"lotarea":709,"startPrice":3995000,"type":"Friliggande villa","information":"Takhöjd 3,45"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Hässelby Södra Villastad","address":"Björnstigen 11","rooms":7,"squareMeters":225,"fee":0,"lotarea":606,"startPrice":4975000,"type":"Friliggande villa","information":"150 m till Mälaren"}
+{"kommun":"Kista/Hässelby/Vällingby/Spånga","hood":"Hässelby Villastad","address":"Rödklövervägen 27","rooms":5,"squareMeters":134,"fee":0,"lotarea":182,"startPrice":2375000,"type":"Par/Rad/Kedjehus","information":"unknown"}
+{"kommun":"Bromma","hood":"Bromma - Mariehäll","address":"Tegelbergsvägen 21","rooms":8,"squareMeters":164,"fee":0,"lotarea":636,"startPrice":4495000,"type":"Friliggande villa","information":"8 rok!"}
+
+  
+  Visa läge på karta
+  
+  VR-film
+  
+  Byteskrav
+  
+  Kommande
+  
+  Nyproduktion
+  
+  Nybyggnadsprojekt
+  
+  Statistik
+  
+
+  
+123&gt;&gt;&gt;
+  
+
+Objekt per sida:10203050
+
+
+
+
+
+
+
+ window.Fusion.space("Panorama");//TODO - Ta bort länken till hemnet.se och låt det vara  /extra/ovrigt/toppbanner/panorama.swfmaybeShowAlternateContent('banner-topp', buildFlashBanner('http://www.hemnet.se/extra/ovrigt/toppbanner/panorama.swf', 'http://www.hemnet.se/bygga', 'localPanoramaBanner'));
+  var hn_tax = '&Sajt=hemnet-se&Sektion=sok';
+
+
+
+
+
+
+
+var _rsCI = "hemnet-se"; /* client ID */var _rsCG = "sok"; /* content group */var _rsDN = "//secure-dk.imrworldwide.com/"; /* data node */var _rsCC = 0; /* to turn on whether to check for existing cookie, 0=off 1=on */var _rsSE = 0; /* to turn on surveys, 0=off 1=on */var _rsSM = 0.05; /* maxumum survey rate, 1.0=100% */
+
+
+
+
+
+
+
+

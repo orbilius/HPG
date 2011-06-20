@@ -1,0 +1,3384 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="sv" xml:lang="sv">
+  <head>
+    <title>	
+		Hemnet – Bostäder till salu genom svenska fastighetsmäklare.
+	
+</title>
+
+    		<meta name="keywords" content="bostäder, lägenheter, villor, radhus, tomter" />
+	
+    		<meta name="description" content="På Hemnet hittar du bostäder som lägenheter, villor, radhus, tomter och fritidshus till salu genom svenska fastighetsmäklare." />
+	
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+    <!-- Validate on webmaster tools -->
+    <meta name="msvalidate.01" content="DB036501DE0B4CB6613316FC429CB103" />
+    <meta name="y_key" content="25f8db197a044956" />
+
+    
+    <script type="text/javascript" src="http://fusion.adtoma.com/script.js"></script>
+<script type="text/javascript">
+window.Fusion.adServer = "fusion.adtoma.com";
+window.Fusion.mediaZone = "hemnet.sverige.steg2";
+window.Fusion.layout = "tre";
+
+
+
+  //Sökparamterar för Hemnet.
+  window.Fusion.parameters["Hemnet_boendeform"] = [""];
+  window.Fusion.parameters["Hemnet_land"] = [""];
+  window.Fusion.parameters["Hemnet_kommun"] = [""];
+  
+    //Params för söklistningen
+    window.Fusion.parameters["Hemnet_kommun_alla"] = ["no"];
+    window.Fusion.parameters["Hemnet_boendeform_alla"] = [""];
+    window.Fusion.parameters["Hemnet_rum_min"] = [""];
+    window.Fusion.parameters["Hemnet_rum_max"] = [""];
+    window.Fusion.parameters["Hemnet_pris_min"] = [""];
+    window.Fusion.parameters["Hemnet_pris_max"] = [""];
+  
+
+window.Fusion.loadAds();
+</script>
+
+    
+  <link rel="shortcut icon" href="/favicon.ico" />
+
+
+  <link rel="stylesheet" type="text/css" href="/stylesheets/standard.css?1273500746" title="none" />
+
+  <!--[if lte IE 7]>
+      <link rel="stylesheet" type="text/css" href="/stylesheets/standard-ie.css?1273500746" title="none" />
+  <![endif]-->
+  <!--[if lte IE 6]>
+      <link rel="stylesheet" type="text/css" href="/stylesheets/standard-ie6.css?1273500746" title="none" />
+  <![endif]-->
+
+  
+
+  <script src="/javascripts/jquery_bundle.min.js?1273500749" type="text/javascript"></script>
+  <script src="/javascripts/jquery.ui-slider.custom.js?1273500748" type="text/javascript"></script>
+  <script src="/javascripts/jquery.tools.min.js?1273500749" type="text/javascript"></script>
+  <script src="/javascripts/jquery.multiselect_checkboxes_widget.js?1273500748" type="text/javascript"></script>
+
+  
+  
+   <script src="/javascripts/standard.js?1273500748" type="text/javascript"></script>
+  
+
+  
+
+  
+    <script src="/javascripts/reklamomladdning.js?1273500749" type="text/javascript"></script>
+  
+
+<script src="/javascripts/ads.js?1273500749" type="text/javascript"></script>
+    
+
+
+    <!-- Canonical -->
+          <link rel="canonical" href="/" />
+    
+    
+
+  </head>
+  <body>
+
+    <div id="sajt">
+
+      <ul id="info-nav">
+
+        
+        
+
+          <!-- Hemnet -->
+          
+            <li id="info-nav-logga-in"><a href="/login">Logga in</a></li>
+          
+
+          <li id="info-nav-om"><a href="/om">Om Hemnet</a></li>
+          <li id="info-nav-kundtjanst"><a href="/om/kundtjanst">Kundtjänst</a></li>
+          <li id="info-nav-annonsera"><a href="/om/annonsering">Annonsera</a></li>
+          <li id="info-nav-vanliga-fragor"><a href="/om/faq">Vanliga frågor</a></li>
+          <li id="info-nav-anlita-maklare"><a href="/om/anlita_maklare">Anlita mäklare</a></li>
+
+        
+
+
+      </ul>
+
+      <ul id="sajt-nav">
+
+        <li id="sajt-nav-bostader">
+          <a href="http://www.hemnet.se">
+          Bostäder</a>
+          </li><li id="sajt-nav-lokal-fast">
+          <a href="http://www.kommersiella.se " class="till_kommersiella">
+            Lokaler och fastigheter
+          </a>
+        </li>
+      </ul>
+
+      <div id="sida"class="full">
+
+        
+        <ul id="pri-nav">
+  <li id="pri-nav-hem"><a href="/"><img src="/images/logo.png?1273500754" alt="Hemnet"/></a></li>
+  <li id="pri-nav-sok" class="aktiv" >
+    <a href="/">Sök</a>
+  </li>
+  <li id="pri-nav-mitt-hemnet">
+    <a href="/mitt_hemnet">Mitt Hemnet</a>
+  </li>
+  <li id="pri-nav-maklare">
+    <a href="/maklare">Hitta din mäklare</a>
+  </li>
+  <li id="pri-nav-bygga-nytt">
+    <a href="/bygga">Bygga nytt</a>
+  </li>
+  <li id="pri-nav-statistik">
+    <a href="/barometern">Barometern</a>
+  </li>
+  
+</ul>
+
+          <div id="sok" >
+
+  <form method="post" action="/sok/sok" id="sok-form">
+
+    <input type="hidden" name="use-multiselect" id="use-multiselect" value="1" />
+    <input type="hidden" name="visa_utokad_sok" id="visa-utokad-sok" value="0" />
+    <input type="hidden" name="dolj_sok_form" id="dolj-sok-form" value="0" />
+
+    <table id="sok-urval1-hlr">
+      <tr>
+        <td id="sok-land-hlr">
+          <label for="sok-land">Välj land</label>
+          <select id="sok-land" name="sok[land]" tabindex="1">
+            <option value="46">Sverige</option>
+                          <option value="31" >Bahamas (2)</option>
+                          <option value="21" >Belgien (1)</option>
+                          <option value="30" >Brasilien (21)</option>
+                          <option value="23" >Bulgarien (15)</option>
+                          <option value="52" >Cypern (1)</option>
+                          <option value="56" >Danmark (0)</option>
+                          <option value="58" >Dominikanska republiken (8)</option>
+                          <option value="61" >Estland (3)</option>
+                          <option value="67" >Finland (3)</option>
+                          <option value="72" >Frankrike (808)</option>
+                          <option value="2" >Förenade arabemiraten (2)</option>
+                          <option value="86" >Grekland (180)</option>
+                          <option value="105" >Italien (347)</option>
+                          <option value="50" >Kap Verde (0)</option>
+                          <option value="94" >Kroatien (61)</option>
+                          <option value="146" >Malta (49)</option>
+                          <option value="132" >Monaco (9)</option>
+                          <option value="134" >Montenegro (0)</option>
+                          <option value="160" >Norge (0)</option>
+                          <option value="172" >Polen (2)</option>
+                          <option value="176" >Portugal (128)</option>
+                          <option value="41" >Schweiz (2)</option>
+                          <option value="65" >Spanien (1376)</option>
+                          <option value="75" >Storbritannien (2)</option>
+                          <option value="237" >Sydafrika (4)</option>
+                          <option value="208" >Thailand (269)</option>
+                          <option value="212" >Tunisien (0)</option>
+                          <option value="215" >Turkiet (176)</option>
+                          <option value="54" >Tyskland (4)</option>
+                          <option value="96" >Ungern (3)</option>
+                          <option value="223" >USA (106)</option>
+                          <option value="228" >Venezuela (2)</option>
+                          <option value="13" >Österrike (2)</option>
+                      </select>
+        </td>
+
+        <td id="sok-region-hlr">
+          <label for="sok-region">Välj län</label>
+          <select id="sok-region" name="sok_extra[region]" tabindex="2">
+            <option value="-1">Alla län</option>
+                          <option value="10" >Blekinge</option>
+                          <option value="20" >Dalarnas</option>
+                          <option value="9" >Gotlands</option>
+                          <option value="21" >Gävleborgs</option>
+                          <option value="13" >Hallands</option>
+                          <option value="23" >Jämtlands</option>
+                          <option value="6" >Jönköpings</option>
+                          <option value="8" >Kalmar (Öland)</option>
+                          <option value="7" >Kronobergs</option>
+                          <option value="25" >Norrbottens</option>
+                          <option value="12" >Skåne</option>
+                          <option value="1" >Stockholms</option>
+                          <option value="4" >Södermanlands</option>
+                          <option value="3" >Uppsala</option>
+                          <option value="17" >Värmlands</option>
+                          <option value="24" >Västerbottens</option>
+                          <option value="22" >Västernorrlands</option>
+                          <option value="19" >Västmanlands</option>
+                          <option value="14" >Västra Götalands</option>
+                          <option value="18" >Örebro</option>
+                          <option value="5" >Östergötlands</option>
+                      </select>
+        </td>
+
+        <td id="sok-kommun-hlr">
+          <label for="sok-kommun">Välj kommun</label>
+          <input id="sok-kommun" type="text" readonly="readonly" class="multiSelect" value="" style="cursor: default;"  tabindex="3" autocomplete="off" />
+          <div class="multiSelectOptions" style="position: absolute; z-index: 99999; display: none;">
+            
+<label class="selectAll" for="sok-kommun-kommuner-alla">
+  <input id="sok-kommun-kommuner-alla" type="checkbox" name="sok[kommun][]" value="-1" class="selectAll" checked="checked" />
+  Alla kommuner
+</label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1440">
+      <input id="sok-kommun-kommuner-1440" type="checkbox" name="sok[kommun][]"  value="1440" />
+            Ale
+      (89)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1489">
+      <input id="sok-kommun-kommuner-1489" type="checkbox" name="sok[kommun][]"  value="1489" />
+            Alingsås
+      (143)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-764">
+      <input id="sok-kommun-kommuner-764" type="checkbox" name="sok[kommun][]"  value="764" />
+            Alvesta
+      (69)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-604">
+      <input id="sok-kommun-kommuner-604" type="checkbox" name="sok[kommun][]"  value="604" />
+            Aneby
+      (27)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1984">
+      <input id="sok-kommun-kommuner-1984" type="checkbox" name="sok[kommun][]"  value="1984" />
+            Arboga
+      (43)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2506">
+      <input id="sok-kommun-kommuner-2506" type="checkbox" name="sok[kommun][]"  value="2506" />
+            Arjeplog
+      (11)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2505">
+      <input id="sok-kommun-kommuner-2505" type="checkbox" name="sok[kommun][]"  value="2505" />
+            Arvidsjaur
+      (19)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1784">
+      <input id="sok-kommun-kommuner-1784" type="checkbox" name="sok[kommun][]"  value="1784" />
+            Arvika
+      (106)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1882">
+      <input id="sok-kommun-kommuner-1882" type="checkbox" name="sok[kommun][]"  value="1882" />
+            Askersund
+      (115)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2084">
+      <input id="sok-kommun-kommuner-2084" type="checkbox" name="sok[kommun][]"  value="2084" />
+            Avesta
+      (67)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1460">
+      <input id="sok-kommun-kommuner-1460" type="checkbox" name="sok[kommun][]"  value="1460" />
+            Bengtsfors
+      (59)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2326">
+      <input id="sok-kommun-kommuner-2326" type="checkbox" name="sok[kommun][]"  value="2326" />
+            Berg
+      (35)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2403">
+      <input id="sok-kommun-kommuner-2403" type="checkbox" name="sok[kommun][]"  value="2403" />
+            Bjurholm
+      (6)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1260">
+      <input id="sok-kommun-kommuner-1260" type="checkbox" name="sok[kommun][]"  value="1260" />
+            Bjuv
+      (65)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2582">
+      <input id="sok-kommun-kommuner-2582" type="checkbox" name="sok[kommun][]"  value="2582" />
+            Boden
+      (125)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1443">
+      <input id="sok-kommun-kommuner-1443" type="checkbox" name="sok[kommun][]"  value="1443" />
+            Bollebygd
+      (41)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2183">
+      <input id="sok-kommun-kommuner-2183" type="checkbox" name="sok[kommun][]"  value="2183" />
+            Bollnäs
+      (114)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-885">
+      <input id="sok-kommun-kommuner-885" type="checkbox" name="sok[kommun][]"  value="885" />
+            Borgholm
+      (207)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2081">
+      <input id="sok-kommun-kommuner-2081" type="checkbox" name="sok[kommun][]"  value="2081" />
+            Borlänge
+      (104)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1490">
+      <input id="sok-kommun-kommuner-1490" type="checkbox" name="sok[kommun][]"  value="1490" />
+            Borås
+      (292)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-127">
+      <input id="sok-kommun-kommuner-127" type="checkbox" name="sok[kommun][]"  value="127" />
+            Botkyrka
+      (211)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-560">
+      <input id="sok-kommun-kommuner-560" type="checkbox" name="sok[kommun][]"  value="560" />
+            Boxholm
+      (41)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1272">
+      <input id="sok-kommun-kommuner-1272" type="checkbox" name="sok[kommun][]"  value="1272" />
+            Bromölla
+      (60)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2305">
+      <input id="sok-kommun-kommuner-2305" type="checkbox" name="sok[kommun][]"  value="2305" />
+            Bräcke
+      (21)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1231">
+      <input id="sok-kommun-kommuner-1231" type="checkbox" name="sok[kommun][]"  value="1231" />
+            Burlöv
+      (71)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1278">
+      <input id="sok-kommun-kommuner-1278" type="checkbox" name="sok[kommun][]"  value="1278" />
+            Båstad
+      (293)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1438">
+      <input id="sok-kommun-kommuner-1438" type="checkbox" name="sok[kommun][]"  value="1438" />
+            Dals-Ed
+      (19)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-162">
+      <input id="sok-kommun-kommuner-162" type="checkbox" name="sok[kommun][]"  value="162" />
+            Danderyd
+      (134)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1862">
+      <input id="sok-kommun-kommuner-1862" type="checkbox" name="sok[kommun][]"  value="1862" />
+            Degerfors
+      (47)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2425">
+      <input id="sok-kommun-kommuner-2425" type="checkbox" name="sok[kommun][]"  value="2425" />
+            Dorotea
+      (4)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1730">
+      <input id="sok-kommun-kommuner-1730" type="checkbox" name="sok[kommun][]"  value="1730" />
+            Eda
+      (53)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-125">
+      <input id="sok-kommun-kommuner-125" type="checkbox" name="sok[kommun][]"  value="125" />
+            Ekerö
+      (157)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-686">
+      <input id="sok-kommun-kommuner-686" type="checkbox" name="sok[kommun][]"  value="686" />
+            Eksjö
+      (53)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-862">
+      <input id="sok-kommun-kommuner-862" type="checkbox" name="sok[kommun][]"  value="862" />
+            Emmaboda
+      (36)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-381">
+      <input id="sok-kommun-kommuner-381" type="checkbox" name="sok[kommun][]"  value="381" />
+            Enköping
+      (223)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-484">
+      <input id="sok-kommun-kommuner-484" type="checkbox" name="sok[kommun][]"  value="484" />
+            Eskilstuna
+      (313)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1285">
+      <input id="sok-kommun-kommuner-1285" type="checkbox" name="sok[kommun][]"  value="1285" />
+            Eslöv
+      (127)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1445">
+      <input id="sok-kommun-kommuner-1445" type="checkbox" name="sok[kommun][]"  value="1445" />
+            Essunga
+      (7)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1982">
+      <input id="sok-kommun-kommuner-1982" type="checkbox" name="sok[kommun][]"  value="1982" />
+            Fagersta
+      (40)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1382">
+      <input id="sok-kommun-kommuner-1382" type="checkbox" name="sok[kommun][]"  value="1382" />
+            Falkenberg
+      (185)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1499">
+      <input id="sok-kommun-kommuner-1499" type="checkbox" name="sok[kommun][]"  value="1499" />
+            Falköping
+      (87)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2080">
+      <input id="sok-kommun-kommuner-2080" type="checkbox" name="sok[kommun][]"  value="2080" />
+            Falun
+      (130)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1782">
+      <input id="sok-kommun-kommuner-1782" type="checkbox" name="sok[kommun][]"  value="1782" />
+            Filipstad
+      (73)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-562">
+      <input id="sok-kommun-kommuner-562" type="checkbox" name="sok[kommun][]"  value="562" />
+            Finspång
+      (59)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-482">
+      <input id="sok-kommun-kommuner-482" type="checkbox" name="sok[kommun][]"  value="482" />
+            Flen
+      (109)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1763">
+      <input id="sok-kommun-kommuner-1763" type="checkbox" name="sok[kommun][]"  value="1763" />
+            Forshaga
+      (46)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1439">
+      <input id="sok-kommun-kommuner-1439" type="checkbox" name="sok[kommun][]"  value="1439" />
+            Färgelanda
+      (27)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2026">
+      <input id="sok-kommun-kommuner-2026" type="checkbox" name="sok[kommun][]"  value="2026" />
+            Gagnef
+      (61)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-662">
+      <input id="sok-kommun-kommuner-662" type="checkbox" name="sok[kommun][]"  value="662" />
+            Gislaved
+      (106)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-461">
+      <input id="sok-kommun-kommuner-461" type="checkbox" name="sok[kommun][]"  value="461" />
+            Gnesta
+      (92)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-617">
+      <input id="sok-kommun-kommuner-617" type="checkbox" name="sok[kommun][]"  value="617" />
+            Gnosjö
+      (34)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-980">
+      <input id="sok-kommun-kommuner-980" type="checkbox" name="sok[kommun][]"  value="980" />
+            Gotland
+      (379)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1764">
+      <input id="sok-kommun-kommuner-1764" type="checkbox" name="sok[kommun][]"  value="1764" />
+            Grums
+      (40)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1444">
+      <input id="sok-kommun-kommuner-1444" type="checkbox" name="sok[kommun][]"  value="1444" />
+            Grästorp
+      (12)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1447">
+      <input id="sok-kommun-kommuner-1447" type="checkbox" name="sok[kommun][]"  value="1447" />
+            Gullspång
+      (57)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2523">
+      <input id="sok-kommun-kommuner-2523" type="checkbox" name="sok[kommun][]"  value="2523" />
+            Gällivare
+      (12)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2180">
+      <input id="sok-kommun-kommuner-2180" type="checkbox" name="sok[kommun][]"  value="2180" />
+            Gävle
+      (299)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1480">
+      <input id="sok-kommun-kommuner-1480" type="checkbox" name="sok[kommun][]"  value="1480" />
+            Göteborg
+      (1257)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10029">
+      <input id="sok-kommun-kommuner-10029" type="checkbox" name="sok[kommun][]"  value="10029" />
+      -      Hisingen
+      (358)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10030">
+      <input id="sok-kommun-kommuner-10030" type="checkbox" name="sok[kommun][]"  value="10030" />
+      -      Innerstaden
+      (208)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10031">
+      <input id="sok-kommun-kommuner-10031" type="checkbox" name="sok[kommun][]"  value="10031" />
+      -      Västra Centrum
+      (104)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10032">
+      <input id="sok-kommun-kommuner-10032" type="checkbox" name="sok[kommun][]"  value="10032" />
+      -      Västra Göteborg
+      (251)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10033">
+      <input id="sok-kommun-kommuner-10033" type="checkbox" name="sok[kommun][]"  value="10033" />
+      -      Östra Centrum
+      (169)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10034">
+      <input id="sok-kommun-kommuner-10034" type="checkbox" name="sok[kommun][]"  value="10034" />
+      -      Östra Göteborg
+      (200)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1471">
+      <input id="sok-kommun-kommuner-1471" type="checkbox" name="sok[kommun][]"  value="1471" />
+            Götene
+      (75)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-643">
+      <input id="sok-kommun-kommuner-643" type="checkbox" name="sok[kommun][]"  value="643" />
+            Habo
+      (37)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1783">
+      <input id="sok-kommun-kommuner-1783" type="checkbox" name="sok[kommun][]"  value="1783" />
+            Hagfors
+      (144)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1861">
+      <input id="sok-kommun-kommuner-1861" type="checkbox" name="sok[kommun][]"  value="1861" />
+            Hallsberg
+      (75)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1961">
+      <input id="sok-kommun-kommuner-1961" type="checkbox" name="sok[kommun][]"  value="1961" />
+            Hallstahammar
+      (54)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1380">
+      <input id="sok-kommun-kommuner-1380" type="checkbox" name="sok[kommun][]"  value="1380" />
+            Halmstad
+      (288)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1761">
+      <input id="sok-kommun-kommuner-1761" type="checkbox" name="sok[kommun][]"  value="1761" />
+            Hammarö
+      (30)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-136">
+      <input id="sok-kommun-kommuner-136" type="checkbox" name="sok[kommun][]"  value="136" />
+            Haninge
+      (285)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2583">
+      <input id="sok-kommun-kommuner-2583" type="checkbox" name="sok[kommun][]"  value="2583" />
+            Haparanda
+      (84)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-331">
+      <input id="sok-kommun-kommuner-331" type="checkbox" name="sok[kommun][]"  value="331" />
+            Heby
+      (107)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2083">
+      <input id="sok-kommun-kommuner-2083" type="checkbox" name="sok[kommun][]"  value="2083" />
+            Hedemora
+      (52)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1283">
+      <input id="sok-kommun-kommuner-1283" type="checkbox" name="sok[kommun][]"  value="1283" />
+            Helsingborg
+      (547)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1466">
+      <input id="sok-kommun-kommuner-1466" type="checkbox" name="sok[kommun][]"  value="1466" />
+            Herrljunga
+      (45)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1497">
+      <input id="sok-kommun-kommuner-1497" type="checkbox" name="sok[kommun][]"  value="1497" />
+            Hjo
+      (37)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2104">
+      <input id="sok-kommun-kommuner-2104" type="checkbox" name="sok[kommun][]"  value="2104" />
+            Hofors
+      (57)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-126">
+      <input id="sok-kommun-kommuner-126" type="checkbox" name="sok[kommun][]"  value="126" />
+            Huddinge
+      (273)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2184">
+      <input id="sok-kommun-kommuner-2184" type="checkbox" name="sok[kommun][]"  value="2184" />
+            Hudiksvall
+      (132)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-860">
+      <input id="sok-kommun-kommuner-860" type="checkbox" name="sok[kommun][]"  value="860" />
+            Hultsfred
+      (86)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1315">
+      <input id="sok-kommun-kommuner-1315" type="checkbox" name="sok[kommun][]"  value="1315" />
+            Hylte
+      (79)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1863">
+      <input id="sok-kommun-kommuner-1863" type="checkbox" name="sok[kommun][]"  value="1863" />
+            Hällefors
+      (53)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2361">
+      <input id="sok-kommun-kommuner-2361" type="checkbox" name="sok[kommun][]"  value="2361" />
+            Härjedalen
+      (202)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2280">
+      <input id="sok-kommun-kommuner-2280" type="checkbox" name="sok[kommun][]"  value="2280" />
+            Härnösand
+      (83)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1401">
+      <input id="sok-kommun-kommuner-1401" type="checkbox" name="sok[kommun][]"  value="1401" />
+            Härryda
+      (139)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1293">
+      <input id="sok-kommun-kommuner-1293" type="checkbox" name="sok[kommun][]"  value="1293" />
+            Hässleholm
+      (216)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-305">
+      <input id="sok-kommun-kommuner-305" type="checkbox" name="sok[kommun][]"  value="305" />
+            Håbo
+      (124)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1284">
+      <input id="sok-kommun-kommuner-1284" type="checkbox" name="sok[kommun][]"  value="1284" />
+            Höganäs
+      (170)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-821">
+      <input id="sok-kommun-kommuner-821" type="checkbox" name="sok[kommun][]"  value="821" />
+            Högsby
+      (48)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1266">
+      <input id="sok-kommun-kommuner-1266" type="checkbox" name="sok[kommun][]"  value="1266" />
+            Hörby
+      (100)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1267">
+      <input id="sok-kommun-kommuner-1267" type="checkbox" name="sok[kommun][]"  value="1267" />
+            Höör
+      (129)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2510">
+      <input id="sok-kommun-kommuner-2510" type="checkbox" name="sok[kommun][]"  value="2510" />
+            Jokkmokk
+      (5)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-123">
+      <input id="sok-kommun-kommuner-123" type="checkbox" name="sok[kommun][]"  value="123" />
+            Järfälla
+      (223)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-680">
+      <input id="sok-kommun-kommuner-680" type="checkbox" name="sok[kommun][]"  value="680" />
+            Jönköping
+      (346)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2514">
+      <input id="sok-kommun-kommuner-2514" type="checkbox" name="sok[kommun][]"  value="2514" />
+            Kalix
+      (141)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-880">
+      <input id="sok-kommun-kommuner-880" type="checkbox" name="sok[kommun][]"  value="880" />
+            Kalmar
+      (167)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1446">
+      <input id="sok-kommun-kommuner-1446" type="checkbox" name="sok[kommun][]"  value="1446" />
+            Karlsborg
+      (31)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1082">
+      <input id="sok-kommun-kommuner-1082" type="checkbox" name="sok[kommun][]"  value="1082" />
+            Karlshamn
+      (137)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1883">
+      <input id="sok-kommun-kommuner-1883" type="checkbox" name="sok[kommun][]"  value="1883" />
+            Karlskoga
+      (104)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1080">
+      <input id="sok-kommun-kommuner-1080" type="checkbox" name="sok[kommun][]"  value="1080" />
+            Karlskrona
+      (334)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1780">
+      <input id="sok-kommun-kommuner-1780" type="checkbox" name="sok[kommun][]"  value="1780" />
+            Karlstad
+      (252)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-483">
+      <input id="sok-kommun-kommuner-483" type="checkbox" name="sok[kommun][]"  value="483" />
+            Katrineholm
+      (130)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1715">
+      <input id="sok-kommun-kommuner-1715" type="checkbox" name="sok[kommun][]"  value="1715" />
+            Kil
+      (55)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-513">
+      <input id="sok-kommun-kommuner-513" type="checkbox" name="sok[kommun][]"  value="513" />
+            Kinda
+      (31)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2584">
+      <input id="sok-kommun-kommuner-2584" type="checkbox" name="sok[kommun][]"  value="2584" />
+            Kiruna
+      (23)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1276">
+      <input id="sok-kommun-kommuner-1276" type="checkbox" name="sok[kommun][]"  value="1276" />
+            Klippan
+      (98)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-330">
+      <input id="sok-kommun-kommuner-330" type="checkbox" name="sok[kommun][]"  value="330" />
+            Knivsta
+      (88)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2282">
+      <input id="sok-kommun-kommuner-2282" type="checkbox" name="sok[kommun][]"  value="2282" />
+            Kramfors
+      (140)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1290">
+      <input id="sok-kommun-kommuner-1290" type="checkbox" name="sok[kommun][]"  value="1290" />
+            Kristianstad
+      (251)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1781">
+      <input id="sok-kommun-kommuner-1781" type="checkbox" name="sok[kommun][]"  value="1781" />
+            Kristinehamn
+      (92)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2309">
+      <input id="sok-kommun-kommuner-2309" type="checkbox" name="sok[kommun][]"  value="2309" />
+            Krokom
+      (38)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1881">
+      <input id="sok-kommun-kommuner-1881" type="checkbox" name="sok[kommun][]"  value="1881" />
+            Kumla
+      (51)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1384">
+      <input id="sok-kommun-kommuner-1384" type="checkbox" name="sok[kommun][]"  value="1384" />
+            Kungsbacka
+      (333)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1960">
+      <input id="sok-kommun-kommuner-1960" type="checkbox" name="sok[kommun][]"  value="1960" />
+            Kungsör
+      (25)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1482">
+      <input id="sok-kommun-kommuner-1482" type="checkbox" name="sok[kommun][]"  value="1482" />
+            Kungälv
+      (158)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1261">
+      <input id="sok-kommun-kommuner-1261" type="checkbox" name="sok[kommun][]"  value="1261" />
+            Kävlinge
+      (114)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1983">
+      <input id="sok-kommun-kommuner-1983" type="checkbox" name="sok[kommun][]"  value="1983" />
+            Köping
+      (85)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1381">
+      <input id="sok-kommun-kommuner-1381" type="checkbox" name="sok[kommun][]"  value="1381" />
+            Laholm
+      (177)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1282">
+      <input id="sok-kommun-kommuner-1282" type="checkbox" name="sok[kommun][]"  value="1282" />
+            Landskrona
+      (213)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1860">
+      <input id="sok-kommun-kommuner-1860" type="checkbox" name="sok[kommun][]"  value="1860" />
+            Laxå
+      (65)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1814">
+      <input id="sok-kommun-kommuner-1814" type="checkbox" name="sok[kommun][]"  value="1814" />
+            Lekeberg
+      (32)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2029">
+      <input id="sok-kommun-kommuner-2029" type="checkbox" name="sok[kommun][]"  value="2029" />
+            Leksand
+      (118)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1441">
+      <input id="sok-kommun-kommuner-1441" type="checkbox" name="sok[kommun][]"  value="1441" />
+            Lerum
+      (151)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-761">
+      <input id="sok-kommun-kommuner-761" type="checkbox" name="sok[kommun][]"  value="761" />
+            Lessebo
+      (29)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-186">
+      <input id="sok-kommun-kommuner-186" type="checkbox" name="sok[kommun][]"  value="186" />
+            Lidingö
+      (130)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1494">
+      <input id="sok-kommun-kommuner-1494" type="checkbox" name="sok[kommun][]"  value="1494" />
+            Lidköping
+      (100)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1462">
+      <input id="sok-kommun-kommuner-1462" type="checkbox" name="sok[kommun][]"  value="1462" />
+            Lilla Edet
+      (73)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1885">
+      <input id="sok-kommun-kommuner-1885" type="checkbox" name="sok[kommun][]"  value="1885" />
+            Lindesberg
+      (153)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-580">
+      <input id="sok-kommun-kommuner-580" type="checkbox" name="sok[kommun][]"  value="580" />
+            Linköping
+      (353)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-781">
+      <input id="sok-kommun-kommuner-781" type="checkbox" name="sok[kommun][]"  value="781" />
+            Ljungby
+      (142)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2161">
+      <input id="sok-kommun-kommuner-2161" type="checkbox" name="sok[kommun][]"  value="2161" />
+            Ljusdal
+      (112)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1864">
+      <input id="sok-kommun-kommuner-1864" type="checkbox" name="sok[kommun][]"  value="1864" />
+            Ljusnarsberg
+      (67)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1262">
+      <input id="sok-kommun-kommuner-1262" type="checkbox" name="sok[kommun][]"  value="1262" />
+            Lomma
+      (103)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2085">
+      <input id="sok-kommun-kommuner-2085" type="checkbox" name="sok[kommun][]"  value="2085" />
+            Ludvika
+      (114)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2580">
+      <input id="sok-kommun-kommuner-2580" type="checkbox" name="sok[kommun][]"  value="2580" />
+            Luleå
+      (181)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1281">
+      <input id="sok-kommun-kommuner-1281" type="checkbox" name="sok[kommun][]"  value="1281" />
+            Lund
+      (335)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2481">
+      <input id="sok-kommun-kommuner-2481" type="checkbox" name="sok[kommun][]"  value="2481" />
+            Lycksele
+      (20)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1484">
+      <input id="sok-kommun-kommuner-1484" type="checkbox" name="sok[kommun][]"  value="1484" />
+            Lysekil
+      (81)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1280">
+      <input id="sok-kommun-kommuner-1280" type="checkbox" name="sok[kommun][]"  value="1280" />
+            Malmö
+      (1632)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2023">
+      <input id="sok-kommun-kommuner-2023" type="checkbox" name="sok[kommun][]"  value="2023" />
+            Malung
+      (135)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2418">
+      <input id="sok-kommun-kommuner-2418" type="checkbox" name="sok[kommun][]"  value="2418" />
+            Malå
+      (8)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1493">
+      <input id="sok-kommun-kommuner-1493" type="checkbox" name="sok[kommun][]"  value="1493" />
+            Mariestad
+      (104)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1463">
+      <input id="sok-kommun-kommuner-1463" type="checkbox" name="sok[kommun][]"  value="1463" />
+            Mark
+      (129)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-767">
+      <input id="sok-kommun-kommuner-767" type="checkbox" name="sok[kommun][]"  value="767" />
+            Markaryd
+      (71)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1461">
+      <input id="sok-kommun-kommuner-1461" type="checkbox" name="sok[kommun][]"  value="1461" />
+            Mellerud
+      (89)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-586">
+      <input id="sok-kommun-kommuner-586" type="checkbox" name="sok[kommun][]"  value="586" />
+            Mjölby
+      (65)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2062">
+      <input id="sok-kommun-kommuner-2062" type="checkbox" name="sok[kommun][]"  value="2062" />
+            Mora
+      (102)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-583">
+      <input id="sok-kommun-kommuner-583" type="checkbox" name="sok[kommun][]"  value="583" />
+            Motala
+      (154)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-642">
+      <input id="sok-kommun-kommuner-642" type="checkbox" name="sok[kommun][]"  value="642" />
+            Mullsjö
+      (17)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1430">
+      <input id="sok-kommun-kommuner-1430" type="checkbox" name="sok[kommun][]"  value="1430" />
+            Munkedal
+      (50)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1762">
+      <input id="sok-kommun-kommuner-1762" type="checkbox" name="sok[kommun][]"  value="1762" />
+            Munkfors
+      (36)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1481">
+      <input id="sok-kommun-kommuner-1481" type="checkbox" name="sok[kommun][]"  value="1481" />
+            Mölndal
+      (149)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-861">
+      <input id="sok-kommun-kommuner-861" type="checkbox" name="sok[kommun][]"  value="861" />
+            Mönsterås
+      (97)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-840">
+      <input id="sok-kommun-kommuner-840" type="checkbox" name="sok[kommun][]"  value="840" />
+            Mörbylånga
+      (108)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-182">
+      <input id="sok-kommun-kommuner-182" type="checkbox" name="sok[kommun][]"  value="182" />
+            Nacka
+      (352)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1884">
+      <input id="sok-kommun-kommuner-1884" type="checkbox" name="sok[kommun][]"  value="1884" />
+            Nora
+      (93)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1962">
+      <input id="sok-kommun-kommuner-1962" type="checkbox" name="sok[kommun][]"  value="1962" />
+            Norberg
+      (18)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2132">
+      <input id="sok-kommun-kommuner-2132" type="checkbox" name="sok[kommun][]"  value="2132" />
+            Nordanstig
+      (93)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2401">
+      <input id="sok-kommun-kommuner-2401" type="checkbox" name="sok[kommun][]"  value="2401" />
+            Nordmaling
+      (41)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-581">
+      <input id="sok-kommun-kommuner-581" type="checkbox" name="sok[kommun][]"  value="581" />
+            Norrköping
+      (436)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-188">
+      <input id="sok-kommun-kommuner-188" type="checkbox" name="sok[kommun][]"  value="188" />
+            Norrtälje
+      (564)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2417">
+      <input id="sok-kommun-kommuner-2417" type="checkbox" name="sok[kommun][]"  value="2417" />
+            Norsjö
+      (7)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-881">
+      <input id="sok-kommun-kommuner-881" type="checkbox" name="sok[kommun][]"  value="881" />
+            Nybro
+      (79)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-140">
+      <input id="sok-kommun-kommuner-140" type="checkbox" name="sok[kommun][]"  value="140" />
+            Nykvarn
+      (60)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-480">
+      <input id="sok-kommun-kommuner-480" type="checkbox" name="sok[kommun][]"  value="480" />
+            Nyköping
+      (267)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-192">
+      <input id="sok-kommun-kommuner-192" type="checkbox" name="sok[kommun][]"  value="192" />
+            Nynäshamn
+      (165)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-682">
+      <input id="sok-kommun-kommuner-682" type="checkbox" name="sok[kommun][]"  value="682" />
+            Nässjö
+      (104)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2101">
+      <input id="sok-kommun-kommuner-2101" type="checkbox" name="sok[kommun][]"  value="2101" />
+            Ockelbo
+      (41)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1060">
+      <input id="sok-kommun-kommuner-1060" type="checkbox" name="sok[kommun][]"  value="1060" />
+            Olofström
+      (109)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2034">
+      <input id="sok-kommun-kommuner-2034" type="checkbox" name="sok[kommun][]"  value="2034" />
+            Orsa
+      (59)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1421">
+      <input id="sok-kommun-kommuner-1421" type="checkbox" name="sok[kommun][]"  value="1421" />
+            Orust
+      (147)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1273">
+      <input id="sok-kommun-kommuner-1273" type="checkbox" name="sok[kommun][]"  value="1273" />
+            Osby
+      (70)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-882">
+      <input id="sok-kommun-kommuner-882" type="checkbox" name="sok[kommun][]"  value="882" />
+            Oskarshamn
+      (88)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2121">
+      <input id="sok-kommun-kommuner-2121" type="checkbox" name="sok[kommun][]"  value="2121" />
+            Ovanåker
+      (49)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-481">
+      <input id="sok-kommun-kommuner-481" type="checkbox" name="sok[kommun][]"  value="481" />
+            Oxelösund
+      (36)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2521">
+      <input id="sok-kommun-kommuner-2521" type="checkbox" name="sok[kommun][]"  value="2521" />
+            Pajala
+      (7)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1402">
+      <input id="sok-kommun-kommuner-1402" type="checkbox" name="sok[kommun][]"  value="1402" />
+            Partille
+      (65)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1275">
+      <input id="sok-kommun-kommuner-1275" type="checkbox" name="sok[kommun][]"  value="1275" />
+            Perstorp
+      (28)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2581">
+      <input id="sok-kommun-kommuner-2581" type="checkbox" name="sok[kommun][]"  value="2581" />
+            Piteå
+      (179)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2303">
+      <input id="sok-kommun-kommuner-2303" type="checkbox" name="sok[kommun][]"  value="2303" />
+            Ragunda
+      (14)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2409">
+      <input id="sok-kommun-kommuner-2409" type="checkbox" name="sok[kommun][]"  value="2409" />
+            Robertsfors
+      (33)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1081">
+      <input id="sok-kommun-kommuner-1081" type="checkbox" name="sok[kommun][]"  value="1081" />
+            Ronneby
+      (172)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2031">
+      <input id="sok-kommun-kommuner-2031" type="checkbox" name="sok[kommun][]"  value="2031" />
+            Rättvik
+      (76)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1981">
+      <input id="sok-kommun-kommuner-1981" type="checkbox" name="sok[kommun][]"  value="1981" />
+            Sala
+      (66)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-128">
+      <input id="sok-kommun-kommuner-128" type="checkbox" name="sok[kommun][]"  value="128" />
+            Salem
+      (49)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2181">
+      <input id="sok-kommun-kommuner-2181" type="checkbox" name="sok[kommun][]"  value="2181" />
+            Sandviken
+      (177)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-191">
+      <input id="sok-kommun-kommuner-191" type="checkbox" name="sok[kommun][]"  value="191" />
+            Sigtuna
+      (178)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1291">
+      <input id="sok-kommun-kommuner-1291" type="checkbox" name="sok[kommun][]"  value="1291" />
+            Simrishamn
+      (285)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1265">
+      <input id="sok-kommun-kommuner-1265" type="checkbox" name="sok[kommun][]"  value="1265" />
+            Sjöbo
+      (183)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1495">
+      <input id="sok-kommun-kommuner-1495" type="checkbox" name="sok[kommun][]"  value="1495" />
+            Skara
+      (60)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2482">
+      <input id="sok-kommun-kommuner-2482" type="checkbox" name="sok[kommun][]"  value="2482" />
+            Skellefteå
+      (239)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1904">
+      <input id="sok-kommun-kommuner-1904" type="checkbox" name="sok[kommun][]"  value="1904" />
+            Skinnskatteberg
+      (28)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1264">
+      <input id="sok-kommun-kommuner-1264" type="checkbox" name="sok[kommun][]"  value="1264" />
+            Skurup
+      (111)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1496">
+      <input id="sok-kommun-kommuner-1496" type="checkbox" name="sok[kommun][]"  value="1496" />
+            Skövde
+      (163)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2061">
+      <input id="sok-kommun-kommuner-2061" type="checkbox" name="sok[kommun][]"  value="2061" />
+            Smedjebacken
+      (58)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2283">
+      <input id="sok-kommun-kommuner-2283" type="checkbox" name="sok[kommun][]"  value="2283" />
+            Sollefteå
+      (39)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-163">
+      <input id="sok-kommun-kommuner-163" type="checkbox" name="sok[kommun][]"  value="163" />
+            Sollentuna
+      (234)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-184">
+      <input id="sok-kommun-kommuner-184" type="checkbox" name="sok[kommun][]"  value="184" />
+            Solna
+      (317)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2422">
+      <input id="sok-kommun-kommuner-2422" type="checkbox" name="sok[kommun][]"  value="2422" />
+            Sorsele
+      (8)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1427">
+      <input id="sok-kommun-kommuner-1427" type="checkbox" name="sok[kommun][]"  value="1427" />
+            Sotenäs
+      (133)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1230">
+      <input id="sok-kommun-kommuner-1230" type="checkbox" name="sok[kommun][]"  value="1230" />
+            Staffanstorp
+      (77)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1415">
+      <input id="sok-kommun-kommuner-1415" type="checkbox" name="sok[kommun][]"  value="1415" />
+            Stenungsund
+      (114)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-180">
+      <input id="sok-kommun-kommuner-180" type="checkbox" name="sok[kommun][]"  value="180" />
+            Stockholm
+      (3377)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10001">
+      <input id="sok-kommun-kommuner-10001" type="checkbox" name="sok[kommun][]"  value="10001" />
+      -      Bromma
+      (488)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10002">
+      <input id="sok-kommun-kommuner-10002" type="checkbox" name="sok[kommun][]"  value="10002" />
+      -      Enskede/Årsta/Skarpnäck
+      (365)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10003">
+      <input id="sok-kommun-kommuner-10003" type="checkbox" name="sok[kommun][]"  value="10003" />
+      -      Hägersten/Liljeholmen
+      (364)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10004">
+      <input id="sok-kommun-kommuner-10004" type="checkbox" name="sok[kommun][]"  value="10004" />
+      -      Katarina/Sofia
+      (345)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10005">
+      <input id="sok-kommun-kommuner-10005" type="checkbox" name="sok[kommun][]"  value="10005" />
+      -      Kista/Hässelby/Vällingby/Spånga
+      (498)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10006">
+      <input id="sok-kommun-kommuner-10006" type="checkbox" name="sok[kommun][]"  value="10006" />
+      -      Kungsholmen
+      (395)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10007">
+      <input id="sok-kommun-kommuner-10007" type="checkbox" name="sok[kommun][]"  value="10007" />
+      -      Maria/Gamla Stan/Högalid
+      (250)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10008">
+      <input id="sok-kommun-kommuner-10008" type="checkbox" name="sok[kommun][]"  value="10008" />
+      -      Skärholmen/Bredäng
+      (45)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10009">
+      <input id="sok-kommun-kommuner-10009" type="checkbox" name="sok[kommun][]"  value="10009" />
+      -      Vasastan/Norrmalm
+      (419)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10010">
+      <input id="sok-kommun-kommuner-10010" type="checkbox" name="sok[kommun][]"  value="10010" />
+      -      Älvsjö/Farsta/Vantör
+      (397)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-10011">
+      <input id="sok-kommun-kommuner-10011" type="checkbox" name="sok[kommun][]"  value="10011" />
+      -      Östermalm/Djurgården
+      (449)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1760">
+      <input id="sok-kommun-kommuner-1760" type="checkbox" name="sok[kommun][]"  value="1760" />
+            Storfors
+      (35)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2421">
+      <input id="sok-kommun-kommuner-2421" type="checkbox" name="sok[kommun][]"  value="2421" />
+            Storuman
+      (41)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-486">
+      <input id="sok-kommun-kommuner-486" type="checkbox" name="sok[kommun][]"  value="486" />
+            Strängnäs
+      (293)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1486">
+      <input id="sok-kommun-kommuner-1486" type="checkbox" name="sok[kommun][]"  value="1486" />
+            Strömstad
+      (125)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2313">
+      <input id="sok-kommun-kommuner-2313" type="checkbox" name="sok[kommun][]"  value="2313" />
+            Strömsund
+      (16)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-183">
+      <input id="sok-kommun-kommuner-183" type="checkbox" name="sok[kommun][]"  value="183" />
+            Sundbyberg
+      (187)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2281">
+      <input id="sok-kommun-kommuner-2281" type="checkbox" name="sok[kommun][]"  value="2281" />
+            Sundsvall
+      (386)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1766">
+      <input id="sok-kommun-kommuner-1766" type="checkbox" name="sok[kommun][]"  value="1766" />
+            Sunne
+      (63)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1907">
+      <input id="sok-kommun-kommuner-1907" type="checkbox" name="sok[kommun][]"  value="1907" />
+            Surahammar
+      (43)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1214">
+      <input id="sok-kommun-kommuner-1214" type="checkbox" name="sok[kommun][]"  value="1214" />
+            Svalöv
+      (85)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1263">
+      <input id="sok-kommun-kommuner-1263" type="checkbox" name="sok[kommun][]"  value="1263" />
+            Svedala
+      (64)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1465">
+      <input id="sok-kommun-kommuner-1465" type="checkbox" name="sok[kommun][]"  value="1465" />
+            Svenljunga
+      (47)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1785">
+      <input id="sok-kommun-kommuner-1785" type="checkbox" name="sok[kommun][]"  value="1785" />
+            Säffle
+      (91)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2082">
+      <input id="sok-kommun-kommuner-2082" type="checkbox" name="sok[kommun][]"  value="2082" />
+            Säter
+      (38)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-684">
+      <input id="sok-kommun-kommuner-684" type="checkbox" name="sok[kommun][]"  value="684" />
+            Sävsjö
+      (62)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2182">
+      <input id="sok-kommun-kommuner-2182" type="checkbox" name="sok[kommun][]"  value="2182" />
+            Söderhamn
+      (173)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-582">
+      <input id="sok-kommun-kommuner-582" type="checkbox" name="sok[kommun][]"  value="582" />
+            Söderköping
+      (63)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-181">
+      <input id="sok-kommun-kommuner-181" type="checkbox" name="sok[kommun][]"  value="181" />
+            Södertälje
+      (298)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1083">
+      <input id="sok-kommun-kommuner-1083" type="checkbox" name="sok[kommun][]"  value="1083" />
+            Sölvesborg
+      (111)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1435">
+      <input id="sok-kommun-kommuner-1435" type="checkbox" name="sok[kommun][]"  value="1435" />
+            Tanum
+      (174)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1472">
+      <input id="sok-kommun-kommuner-1472" type="checkbox" name="sok[kommun][]"  value="1472" />
+            Tibro
+      (58)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1498">
+      <input id="sok-kommun-kommuner-1498" type="checkbox" name="sok[kommun][]"  value="1498" />
+            Tidaholm
+      (34)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-360">
+      <input id="sok-kommun-kommuner-360" type="checkbox" name="sok[kommun][]"  value="360" />
+            Tierp
+      (139)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2262">
+      <input id="sok-kommun-kommuner-2262" type="checkbox" name="sok[kommun][]"  value="2262" />
+            Timrå
+      (46)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-763">
+      <input id="sok-kommun-kommuner-763" type="checkbox" name="sok[kommun][]"  value="763" />
+            Tingsryd
+      (101)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1419">
+      <input id="sok-kommun-kommuner-1419" type="checkbox" name="sok[kommun][]"  value="1419" />
+            Tjörn
+      (112)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1270">
+      <input id="sok-kommun-kommuner-1270" type="checkbox" name="sok[kommun][]"  value="1270" />
+            Tomelilla
+      (91)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1737">
+      <input id="sok-kommun-kommuner-1737" type="checkbox" name="sok[kommun][]"  value="1737" />
+            Torsby
+      (110)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-834">
+      <input id="sok-kommun-kommuner-834" type="checkbox" name="sok[kommun][]"  value="834" />
+            Torsås
+      (57)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1452">
+      <input id="sok-kommun-kommuner-1452" type="checkbox" name="sok[kommun][]"  value="1452" />
+            Tranemo
+      (47)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-687">
+      <input id="sok-kommun-kommuner-687" type="checkbox" name="sok[kommun][]"  value="687" />
+            Tranås
+      (57)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1287">
+      <input id="sok-kommun-kommuner-1287" type="checkbox" name="sok[kommun][]"  value="1287" />
+            Trelleborg
+      (281)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1488">
+      <input id="sok-kommun-kommuner-1488" type="checkbox" name="sok[kommun][]"  value="1488" />
+            Trollhättan
+      (167)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-488">
+      <input id="sok-kommun-kommuner-488" type="checkbox" name="sok[kommun][]"  value="488" />
+            Trosa
+      (74)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-138">
+      <input id="sok-kommun-kommuner-138" type="checkbox" name="sok[kommun][]"  value="138" />
+            Tyresö
+      (160)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-160">
+      <input id="sok-kommun-kommuner-160" type="checkbox" name="sok[kommun][]"  value="160" />
+            Täby
+      (250)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1473">
+      <input id="sok-kommun-kommuner-1473" type="checkbox" name="sok[kommun][]"  value="1473" />
+            Töreboda
+      (80)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1485">
+      <input id="sok-kommun-kommuner-1485" type="checkbox" name="sok[kommun][]"  value="1485" />
+            Uddevalla
+      (217)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1491">
+      <input id="sok-kommun-kommuner-1491" type="checkbox" name="sok[kommun][]"  value="1491" />
+            Ulricehamn
+      (102)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2480">
+      <input id="sok-kommun-kommuner-2480" type="checkbox" name="sok[kommun][]"  value="2480" />
+            Umeå
+      (408)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-114">
+      <input id="sok-kommun-kommuner-114" type="checkbox" name="sok[kommun][]"  value="114" />
+            Upplands Väsby
+      (111)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-139">
+      <input id="sok-kommun-kommuner-139" type="checkbox" name="sok[kommun][]"  value="139" />
+            Upplands-Bro
+      (109)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-380">
+      <input id="sok-kommun-kommuner-380" type="checkbox" name="sok[kommun][]"  value="380" />
+            Uppsala
+      (732)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-760">
+      <input id="sok-kommun-kommuner-760" type="checkbox" name="sok[kommun][]"  value="760" />
+            Uppvidinge
+      (55)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-584">
+      <input id="sok-kommun-kommuner-584" type="checkbox" name="sok[kommun][]"  value="584" />
+            Vadstena
+      (31)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-665">
+      <input id="sok-kommun-kommuner-665" type="checkbox" name="sok[kommun][]"  value="665" />
+            Vaggeryd
+      (45)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-563">
+      <input id="sok-kommun-kommuner-563" type="checkbox" name="sok[kommun][]"  value="563" />
+            Valdemarsvik
+      (86)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-115">
+      <input id="sok-kommun-kommuner-115" type="checkbox" name="sok[kommun][]"  value="115" />
+            Vallentuna
+      (231)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2021">
+      <input id="sok-kommun-kommuner-2021" type="checkbox" name="sok[kommun][]"  value="2021" />
+            Vansbro
+      (40)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1470">
+      <input id="sok-kommun-kommuner-1470" type="checkbox" name="sok[kommun][]"  value="1470" />
+            Vara
+      (40)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1383">
+      <input id="sok-kommun-kommuner-1383" type="checkbox" name="sok[kommun][]"  value="1383" />
+            Varberg
+      (255)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-187">
+      <input id="sok-kommun-kommuner-187" type="checkbox" name="sok[kommun][]"  value="187" />
+            Vaxholm
+      (91)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1233">
+      <input id="sok-kommun-kommuner-1233" type="checkbox" name="sok[kommun][]"  value="1233" />
+            Vellinge
+      (265)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-685">
+      <input id="sok-kommun-kommuner-685" type="checkbox" name="sok[kommun][]"  value="685" />
+            Vetlanda
+      (162)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2462">
+      <input id="sok-kommun-kommuner-2462" type="checkbox" name="sok[kommun][]"  value="2462" />
+            Vilhelmina
+      (24)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-884">
+      <input id="sok-kommun-kommuner-884" type="checkbox" name="sok[kommun][]"  value="884" />
+            Vimmerby
+      (36)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2404">
+      <input id="sok-kommun-kommuner-2404" type="checkbox" name="sok[kommun][]"  value="2404" />
+            Vindeln
+      (19)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-428">
+      <input id="sok-kommun-kommuner-428" type="checkbox" name="sok[kommun][]"  value="428" />
+            Vingåker
+      (78)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1487">
+      <input id="sok-kommun-kommuner-1487" type="checkbox" name="sok[kommun][]"  value="1487" />
+            Vänersborg
+      (134)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2460">
+      <input id="sok-kommun-kommuner-2460" type="checkbox" name="sok[kommun][]"  value="2460" />
+            Vännäs
+      (26)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-120">
+      <input id="sok-kommun-kommuner-120" type="checkbox" name="sok[kommun][]"  value="120" />
+            Värmdö
+      (312)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-683">
+      <input id="sok-kommun-kommuner-683" type="checkbox" name="sok[kommun][]"  value="683" />
+            Värnamo
+      (161)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-883">
+      <input id="sok-kommun-kommuner-883" type="checkbox" name="sok[kommun][]"  value="883" />
+            Västervik
+      (209)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1980">
+      <input id="sok-kommun-kommuner-1980" type="checkbox" name="sok[kommun][]"  value="1980" />
+            Västerås
+      (636)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-780">
+      <input id="sok-kommun-kommuner-780" type="checkbox" name="sok[kommun][]"  value="780" />
+            Växjö
+      (194)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1442">
+      <input id="sok-kommun-kommuner-1442" type="checkbox" name="sok[kommun][]"  value="1442" />
+            Vårgårda
+      (35)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-512">
+      <input id="sok-kommun-kommuner-512" type="checkbox" name="sok[kommun][]"  value="512" />
+            Ydre
+      (23)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1286">
+      <input id="sok-kommun-kommuner-1286" type="checkbox" name="sok[kommun][]"  value="1286" />
+            Ystad
+      (230)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1492">
+      <input id="sok-kommun-kommuner-1492" type="checkbox" name="sok[kommun][]"  value="1492" />
+            Åmål
+      (94)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2260">
+      <input id="sok-kommun-kommuner-2260" type="checkbox" name="sok[kommun][]"  value="2260" />
+            Ånge
+      (11)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2321">
+      <input id="sok-kommun-kommuner-2321" type="checkbox" name="sok[kommun][]"  value="2321" />
+            Åre
+      (167)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1765">
+      <input id="sok-kommun-kommuner-1765" type="checkbox" name="sok[kommun][]"  value="1765" />
+            Årjäng
+      (74)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2463">
+      <input id="sok-kommun-kommuner-2463" type="checkbox" name="sok[kommun][]"  value="2463" />
+            Åsele
+      (18)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1277">
+      <input id="sok-kommun-kommuner-1277" type="checkbox" name="sok[kommun][]"  value="1277" />
+            Åstorp
+      (71)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-561">
+      <input id="sok-kommun-kommuner-561" type="checkbox" name="sok[kommun][]"  value="561" />
+            Åtvidaberg
+      (41)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-765">
+      <input id="sok-kommun-kommuner-765" type="checkbox" name="sok[kommun][]"  value="765" />
+            Älmhult
+      (100)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2039">
+      <input id="sok-kommun-kommuner-2039" type="checkbox" name="sok[kommun][]"  value="2039" />
+            Älvdalen
+      (93)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-319">
+      <input id="sok-kommun-kommuner-319" type="checkbox" name="sok[kommun][]"  value="319" />
+            Älvkarleby
+      (75)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2560">
+      <input id="sok-kommun-kommuner-2560" type="checkbox" name="sok[kommun][]"  value="2560" />
+            Älvsbyn
+      (37)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1292">
+      <input id="sok-kommun-kommuner-1292" type="checkbox" name="sok[kommun][]"  value="1292" />
+            Ängelholm
+      (177)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1407">
+      <input id="sok-kommun-kommuner-1407" type="checkbox" name="sok[kommun][]"  value="1407" />
+            Öckerö
+      (37)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-509">
+      <input id="sok-kommun-kommuner-509" type="checkbox" name="sok[kommun][]"  value="509" />
+            Ödeshög
+      (21)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1880">
+      <input id="sok-kommun-kommuner-1880" type="checkbox" name="sok[kommun][]"  value="1880" />
+            Örebro
+      (446)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1257">
+      <input id="sok-kommun-kommuner-1257" type="checkbox" name="sok[kommun][]"  value="1257" />
+            Örkelljunga
+      (107)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2284">
+      <input id="sok-kommun-kommuner-2284" type="checkbox" name="sok[kommun][]"  value="2284" />
+            Örnsköldsvik
+      (174)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2380">
+      <input id="sok-kommun-kommuner-2380" type="checkbox" name="sok[kommun][]"  value="2380" />
+            Östersund
+      (183)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-117">
+      <input id="sok-kommun-kommuner-117" type="checkbox" name="sok[kommun][]"  value="117" />
+            Österåker
+      (235)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-382">
+      <input id="sok-kommun-kommuner-382" type="checkbox" name="sok[kommun][]"  value="382" />
+            Östhammar
+      (138)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-1256">
+      <input id="sok-kommun-kommuner-1256" type="checkbox" name="sok[kommun][]"  value="1256" />
+            Östra Göinge
+      (77)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2513">
+      <input id="sok-kommun-kommuner-2513" type="checkbox" name="sok[kommun][]"  value="2513" />
+            Överkalix
+      (11)
+    </label>
+
+  
+    
+
+    <label for="sok-kommun-kommuner-2518">
+      <input id="sok-kommun-kommuner-2518" type="checkbox" name="sok[kommun][]"  value="2518" />
+            Övertorneå
+      (8)
+    </label>
+
+  
+          </div>
+        </td>
+
+        <td id="sok-typ-hlr">
+          <label for="sok-typ">Bostadstyp</label>
+          <input id="sok-typ" type="text" readonly="readonly" class="multiSelect" value="" style="cursor: default;"  tabindex="4" autocomplete="off" />
+          <div class="multiSelectOptions" style="position: absolute; z-index: 99999; display: none;">
+            
+
+
+
+
+<label class="selectAll"><input type="checkbox" name="sok[objekttyper][]" value="-1" class="selectAll" checked="checked" />Alla typer</label>
+
+
+
+
+  
+
+    
+    
+  
+
+    
+    
+
+      
+
+      <label><input type="checkbox"  name="sok[objekttyper][]" value="1" >Villa/radhus</label>
+    
+  
+
+    
+    
+
+      
+
+      <label><input type="checkbox"  name="sok[objekttyper][]" value="4" >Bostadsrättslägenhet</label>
+    
+  
+
+    
+    
+
+      
+
+      <label><input type="checkbox"  name="sok[objekttyper][]" value="7" >Hyresrättslägenhet</label>
+    
+  
+
+    
+    
+
+      
+
+      <label><input type="checkbox"  name="sok[objekttyper][]" value="2" >Fritidshus</label>
+    
+  
+
+    
+    
+
+      
+
+      <label><input type="checkbox"  name="sok[objekttyper][]" value="5" >Tomt</label>
+    
+  
+
+    
+    
+
+      
+
+      <label><input type="checkbox"  name="sok[objekttyper][]" value="3" >Gård</label>
+    
+  
+
+    
+    
+
+      
+
+      <label><input type="checkbox"  name="sok[objekttyper][]" value="6" >Övrigt</label>
+    
+  
+
+          </div>
+        </td>
+      </tr>
+
+      <tr>
+        <td id="sok-visningsdatum-hlr">
+          <label for="sok-visningsdatum">Visningsdag</label>
+          <select name="sok[visningsdatum]" id="sok-visningsdatum" tabindex="5">
+            <option value="alla">Alla oavsett visning</option>
+            <option value="planerade" >Alla planerade</option>
+            <option value="1" > Måndag</option>
+            <option value="2" > Tisdag</option>
+            <option value="3" > Onsdag</option>
+            <option value="4" > Torsdag</option>
+            <option value="5" > Fredag</option>
+            <option value="6" > Lördag</option>
+            <option value="7" > Söndag</option>
+          </select>
+        </td>
+
+        <td id="sok-inkommet-hlr">
+          <label for="sok-inkommet">Inkommet</label>
+          <select name="sok[inkommet]" id="sok-inkommet" tabindex="6">
+            <option value="alla">Visa alla</option>
+            <option value="1" >1 dag</option>
+            <option value="3" >3 dagar</option>
+            <option value="7" >7 dagar</option>
+          </select>
+        </td>
+
+        <td id="sok-nyprod-kranskommun-hlr" colspan="2">
+          <input type="checkbox" name="sok[visa_nyprod]" id="sok-visa-nyprod" class="checkbox" value="1"  tabindex="7" />
+          <label for="sok-visa-nyprod">Visa all nyproduktion</label>
+
+                      <input type="checkbox" name="sok[visa_kranskommuner]" id="sok-visa-kranskommuner" class="checkbox" value="1"   tabindex="8" />
+            <label for="sok-visa-kranskommuner">Inkludera angränsande kommuner</label>
+                  </td>
+      </tr>
+    </table>
+
+    <table id="sok-urval2-hlr">
+
+      <tr class="titel-rad">
+        <td class="min">Min</td>
+        <td id="sok-pris-titel-hlr" class="titel">
+          Pris
+        </td>
+        <td class="max">Max</td>
+        <td class="min">Min</td>
+        <td id="sok-antal-rum-titel-hlr" class="titel">
+          Antal rum
+        </td>
+        <td class="max">Max</td>
+        <td class="min">Min</td>
+        <td id="sok-boyta-titel-hlr" class="titel">
+          Boyta
+        </td>
+        <td class="max">Max</td>
+      </tr>
+
+      <tr class="slider-rad">
+        <td id="sok-pris-hlr" class="slider-hlr" colspan="3">
+          <div id="sok-pris-slider" class="slider"></div>
+          <span class="slider-max-display"></span>
+          <span class="slider-min-display"></span>
+          <input type="hidden"
+                 name="sok[minpris]"
+                 value="0"
+                 class="slider-min-varde"/>
+          <input type="hidden"
+                 name="sok[maxpris]"
+                 value="-1"
+                 class="slider-max-varde"/>
+        </td>
+
+        <td id="sok-rum-hlr" colspan="3">
+          <div id="sok-rum-slider" class="slider"></div>
+          <span class="slider-max-display"></span>
+          <span class="slider-min-display"></span>
+          <input type="hidden"
+                 name="sok[minrum]"
+                 value="0"
+                 class="slider-min-varde"/>
+          <input type="hidden"
+                 name="sok[maxrum]"
+                 value="-1"
+                 class="slider-max-varde"/>
+        </td>
+
+        <td id="sok-boyta-hlr" colspan="3">
+          <div id="sok-boyta-slider" class="slider"></div>
+          <span class="slider-max-display"></span>
+          <span class="slider-min-display"></span>
+          <input type="hidden"
+                 name="sok[minboyta]"
+                 value="0"
+                 class="slider-min-varde"/>
+          <input type="hidden"
+                 name="sok[maxboyta]"
+                 value="-1"
+                 class="slider-max-varde"/>
+        </td>
+      </tr>
+
+      <tr class="titel-rad utokad-sok" style="display:none">
+
+        <td id="sok-radhus-hyres-kommande-hlr" rowspan="2" colspan="3">
+          <ul>
+            <li id="sok-radhus-hlr">
+              <input type="checkbox" name="sok[visa_radhus]" id="sok-visa-radhus" class="checkbox" value="1" checked="checked" tabindex="21"/>
+              <input type="hidden" name="sok[visa_radhus]"  value="0" />
+              <label for="sok-visa-radhus">Visa bostadsrätter av radhustyp</label>
+            </li>
+
+            <li id="sok-hyres-hlr">
+              <input type="checkbox" name="sok[visa_hyres_bytes]" id="sok-visa-hyres" class="checkbox" value="1"  tabindex="22" />
+              <label for="sok-visa-hyres">Visa bostäder med byteskrav</label>
+            </li>
+
+            <li id="sok-kommande-hlr">
+              <input type="checkbox" name="sok[visa_kommande]" id="sok-visa-kommande" class="checkbox" value="1"  tabindex="23"/>
+              <label for="sok-visa-kommande">Visa kommande försäljningar</label>
+            </li>
+          </ul>
+        </td>
+
+        <td class="min">Min</td>
+        <td id="sok-tomtarea-titel-hlr" class="titel">
+          Tomtarea
+        </td>
+        <td class="max">Max</td>
+        <td class="min">Min</td>
+        <td id="sok-hyra-avgift-titel-hlr" class="titel">
+          Hyra/avgift
+        </td>
+        <td class="max">Max</td>
+      </tr>
+
+      <tr class="slider-rad utokad-sok" style="display:none">
+        <td id="sok-tomtarea-hlr" colspan="3">
+          <div id="sok-tomtarea-slider" class="slider"></div>
+          <span class="slider-max-display"></span>
+          <span class="slider-min-display"></span>
+          <input type="hidden"
+                 name="sok[mintomtarea]"
+                 value="0"
+                 class="slider-min-varde"/>
+          <input type="hidden"
+                 name="sok[maxtomtarea]"
+                 value="-1"
+                 class="slider-max-varde"/>
+        </td>
+
+        <td id="sok-hyra-avgift-hlr" colspan="3">
+          <div id="sok-hyra-avgift-slider" class="slider"></div>
+          <span class="slider-max-display"></span>
+          <input type="hidden"
+                 name="sok[maxhyra]"
+                 value="-1"
+                 class="slider-max-varde"/>
+        </td>
+      </tr>
+
+    </table>
+
+    <div id="sok-sokord-hlr" class="utokad-sok" style="display:none">
+      <label for="sok-sokfras1">Sökord</label>
+      <input type="text" id="sok-sokfras1" name="sok[sokfras1]" value="" tabindex="27" />
+      +
+      <input type="text" id="sok-sokfras2" name="sok[sokfras2]" value="" tabindex="28"/>
+      +
+      <input type="text" id="sok-sokfras3" name="sok[sokfras3]" value="" tabindex="29"/>
+    </div>
+
+    <table id="sok-fot-hlr">
+      <tr>
+        <td id="sok-submit-hlr">
+
+          
+            
+
+            
+
+            
+          
+          <a id="sok-rensa-hndl" href="#" class="knapp" tabindex="18"><span>Rensa</span></a>
+          <a href="#" class="knapp sok-sok-hndl" tabindex="19"><span>Sök</span></a>
+
+          <input type="hidden" id="sok-kartsok" name="kartsok" value="0" />
+        </td>
+      </tr>
+    </table>
+
+  </form>
+</div>
+
+<div id="sok-form-toggler-hlr" >
+  
+
+  <span id="utokad-sok-toggler" >
+    <a href="#" id="utokad-sok-visa" tabindex="20" >Fler sökkriterier</a>
+    <a href="#" id="utokad-sok-dolj" tabindex="30" style="display:none">Färre sökkriterier</a>
+  </span>
+  
+</div>
+
+
+
+<div class="clearer"></div>
+
+
+                
+        <div id="innehall">
+          
+	
+
+	
+
+  <div id="valkommen">
+  <h1>Välkommen till <span>Hemnet</span></h1>
+
+  <p>
+    Hos Hemnet hittar du alltid det största utbudet av lägenheter, villor, fritidshus och tomter till salu genom Sveriges fastighetsmäklare.
+  </p>
+  <p>
+    Här ovan ser du sökfunktionen, som ger dig möjlighet att söka hem över hela Sverige.
+    På Hemnet hittar du också bevaknings- och söktjänsten <a href="http://www.hemnet.se/mitt_hemnet/">Mitt Hemnet</a>
+    och mäklarlistan <a href="http://www.hemnet.se/maklare/">Hitta din mäklare</a>.
+    När du hittar ett intressant objekt – missa inte att använda dig av Hemnets tjänster för att räkna ut kostnader för boende,
+    energi och försäkring för ditt nya boende.
+    För dig som vill bygga nytt hus finns söktjänsten <a href="http://www.hemnet.se/bygga/">Bygga nytt</a>.
+  </p>
+  <p>
+    Ha en trevlig stund på Hemnet!
+  </p>
+
+</div>
+
+
+        </div>
+
+        <div id="banner-topp">
+          
+          <script type="text/javascript"> window.Fusion.space("Panorama");</script>
+
+          <script type="text/javascript">
+          //TODO - Ta bort länken till hemnet.se och låt det vara  /extra/ovrigt/toppbanner/panorama.swf
+          maybeShowAlternateContent('banner-topp', buildFlashBanner('http://www.hemnet.se/extra/ovrigt/toppbanner/panorama.swf', 'http://www.hemnet.se/bygga', 'localPanoramaBanner'));
+          </script>
+        </div>
+
+        
+      </div>
+    </div>
+
+    <p id="sidfot">
+      Kontakt:
+      <a href="mail&#116;&#111;&#58;s%75ppo%&#55;2&#116;&#64;hemnet&#46;se">&#115;up&#112;ort&#64;hemnet&#46;s&#101;</a>.
+      Ansvarig utgivare: Carl-Henrik Borg.
+    </p>
+
+    <div class="overlay" id="overlay"><div class="contentWrap"></div></div>
+    <div class="overlay" id="overlay-projekt"><div class="contentWrap"></div></div>
+
+        
+      
+<script type="text/javascript">
+  var hn_tax = '&Sajt=hemnet-se&Sektion=sok';
+</script>
+<script type="text/javascript" src="/javascripts/hemnet_analytics.js?1273500749"></script>
+<noscript>
+<img SRC="http://sifomedia.hemnet.se/RealMedia/ads/adstream_nx.ads/hemnet/12345@TopRight?XE&JSFLAG=noscript&Sajt=hemnet-se&Sektion=sok&XE" border=0 alt="">
+</noscript>
+
+    
+    <!-- START Nielsen Online SiteCensus V5.3 -->
+<!-- COPYRIGHT 2009 Nielsen Online -->
+
+<script type="text/javascript">
+    var _rsCI = "hemnet-se"; /* client ID */
+    var _rsCG = "sok"; /* content group */
+    var _rsDN = "//secure-dk.imrworldwide.com/"; /* data node */
+    var _rsCC = 0; /* to turn on whether to check for existing cookie, 0=off 1=on */
+    var _rsSE = 0; /* to turn on surveys, 0=off 1=on */
+    var _rsSM = 0.05; /* maxumum survey rate, 1.0=100% */
+</script>
+<script type="text/javascript" src="//secure-dk.imrworldwide.com/v53.js">
+</script>
+<noscript>
+    <div>
+        <img src="//secure-dk.imrworldwide.com/cgi-bin/m?ci=hemnet-se&amp;cg=sok" alt=""/>
+    </div>
+</noscript>
+
+<!-- END Nielsen Online SiteCensus V5.3 -->
+
+
+                      <script src="/javascripts/sitester_script_v8_1203.js?1273500749" type="text/javascript"></script>
+            </body>
+</html>

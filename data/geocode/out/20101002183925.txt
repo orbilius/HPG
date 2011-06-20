@@ -1,0 +1,750 @@
+{"lon":18.0644881,"address":"Abborrvägen 2E","startPrice":3995000,"hood":"Saltsjö-Boo\/Mensättra","lat":59.3327881,"squareMeters":120}
+{"lon":18.1011797,"address":"Abborrvägen 42B","startPrice":7500000,"hood":"Sticklinge","lat":59.3839515,"squareMeters":191}
+{"lon":18.0644881,"address":"Abrahamsby Pl 8800","startPrice":1295000,"hood":"Gottröra","lat":59.3327881,"squareMeters":121}
+{"lon":17.9427778,"address":"Adlerfelts Gata 55","startPrice":4195000,"hood":"Bollstanäs","lat":59.4991667,"squareMeters":130}
+{"lon":17.8947599,"address":"Adler Salvius Väg 94","startPrice":2250000,"hood":"Tullinge Gård","lat":59.2154137,"squareMeters":120}
+{"lon":18.0644881,"address":"Albert Landbergs Gränd 46","startPrice":2995000,"hood":"Hässelby Södra Villastad","lat":59.3327881,"squareMeters":166}
+{"lon":18.0615841,"address":"Albert Målares Väg 16 E","startPrice":1595000,"hood":"Täby Kyrkby","lat":59.4915389,"squareMeters":67}
+{"lon":18.0608955,"address":"Albert Målares Väg 3 A","startPrice":1975000,"hood":"Täby Kyrkby","lat":59.4913746,"squareMeters":90}
+{"lon":18.2770227,"address":"Alby Sjöväg 7","startPrice":3850000,"hood":"Gimmersta","lat":59.2339186,"squareMeters":80}
+{"lon":18.3708469,"address":"Allévägen 15- Rimbo","startPrice":2995000,"hood":" ","lat":59.748385,"squareMeters":232}
+{"lon":17.7431735,"address":"Allévägen 24","startPrice":6900000,"hood":"Ekerö Sommarstad","lat":59.2786785,"squareMeters":285}
+{"lon":18.2263806,"address":"Allévägen 3e","startPrice":4650000,"hood":"Eknäs","lat":59.3099948,"squareMeters":120}
+{"lon":17.9087247,"address":"Allévägen 4K","startPrice":1295000,"hood":"Rotebro","lat":59.4789808,"squareMeters":46}
+{"lon":18.0644881,"address":"Allévägen 8 C","startPrice":7950000,"hood":"Näsby Park","lat":59.3327881,"squareMeters":220}
+{"lon":18.0707635,"address":"Allfarvägen 20","startPrice":6250000,"hood":"Täby Kyrkby","lat":59.502009,"squareMeters":192}
+{"lon":17.790141,"address":"Almhagsvägen 1","startPrice":3275000,"hood":"Ekerö Träkvista","lat":59.2728768,"squareMeters":160}
+{"lon":18.4260947,"address":"Almvägen 9","startPrice":3200000,"hood":"Märsta - Norrbacka","lat":59.5377478,"squareMeters":118}
+{"lon":17.6618635,"address":"Alpvägen 21","startPrice":2900000,"hood":"Östertälje","lat":59.1887645,"squareMeters":1015}
+{"lon":17.6618635,"address":"Alpvägen 21","startPrice":3960000,"hood":"Östertälje","lat":59.1887645,"squareMeters":168}
+{"lon":17.9253849,"address":"Altartorpsvägen 6","startPrice":7000000,"hood":"Segeltorp","lat":59.2741466,"squareMeters":194}
+{"lon":18.1286751,"address":"Altorpsvägen 21","startPrice":1720000,"hood":"Muskö","lat":59.0000396,"squareMeters":148}
+{"lon":18.1286371,"address":"Altorpsvägen 34","startPrice":1295000,"hood":"Muskö","lat":59.0012998,"squareMeters":113}
+{"lon":17.4004884,"address":"Andvägen 27","startPrice":1280000,"hood":"MOLSTABERG","lat":59.0732726,"squareMeters":80}
+{"lon":18.0644881,"address":"Angskärsvägen 33","startPrice":2750000,"hood":"Ösbyholm","lat":59.3327881,"squareMeters":158}
+{"lon":18.5793968,"address":"Angöringsvägen 12","startPrice":2495000,"hood":"Södra Kopparmora","lat":59.3279064,"squareMeters":75}
+{"lon":18.5793968,"address":"Angöringsvägen 12","startPrice":2495000,"hood":"Södra Kopparmora","lat":59.3279064,"squareMeters":75}
+{"lon":17.9295561,"address":"Ankarstocksvägen 9","startPrice":3295000,"hood":"Bromma Bällsta","lat":59.3671182,"squareMeters":70}
+{"lon":18.0644881,"address":"Annalundsvägen 32","startPrice":3385000,"hood":"RITORP","lat":59.3327881,"squareMeters":168}
+{"lon":17.8906648,"address":"Anna Maria Roos Väg 5 -7","startPrice":5500000,"hood":"Tullinge Gård","lat":59.2153362,"squareMeters":205}
+{"lon":17.8901634,"address":"Anna Maria Roos Väg 7","startPrice":5500000,"hood":"Tullinge  Parkhem","lat":59.2154006,"squareMeters":205}
+{"lon":18.0644881,"address":"Anna Vasas Väg 11","startPrice":5490000,"hood":"Sigtunahöjden","lat":59.3327881,"squareMeters":145}
+{"lon":18.0644881,"address":"Apelvretsvägen 15","startPrice":3190000,"hood":"Vendelsö Lötkärr","lat":59.3327881,"squareMeters":149}
+{"lon":18.0644881,"address":"Apelvretsvägen 32","startPrice":3595000,"hood":"Vendelsö\/Lötkärr","lat":59.3327881,"squareMeters":178}
+{"lon":18.0644881,"address":"Apelvägen 2","startPrice":3750000,"hood":"Gustavsberg Ösbygrind","lat":59.3327881,"squareMeters":144}
+{"lon":17.845587,"address":"Arenbergavägen 24","startPrice":3150000,"hood":"Märsta - Arenberga","lat":59.6298149,"squareMeters":111}
+{"lon":18.0644881,"address":"Arholmagatan 3","startPrice":1695000,"hood":"Centralt","lat":59.3327881,"squareMeters":87}
+{"lon":18.0644881,"address":"Arholmavägen 9","startPrice":2975000,"hood":"Petersberg","lat":59.3327881,"squareMeters":145}
+{"lon":18.1627451,"address":"Arkitektvägen 18","startPrice":1395000,"hood":"Årsta havsbad","lat":59.0850522,"squareMeters":20}
+{"lon":18.3241627,"address":"Armborstvägen 14","startPrice":2900000,"hood":"Margretelund","lat":59.4765398,"squareMeters":123}
+{"lon":18.0825694,"address":"Armevägen 56","startPrice":2525000,"hood":"Gribbylund","lat":59.4652515,"squareMeters":99}
+{"lon":17.981178,"address":"Arrendatorsvägen 23","startPrice":2750000,"hood":"Centrala Huddinge","lat":59.2372717,"squareMeters":65}
+{"lon":17.4589111,"address":"Aska 28","startPrice":1950000,"hood":"Enhörna","lat":59.251202,"squareMeters":115}
+{"lon":18.0644881,"address":"Aspenvägen 70","startPrice":2150000,"hood":"Tumba Vretarna","lat":59.3327881,"squareMeters":106}
+{"lon":18.1260806,"address":"Asplunds Väg 7","startPrice":4150000,"hood":"Vega","lat":59.1919377,"squareMeters":122}
+{"lon":18.4268037,"address":"Aspviksvägen","startPrice":2600000,"hood":"Gustavsberg - Betsede","lat":59.3327607,"squareMeters":0}
+{"lon":18.4282311,"address":"Aspviksvägen 16","startPrice":0,"hood":"Gustavsberg - Betsede","lat":59.332243,"squareMeters":403}
+{"lon":18.4287888,"address":"Aspviksvägen 20 ?","startPrice":2050000,"hood":"Gustavsberg - Betsede","lat":59.3289896,"squareMeters":0}
+{"lon":18.4422949,"address":"Aspviksvägen 22 ?","startPrice":2050000,"hood":"Gustavsberg - Betsede","lat":59.3352193,"squareMeters":0}
+{"lon":17.9699504,"address":"Aspvägen 11d","startPrice":4650000,"hood":"Fågelsången","lat":59.3644242,"squareMeters":146}
+{"lon":18.4411955,"address":"Backstigen 1","startPrice":6375000,"hood":"Mörtnäs","lat":59.3152909,"squareMeters":210}
+{"lon":18.3204144,"address":"Backstigen 3","startPrice":3650000,"hood":"Resarö","lat":59.4353507,"squareMeters":127}
+{"lon":18.0644881,"address":"Backstuguvägen 12","startPrice":1370000,"hood":"Bro \/ Österhagen","lat":59.3327881,"squareMeters":0}
+{"lon":17.4181768,"address":"Backvägen 12","startPrice":2100000,"hood":"Mölnbo","lat":59.0506156,"squareMeters":162}
+{"lon":18.0644881,"address":"Baldersvägen 9","startPrice":3495000,"hood":"Blombacka","lat":59.3327881,"squareMeters":121}
+{"lon":18.1567215,"address":"Balettvägen 85","startPrice":2295000,"hood":"Trångsund","lat":59.2251993,"squareMeters":104}
+{"lon":18.4343354,"address":"Bammarbodavägen 12","startPrice":2595000,"hood":"Åsättra","lat":59.5270608,"squareMeters":180}
+{"lon":17.9765639,"address":"Bandyvägen 42","startPrice":2275000,"hood":"Västertorp","lat":59.290898,"squareMeters":112}
+{"lon":17.9769512,"address":"Bandyvägen 55","startPrice":3950000,"hood":"Hägersten","lat":59.289901,"squareMeters":84}
+{"lon":18.0912318,"address":"Banérvägen 1","startPrice":16500000,"hood":"Djursholm","lat":59.3981525,"squareMeters":325}
+{"lon":17.748,"address":"Banjovägen 15","startPrice":2975000,"hood":"Kungsängen \/ Brunna","lat":59.5050358,"squareMeters":150}
+{"lon":18.0644881,"address":"Bankir Zethraeus Väg 41","startPrice":6900000,"hood":"Ljung","lat":59.3327881,"squareMeters":198}
+{"lon":17.9404599,"address":"Bankvägen 12","startPrice":2950000,"hood":"Häggvik","lat":59.4373883,"squareMeters":73}
+{"lon":18.6211264,"address":"Barkvägen 17","startPrice":2325000,"hood":"Östra Storvreten","lat":59.9565454,"squareMeters":120}
+{"lon":17.9878234,"address":"Barrskogsvägen 7","startPrice":2275000,"hood":"Gladö Kvarn","lat":59.1931034,"squareMeters":56}
+{"lon":18.0644881,"address":"Bastugärdesvägen 19","startPrice":800000,"hood":"Margretelund - Högsätra","lat":59.3327881,"squareMeters":1133}
+{"lon":18.6468639,"address":"Bastuuddsvägen 7","startPrice":2800000,"hood":"Saltarö","lat":59.332033,"squareMeters":136}
+{"lon":18.0660972,"address":"Bastuvägen 5","startPrice":0,"hood":" ","lat":59.3204057,"squareMeters":103}
+{"lon":18.265149,"address":"Beatebergsvägen 7","startPrice":6500000,"hood":"Saltsjö-Boo \/ Kummelnäs","lat":59.3528258,"squareMeters":0}
+{"lon":17.8568758,"address":"Beckasinvägen 10","startPrice":3495000,"hood":"Bro - Råby","lat":59.1373147,"squareMeters":180}
+{"lon":18.0644881,"address":"Beckasinvägen 21","startPrice":2950000,"hood":"Råby-Gärde","lat":59.3327881,"squareMeters":126}
+{"lon":17.6223489,"address":"Beckasinvägen 40","startPrice":4975000,"hood":"Viksberg","lat":59.2419047,"squareMeters":180}
+{"lon":17.6225894,"address":"Beckasinvägen 42","startPrice":5200000,"hood":"Viksberg","lat":59.2422951,"squareMeters":180}
+{"lon":17.9160662,"address":"Beckombergavägen 73","startPrice":4495000,"hood":"Bromma Norra Ängby","lat":59.3455182,"squareMeters":85}
+{"lon":17.9554532,"address":"Bellmanskällevägen 8","startPrice":9500000,"hood":"Mälarhöjden","lat":59.3024827,"squareMeters":254}
+{"lon":17.9241957,"address":"Benvedsbacken 15, hus 363","startPrice":4290000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 17, hus 362","startPrice":4250000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 19, hus 361","startPrice":4190000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 21, tomt 360","startPrice":4390000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 2, tomt 345","startPrice":4190000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":119}
+{"lon":17.9241957,"address":"Benvedsbacken 4, tomt 346","startPrice":3990000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":119}
+{"lon":17.9241957,"address":"Benvedsbacken 6, hus 347","startPrice":3990000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":119}
+{"lon":17.9241957,"address":"Benvedsbacken 7, hus 367","startPrice":4490000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 9, hus 366","startPrice":4290000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":128}
+{"lon":18.2753534,"address":"Berberisvägen 37","startPrice":645000,"hood":"Bro Finnsta","lat":59.4036882,"squareMeters":96}
+{"lon":17.8255149,"address":"Berga 14","startPrice":9750000,"hood":"Berga","lat":58.9882692,"squareMeters":477}
+{"lon":17.6282027,"address":"Berga 21","startPrice":2495000,"hood":"Järna","lat":59.1158835,"squareMeters":158}
+{"lon":18.353581,"address":"Bergabovägen 15","startPrice":5950000,"hood":"Saltsjöbaden\/Älgö","lat":59.2660738,"squareMeters":174}
+{"lon":18.0036381,"address":"Bergfalkstigen 6A","startPrice":1995000,"hood":"Ådran","lat":59.1571873,"squareMeters":72}
+{"lon":17.7885822,"address":"Bergfinkvägen 33","startPrice":2495000,"hood":"Vårsta","lat":59.1671205,"squareMeters":137}
+{"lon":18.51063,"address":"Berggransbacken 1\/Hanstanäsvägen 38","startPrice":2350000,"hood":"Saltarö","lat":59.321454,"squareMeters":60}
+{"lon":17.9475953,"address":"Bergklintvägen 16","startPrice":0,"hood":"Bollstanäs","lat":59.4957839,"squareMeters":201}
+{"lon":17.9487672,"address":"Bergklintvägen 2","startPrice":4950000,"hood":"Bollstanäs","lat":59.4974316,"squareMeters":201}
+{"lon":18.9053704,"address":"Bergshyddan","startPrice":2850000,"hood":"Blidö","lat":59.6128934,"squareMeters":80}
+{"lon":18.0644881,"address":"Bergsrundan 18","startPrice":1395000,"hood":"Ljusterö\/skärsberget","lat":59.3327881,"squareMeters":59}
+{"lon":18.3632624,"address":"Bergstupsvägen 6","startPrice":11000000,"hood":"Vaxholm - Tynningö","lat":59.3826509,"squareMeters":200}
+{"lon":18.6230425,"address":"Bergsvägen 2","startPrice":2195000,"hood":"Ljusterö - Nolsjö","lat":59.5321404,"squareMeters":128}
+{"lon":18.1421742,"address":"Bergsvägen 37","startPrice":8800000,"hood":"Hersby","lat":59.3703959,"squareMeters":243}
+{"lon":18.4268166,"address":"Betsedevägen 15b","startPrice":7500000,"hood":"Gustavsberg","lat":59.3291694,"squareMeters":200}
+{"lon":18.4268166,"address":"Betsedevägen 15b","startPrice":7500000,"hood":"Gustavsberg","lat":59.3291694,"squareMeters":200}
+{"lon":18.0644881,"address":"Betselvägen 15","startPrice":3295000,"hood":"Vattmyra","lat":59.3327881,"squareMeters":141}
+{"lon":18.0816763,"address":"Bifrostvägen 25","startPrice":2850000,"hood":"Täby Kyrkby","lat":59.5034796,"squareMeters":89}
+{"lon":18.4954001,"address":"Birgittavägen  28","startPrice":1495000,"hood":"Finsta","lat":59.7365402,"squareMeters":103}
+{"lon":17.8090841,"address":"Biskop Brasks Gränd 80","startPrice":2175000,"hood":"Stäket","lat":59.4815939,"squareMeters":106}
+{"lon":18.1208511,"address":"Biskopsudden","startPrice":9900000,"hood":"Djurgården","lat":59.326358,"squareMeters":205}
+{"lon":17.9508064,"address":"Bivägen 3","startPrice":3650000,"hood":"Vistaberg","lat":59.238543,"squareMeters":129}
+{"lon":18.6617161,"address":"Bivägen 6","startPrice":2200000,"hood":"Stavsnäs","lat":59.2763078,"squareMeters":67}
+{"lon":18.0709423,"address":"Biätarevägen 2","startPrice":1995000,"hood":"Vidja","lat":59.1966576,"squareMeters":73}
+{"lon":18.0644881,"address":"Björkhagsvägen 10","startPrice":4900000,"hood":"Duvbo","lat":59.3327881,"squareMeters":140}
+{"lon":18.0644881,"address":"Björkhagsvägen 21B","startPrice":4160500,"hood":"Björkhaga","lat":59.3327881,"squareMeters":0}
+{"lon":18.2452679,"address":"Björkholmsvägen 201","startPrice":2290000,"hood":"Östra Orminge","lat":59.330365,"squareMeters":121}
+{"lon":17.6986248,"address":"Björkhultsvägen 1","startPrice":3975000,"hood":"Hörningsnäs","lat":59.0631801,"squareMeters":127}
+{"lon":18.352705,"address":"Björkstigen 5","startPrice":4850000,"hood":"Blynäs Vaxholm","lat":59.402499,"squareMeters":210}
+{"lon":18.0644881,"address":"Björktrastvägen 11","startPrice":3495000,"hood":"Nyby Backe","lat":59.3327881,"squareMeters":117}
+{"lon":18.0644881,"address":"Björktrastvägen 1, 3 &amp; 5","startPrice":3795000,"hood":"Nyby Backe","lat":59.3327881,"squareMeters":145}
+{"lon":18.0644881,"address":"Björktrastvägen 2 &amp; 4","startPrice":3645000,"hood":"Nyby Backe","lat":59.3327881,"squareMeters":125}
+{"lon":17.4786392,"address":"Björkvallavägen 89","startPrice":2395000,"hood":"Centrala Väsby","lat":59.2560346,"squareMeters":132}
+{"lon":17.9695907,"address":"Björkvägen 26 A","startPrice":3475000,"hood":"Fullersta","lat":59.242828,"squareMeters":190}
+{"lon":17.862825,"address":"Björnbärsvägen 17","startPrice":5345000,"hood":"Grimsta","lat":59.3608889,"squareMeters":166}
+{"lon":17.9001529,"address":"Björn Clousväg 51","startPrice":160000,"hood":"Ösmo","lat":58.9831364,"squareMeters":89}
+{"lon":17.8549351,"address":"Björnidegränd 275","startPrice":2995000,"hood":"Vällingby - Kälvesta","lat":59.3808861,"squareMeters":120}
+{"lon":18.0644881,"address":"Björnmossegången 26","startPrice":2595000,"hood":"Krusboda","lat":59.3327881,"squareMeters":123}
+{"lon":17.8822046,"address":"Björnsonsgatan 61","startPrice":2795000,"hood":"Bromma Blackeberg","lat":59.3429914,"squareMeters":81}
+{"lon":18.0644881,"address":"Björsholmsvägen 270","startPrice":20000000,"hood":"Lisö","lat":59.3327881,"squareMeters":208}
+{"lon":17.9982979,"address":"Blackensvägen 28","startPrice":2650000,"hood":"Älvsjö Långbro","lat":59.2803668,"squareMeters":68}
+{"lon":18.6083941,"address":"Bladgränd 2","startPrice":975000,"hood":"Hallstavik","lat":60.0481508,"squareMeters":116}
+{"lon":18.0690304,"address":"Blendavägen 5","startPrice":6500000,"hood":"Täby kyrkby","lat":59.4935264,"squareMeters":275}
+{"lon":18.8890809,"address":"Blidö Gård 204","startPrice":4200000,"hood":"Blidö","lat":59.6148328,"squareMeters":68}
+{"lon":17.8303581,"address":"Blockvägen 14","startPrice":3750000,"hood":"Tumba","lat":59.1898586,"squareMeters":112}
+{"lon":18.0644881,"address":"Blombackagatan 17","startPrice":2995000,"hood":"Blombacka","lat":59.3327881,"squareMeters":111}
+{"lon":18.0644881,"address":"Blomkronegränd 19","startPrice":2350000,"hood":"Hässelby Villastad Norra","lat":59.3327881,"squareMeters":140}
+{"lon":18.0644881,"address":"Blomodlarvägen 3A","startPrice":2495000,"hood":"Hässelby Södra Villastad","lat":59.3327881,"squareMeters":130}
+{"lon":18.0644881,"address":"Blomsterhagen 24","startPrice":3400000,"hood":"Vendelsö Hage - Gård","lat":59.3327881,"squareMeters":123}
+{"lon":17.8268262,"address":"Blomstervägen 1","startPrice":2795000,"hood":"Kallhäll","lat":59.4647861,"squareMeters":81}
+{"lon":17.7659936,"address":"Blåbärsstigen 31","startPrice":2195000,"hood":"SALEM","lat":59.2065942,"squareMeters":127}
+{"lon":18.6256822,"address":"Blåbärsvägen 3","startPrice":1650000,"hood":"Bergshamra","lat":59.6396249,"squareMeters":145}
+{"lon":18.1433544,"address":"Blåklintsvägen 21B","startPrice":3295000,"hood":"Trångsund","lat":59.2304521,"squareMeters":138}
+{"lon":17.9493428,"address":"Blåklintvägen 35","startPrice":2195000,"hood":"Bollstanäs","lat":59.4936003,"squareMeters":100}
+{"lon":18.1107552,"address":"Blåkullavägen 16","startPrice":3198000,"hood":"Västerhaninge","lat":59.1171957,"squareMeters":1222}
+{"lon":18.0644881,"address":"Blåmesvägen 13","startPrice":4185000,"hood":"Nyby","lat":59.3327881,"squareMeters":144}
+{"lon":18.0644881,"address":"Blåmesvägen 16","startPrice":3495000,"hood":"Nyby","lat":59.3327881,"squareMeters":111}
+{"lon":18.0644881,"address":"Blåmesvägen 24","startPrice":4195000,"hood":"Nyby","lat":59.3327881,"squareMeters":155}
+{"lon":18.0644881,"address":"Blåmesvägen 30","startPrice":4195000,"hood":"Nyby","lat":59.3327881,"squareMeters":155}
+{"lon":17.6899619,"address":"Blåsbacksvägen 63","startPrice":1595000,"hood":"Färingsö Stenhamra","lat":59.3337253,"squareMeters":96}
+{"lon":18.6081834,"address":"Boda 1:78","startPrice":2798600,"hood":"Boda","lat":59.3667048,"squareMeters":95}
+{"lon":18.6942006,"address":"Bodatorpsvägen 2","startPrice":1750000,"hood":"Vindö, Bodatorp","lat":59.3410568,"squareMeters":60}
+{"lon":17.6939816,"address":"Bodavägen 63","startPrice":3595000,"hood":"Färingsö Ilända","lat":59.4186342,"squareMeters":170}
+{"lon":17.7601765,"address":"Bofinkstigen 13","startPrice":1400000,"hood":"Salem","lat":59.1960687,"squareMeters":120}
+{"lon":17.7623397,"address":"Bofinkstigen 37","startPrice":1795000,"hood":"Salem","lat":59.1951578,"squareMeters":136}
+{"lon":17.7804543,"address":"Bofinkvägen 32","startPrice":2495000,"hood":"Vårsta","lat":59.1670496,"squareMeters":120}
+{"lon":18.2217693,"address":"Boforsvägen 3B","startPrice":5100000,"hood":"Trollbäcken","lat":59.2189099,"squareMeters":145}
+{"lon":17.8568758,"address":"Bokstigen 9","startPrice":1995000,"hood":"Bro - Råby","lat":59.1373147,"squareMeters":131}
+{"lon":17.8132275,"address":"Bolindervägen 30 - SÅLD, Visning in","startPrice":1895000,"hood":"Kallhäll","lat":59.4515525,"squareMeters":819}
+{"lon":17.7959126,"address":"Bollgränd 2","startPrice":2700000,"hood":"Ekerö Träkvista","lat":59.2726731,"squareMeters":111}
+{"lon":18.0644881,"address":"Bondvägen 140","startPrice":2495000,"hood":"Gudö","lat":59.3327881,"squareMeters":45}
+{"lon":18.296432,"address":"Borgvägen 3","startPrice":2495000,"hood":"Österskär","lat":59.4723443,"squareMeters":153}
+{"lon":17.9902761,"address":"Borgvägen 32","startPrice":5700000,"hood":"Sjöberg","lat":59.4251069,"squareMeters":206}
+{"lon":18.0644881,"address":"Branta stigen 3\/ Odenvägen 22","startPrice":6750000,"hood":"SALTSJÖBADEN\/IGELBODA","lat":59.3327881,"squareMeters":145}
+{"lon":18.0644881,"address":"Brebol 11","startPrice":1995000,"hood":"Lisö","lat":59.3327881,"squareMeters":77}
+{"lon":18.0644881,"address":"Bredlötsvägen 5","startPrice":3195000,"hood":"Färingsö Bredlöt","lat":59.3327881,"squareMeters":156}
+{"lon":18.0644881,"address":"Bredstäk 21","startPrice":5200000,"hood":"Skärgård - Lisö","lat":59.3327881,"squareMeters":200}
+{"lon":18.8589453,"address":"Brevik 3295","startPrice":1895000,"hood":"Väddö","lat":59.9644568,"squareMeters":188}
+{"lon":18.344467,"address":"Breviksvägen 63","startPrice":7790000,"hood":"Brevik","lat":59.2360497,"squareMeters":70}
+{"lon":18.0018317,"address":"Britta-Kolas allé hus Nr: 1","startPrice":5100000,"hood":"Solna","lat":59.3586897,"squareMeters":116}
+{"lon":18.0018317,"address":"Britta-Kolas Allé hus nr 10","startPrice":6300000,"hood":"Solna","lat":59.3586897,"squareMeters":156}
+{"lon":18.0228051,"address":"Britta Kolas Allé hus Nr: 2","startPrice":4875000,"hood":"Solna","lat":59.3696128,"squareMeters":116}
+{"lon":18.0680347,"address":"Britta Kolas Allé hus Nr: 7","startPrice":4875000,"hood":"Solna","lat":59.3257278,"squareMeters":116}
+{"lon":18.2278395,"address":"Broby 12","startPrice":2975000,"hood":"Ekskogen","lat":59.6395873,"squareMeters":170}
+{"lon":17.9299997,"address":"Brogränd 6","startPrice":2450000,"hood":"Skälby","lat":59.5295059,"squareMeters":105}
+{"lon":17.6926933,"address":"Broholmsvägen 10","startPrice":8500000,"hood":"Sigtuna - Sjudargården","lat":59.6171193,"squareMeters":261}
+{"lon":18.6527915,"address":"Bromssträckan 10","startPrice":5495000,"hood":"Bullandö","lat":59.3068712,"squareMeters":159}
+{"lon":17.8243648,"address":"Bronsgjutarvägen 50","startPrice":2150000,"hood":"Norsborg","lat":59.2536566,"squareMeters":95}
+{"lon":18.1872602,"address":"Brovallsvägen 40","startPrice":2500000,"hood":"Rydbo","lat":59.4632206,"squareMeters":116}
+{"lon":18.5492912,"address":"Brudbergsvägen 1","startPrice":2500000,"hood":"INGARÖ-SKÄLSMARA","lat":59.2507699,"squareMeters":100}
+{"lon":17.5214784,"address":"Bruksbacken 10","startPrice":2400000,"hood":"Ekerö Adelsö","lat":59.3843971,"squareMeters":128}
+{"lon":17.520194,"address":"Brukskogsvägen 30","startPrice":3895000,"hood":"Ekerö - Adelsö","lat":59.3868803,"squareMeters":0}
+{"lon":17.4138834,"address":"Brunskärsvägen 5","startPrice":1975000,"hood":"Ingarö Björkvik","lat":59.1423387,"squareMeters":49}
+{"lon":17.6415098,"address":"Brushanevägen 19","startPrice":2975000,"hood":"Råby Gärde \/ Bro","lat":59.5153405,"squareMeters":146}
+{"lon":18.0644881,"address":"Brushanevägen 24","startPrice":2753000,"hood":"Bro, Råby-Gärde","lat":59.3327881,"squareMeters":153}
+{"lon":18.0644881,"address":"Brushanevägen 25","startPrice":2737000,"hood":"Bro\/Råby Gärde","lat":59.3327881,"squareMeters":146}
+{"lon":18.295884,"address":"Bryggvägen 8","startPrice":4150000,"hood":"Tyresö Strand","lat":59.2431936,"squareMeters":130}
+{"lon":18.0947459,"address":"Brynhildsvägen 14","startPrice":5650000,"hood":"Täby Kyrkby","lat":59.5010582,"squareMeters":1295}
+{"lon":18.0946081,"address":"Brynhildsvägen 16","startPrice":5550000,"hood":"Täby Kyrkby","lat":59.5010974,"squareMeters":1295}
+{"lon":17.9626787,"address":"Bröderna Grimms Väg 6","startPrice":7900000,"hood":"Bromma - Smedslätten","lat":59.3209115,"squareMeters":142}
+{"lon":17.9546755,"address":"Buddlejavägen 29","startPrice":3675000,"hood":"Vistaberg\/Glömsta","lat":59.2365955,"squareMeters":112}
+{"lon":18.0644881,"address":"Bullerholmsgränd 63","startPrice":2700000,"hood":"Skärholmshöjden","lat":59.3327881,"squareMeters":185}
+{"lon":18.0644881,"address":"Buntmakarvägen 12","startPrice":2975000,"hood":"Utsälje","lat":59.3327881,"squareMeters":112}
+{"lon":18.0644881,"address":"Burträskgatan 65","startPrice":2900000,"hood":"Vällingbyhöjden","lat":59.3327881,"squareMeters":140}
+{"lon":18.3374352,"address":"Bygårdsvägen 7","startPrice":5695000,"hood":"Resarö","lat":59.4274558,"squareMeters":148}
+{"lon":17.9159209,"address":"Bygärdesvägen 5","startPrice":4395000,"hood":" ","lat":59.3804698,"squareMeters":270}
+{"lon":17.8530618,"address":"Byleden 11","startPrice":4490000,"hood":"Skälby","lat":59.3960963,"squareMeters":214}
+{"lon":17.5975489,"address":"Byvägen 16b","startPrice":3095000,"hood":"Ronna","lat":59.2023529,"squareMeters":150}
+{"lon":18.0644881,"address":"Byvägen 72a","startPrice":2995000,"hood":"Bårsta","lat":59.3327881,"squareMeters":170}
+{"lon":17.9171866,"address":"Båtsman Stens väg 51C","startPrice":3175000,"hood":"Spånga - Bromsten","lat":59.3847531,"squareMeters":104}
+{"lon":17.9171866,"address":"Båtsman Stens väg 51D","startPrice":3225000,"hood":"Spånga - Bromsten","lat":59.3847531,"squareMeters":104}
+{"lon":17.8855627,"address":"Båtsmansvägen 28","startPrice":3850000,"hood":"Centrum","lat":59.5173355,"squareMeters":122}
+{"lon":18.0631709,"address":"Båtsmansvägen 5, 18772  Täby","startPrice":3600000,"hood":"Täby Kyrkby","lat":59.5004476,"squareMeters":127}
+{"lon":18.0644881,"address":"Bäcktorpsvägen 27","startPrice":5495000,"hood":"Björknäs","lat":59.3327881,"squareMeters":160}
+{"lon":18.0644881,"address":"Bäverstigen 39","startPrice":2490000,"hood":"Tumba - Skäcklinge","lat":59.3327881,"squareMeters":91}
+{"lon":17.9240024,"address":"Carl Barks Väg 29","startPrice":4195000,"hood":"Spånga Bromsten","lat":59.3772483,"squareMeters":151}
+{"lon":18.0644881,"address":"Caroline Östbergs Väg 7","startPrice":5475000,"hood":"Enskede - Kärringstan","lat":59.3327881,"squareMeters":139}
+{"lon":17.892147,"address":"Cederströmsvägen 12","startPrice":3295000,"hood":"Bromma Norra Ängby","lat":59.3472707,"squareMeters":66}
+{"lon":17.9452287,"address":"Celsiusvägen 16","startPrice":2875000,"hood":"Helenelund","lat":59.4212023,"squareMeters":121}
+{"lon":18.2075045,"address":"Centralgatan 29A","startPrice":2395000,"hood":"Centrum","lat":59.2242863,"squareMeters":166}
+{"lon":17.9491539,"address":"Centralgatan 49","startPrice":2895000,"hood":"Centrala Nynäshamn","lat":58.9033867,"squareMeters":175}
+{"lon":18.2058479,"address":"Centralvägen 22 B","startPrice":3100000,"hood":"Trollbäcken","lat":59.2254775,"squareMeters":72}
+{"lon":18.0644881,"address":"Centralvägen 32","startPrice":3975000,"hood":"Näsby Park","lat":59.3327881,"squareMeters":93}
+{"lon":18.0644881,"address":"Centralvägen 44","startPrice":2325000,"hood":"Centralt","lat":59.3327881,"squareMeters":99}
+{"lon":18.1451105,"address":"Centrumvägen 15","startPrice":4100000,"hood":"Länna","lat":59.2061435,"squareMeters":156}
+{"lon":17.7528855,"address":"Champinjonstigen 2","startPrice":1800000,"hood":"Salem","lat":59.2028503,"squareMeters":125}
+{"lon":18.001875,"address":"Champinjonvägen 66","startPrice":2775000,"hood":"Sörskogen","lat":59.2210335,"squareMeters":105}
+{"lon":18.0005443,"address":"Champinjonvägen 73","startPrice":2195000,"hood":"Sörskogen","lat":59.2209728,"squareMeters":120}
+{"lon":18.1197493,"address":"Constantiavägen 12","startPrice":9950000,"hood":"Lidingö","lat":59.3703905,"squareMeters":185}
+{"lon":18.352705,"address":"Cronhamns Gränd 4","startPrice":15000000,"hood":"Centrala Vaxholm","lat":59.402499,"squareMeters":150}
+{"lon":17.6986248,"address":"Cypressvägen 1 - Lännavägen 47-Acceptpris - Först till kvarn!","startPrice":3675000,"hood":"Hörningsnäs","lat":59.0631801,"squareMeters":184}
+{"lon":18.3061713,"address":"Dadelvägen 3","startPrice":2695000,"hood":"Österskär","lat":59.4731027,"squareMeters":128}
+{"lon":18.0644881,"address":"Dagsverkarvägen 24","startPrice":3495000,"hood":"Bro-Österhagen","lat":59.3327881,"squareMeters":180}
+{"lon":18.0644881,"address":"Dahliavägen 5","startPrice":3995000,"hood":"Vikingshill","lat":59.3327881,"squareMeters":90}
+{"lon":18.2426314,"address":"Dalarövägen 103","startPrice":2995000,"hood":"Haninge\/Valsta\/Lännåker","lat":59.1197861,"squareMeters":121}
+{"lon":18.2505478,"address":"Dalen 2","startPrice":4675000,"hood":" ","lat":59.307516,"squareMeters":136}
+{"lon":18.0644881,"address":"Dalhagavägen 25","startPrice":1750000,"hood":"KARLHOV","lat":59.3327881,"squareMeters":90}
+{"lon":17.9275471,"address":"Dalkarlsgränd 6a","startPrice":3275000,"hood":"Bromma Kyrka","lat":59.3553704,"squareMeters":0}
+{"lon":18.0644881,"address":"Dalängsvägen 5","startPrice":2175000,"hood":"Soldalen","lat":59.3327881,"squareMeters":162}
+{"lon":18.0644881,"address":"Dammkärrsvägen 51","startPrice":1475000,"hood":"Dammkärr","lat":59.3327881,"squareMeters":65}
+{"lon":17.8914295,"address":"Danavägen 17","startPrice":3800000,"hood":"Bromma - Norra Ängby","lat":59.350014,"squareMeters":118}
+{"lon":18.0701145,"address":"Danderydsgatan 17","startPrice":0,"hood":"Östermalm","lat":59.3430491,"squareMeters":441}
+{"lon":18.0644881,"address":"Dappens Backe 32","startPrice":1250000,"hood":"Tegelvreten","lat":59.3327881,"squareMeters":46}
+{"lon":18.1119479,"address":"Diakongränd 16","startPrice":4350000,"hood":"Sköndal","lat":59.2506219,"squareMeters":168}
+{"lon":18.0644881,"address":"Diskusvägen 11B","startPrice":5675000,"hood":"Törnskogen","lat":59.3327881,"squareMeters":150}
+{"lon":17.5856347,"address":"Diskusvägen 5","startPrice":2895000,"hood":"Geneta","lat":59.1880947,"squareMeters":128}
+{"lon":17.7814071,"address":"Djupviksvägen 2","startPrice":2775000,"hood":"Fiskarhagen","lat":59.237289,"squareMeters":135}
+{"lon":17.9789851,"address":"Djursholm","startPrice":38500000,"hood":"Djursholm","lat":59.4512924,"squareMeters":1000}
+{"lon":17.9789851,"address":"Djursholm","startPrice":14500000,"hood":"Djursholm","lat":59.4512924,"squareMeters":290}
+{"lon":18.0907144,"address":"Djursholm-Svalnäs","startPrice":0,"hood":"Djursholm","lat":59.4100595,"squareMeters":630}
+{"lon":18.0644881,"address":"Djursholmsvägen 53","startPrice":7700000,"hood":"Näsby Park","lat":59.3327881,"squareMeters":418}
+{"lon":17.413342,"address":"Djurstaberg 15","startPrice":1000000,"hood":"Djurstaberg","lat":59.2135168,"squareMeters":50}
+{"lon":17.9109523,"address":"Doktor Abrahams Väg 85","startPrice":3795000,"hood":"Bromma-Eneby","lat":59.3606603,"squareMeters":66}
+{"lon":17.9197379,"address":"Doktor Robertsons Väg 10","startPrice":3495000,"hood":"Spånga Bromsten","lat":59.3804873,"squareMeters":83}
+{"lon":18.0651021,"address":"Doktorsvägen 18","startPrice":1395000,"hood":"Vidja","lat":59.200826,"squareMeters":26}
+{"lon":18.0004945,"address":"Domherrevägen 10 A","startPrice":6318225,"hood":"Sollentuna - Sjöberg","lat":59.4267051,"squareMeters":1994}
+{"lon":18.0004945,"address":"Domherrevägen 10 B","startPrice":6852875,"hood":"Sollentuna - Sjöberg","lat":59.4267051,"squareMeters":216}
+{"lon":18.2923058,"address":"Drabantvägen 58","startPrice":6995000,"hood":"Boo Gård","lat":59.3141397,"squareMeters":201}
+{"lon":17.9988668,"address":"Drabbningsvägen 19","startPrice":3500000,"hood":"Älvsjö Gamla Älvsjö","lat":59.2743696,"squareMeters":136}
+{"lon":17.8199038,"address":"Drivbänksvägen 4","startPrice":2375000,"hood":"Hässelby","lat":59.3811566,"squareMeters":90}
+{"lon":17.9737528,"address":"Drotsvägen 25","startPrice":5500000,"hood":"Edsviken","lat":59.4169152,"squareMeters":110}
+{"lon":18.0644881,"address":"Drottning Kristinas Väg 101","startPrice":2395000,"hood":"Bolkadalen","lat":59.3327881,"squareMeters":139}
+{"lon":18.7066892,"address":"Drottning Kristinas Väg 33","startPrice":2895000,"hood":"Kvisthamra","lat":59.7501896,"squareMeters":151}
+{"lon":17.8859605,"address":"Duvbergsvägen 11","startPrice":2100000,"hood":"Vårby Gård","lat":59.2608158,"squareMeters":68}
+{"lon":18.0644881,"address":"Duvbergsvägen 54 B","startPrice":5450000,"hood":"Duvberget","lat":59.3327881,"squareMeters":202}
+{"lon":17.8844024,"address":"Duvbergsvägen 62B","startPrice":4350000,"hood":"Huddinge- Vårby","lat":59.2607392,"squareMeters":160}
+{"lon":18.0644881,"address":"Duvkullavägen 27","startPrice":3995000,"hood":"Duvbo","lat":59.3327881,"squareMeters":122}
+{"lon":18.0644881,"address":"Dvärglinsgränd 128","startPrice":2275000,"hood":"Hässelby Villastad Norra","lat":59.3327881,"squareMeters":117}
+{"lon":18.2067516,"address":"Dvärgvägen 2b","startPrice":3650000,"hood":"Trollbäcken","lat":59.2283267,"squareMeters":100}
+{"lon":18.4076682,"address":"Dyviksvägen 82","startPrice":3795000,"hood":"Brevik","lat":59.1856695,"squareMeters":123}
+{"lon":18.4076682,"address":"Dyviksvägen 82","startPrice":3795000,"hood":"Brevik","lat":59.1856695,"squareMeters":123}
+{"lon":18.912837,"address":"Däckvägen 10","startPrice":1700000,"hood":"Nynäshamn - Sandhamn","lat":59.2874428,"squareMeters":102}
+{"lon":17.9378906,"address":"Däckvägen 2","startPrice":2300000,"hood":"Nynäshamn sjöutsikt","lat":58.8901828,"squareMeters":125}
+{"lon":18.0644881,"address":"Eddavägen 17 A","startPrice":13000000,"hood":"Djursholm - Svalnäs","lat":59.3327881,"squareMeters":318}
+{"lon":18.0644881,"address":"Edebo-Gillberga 3:10","startPrice":495000,"hood":"Edebo, Gillberga","lat":59.3327881,"squareMeters":80}
+{"lon":18.6053678,"address":"Edebovägen 9A","startPrice":2590000,"hood":"Häverödal","lat":60.0260734,"squareMeters":445}
+{"lon":17.8713727,"address":"Edebyvägen 51","startPrice":8500000,"hood":"Drottningholm","lat":59.3059201,"squareMeters":180}
+{"lon":18.353525,"address":"Edsbro-Ytterby","startPrice":650000,"hood":"Edsbro Ytterby","lat":59.4265,"squareMeters":100}
+{"lon":18.956248,"address":"Edsgarnsvägen 44","startPrice":2495000,"hood":"Vätö, Harg","lat":59.814761,"squareMeters":122}
+{"lon":18.956248,"address":"Edsgarnsvägen 44","startPrice":2495000,"hood":"Vätö, Harg","lat":59.814761,"squareMeters":122}
+{"lon":17.7,"address":"Egelsholm","startPrice":9900000,"hood":"Mörkö","lat":59.0,"squareMeters":110}
+{"lon":17.7,"address":"Egelsholm","startPrice":9900000,"hood":"Mörkö","lat":59.0,"squareMeters":110}
+{"lon":17.6387824,"address":"Ekbackestigen 8","startPrice":1395000,"hood":"VIKSBERG","lat":59.2464937,"squareMeters":56}
+{"lon":17.951388,"address":"Ekbacksvägen 17B","startPrice":3295000,"hood":"Ekbacken","lat":59.1009009,"squareMeters":121}
+{"lon":18.2145362,"address":"Ekdalsvägen 5","startPrice":2650000,"hood":" ","lat":59.189407,"squareMeters":115}
+{"lon":18.5330988,"address":"Ekeby","startPrice":875000,"hood":"Bergshamra - Riala","lat":59.6300828,"squareMeters":129}
+{"lon":17.6027187,"address":"Ekebyvägen 145","startPrice":2295000,"hood":"Ekeby","lat":59.3629002,"squareMeters":146}
+{"lon":17.9775363,"address":"Ekebyvägen 47","startPrice":1895000,"hood":"Ekeby","lat":59.5232864,"squareMeters":100}
+{"lon":17.5916869,"address":"Ekebyvägen 48","startPrice":2175000,"hood":"Ekerö Munsö","lat":59.3704784,"squareMeters":184}
+{"lon":18.0644881,"address":"Ekebyvägen 8 D","startPrice":1495000,"hood":"Rimbo - Centralt","lat":59.3327881,"squareMeters":99}
+{"lon":17.9817017,"address":"Ekhagsvägen 8A","startPrice":3290000,"hood":"Ekeby","lat":59.5215275,"squareMeters":1015}
+{"lon":18.0644881,"address":"Ekhammarsvägen 22","startPrice":2495000,"hood":"Kungsängen Centrum","lat":59.3327881,"squareMeters":129}
+{"lon":18.3909877,"address":"Ekhammarsvägen 25","startPrice":3695000,"hood":"Lervik","lat":59.4633263,"squareMeters":157}
+{"lon":17.9577084,"address":"Ekhamravägen 1","startPrice":2550000,"hood":"Norra Sorunda","lat":59.0992442,"squareMeters":160}
+{"lon":18.354497,"address":"Ekholmsvägen 14","startPrice":15000000,"hood":"Saltsjöbaden - Älgö","lat":59.2633258,"squareMeters":128}
+{"lon":18.056589,"address":"Ekingevägen 13","startPrice":4920000,"hood":" ","lat":59.1147887,"squareMeters":172}
+{"lon":18.232943,"address":"Eklundavägen 8","startPrice":5475000,"hood":"Saltsjö-Boo Eknäs","lat":59.3116253,"squareMeters":174}
+{"lon":17.5239428,"address":"Ekorrstigen 18","startPrice":2595000,"hood":"Ekeby","lat":59.2533257,"squareMeters":135}
+{"lon":18.0347889,"address":"Ekorrvägen 60 (HUSET ÄR SÅLT, VISNINGARNA INSTÄLLDA","startPrice":5950000,"hood":"Näset","lat":59.0526217,"squareMeters":128}
+{"lon":18.0644881,"address":"Ekovägen 45 B","startPrice":1795000,"hood":"Duvbo\/Duvboskogen","lat":59.3327881,"squareMeters":65}
+{"lon":18.0904596,"address":"Ekshäradsgatan 49","startPrice":2975000,"hood":"Farsta Strand","lat":59.2383026,"squareMeters":87}
+{"lon":18.6649931,"address":"Eksjövägen 11","startPrice":1475000,"hood":"Djurö\/Vindö Överby","lat":59.3615821,"squareMeters":76}
+{"lon":18.2893267,"address":"Ekstigen 13","startPrice":6595000,"hood":"Tyresö Strand","lat":59.2374611,"squareMeters":160}
+{"lon":17.6415098,"address":"Eksätervägen 3 - ACCEPTPRIS","startPrice":3850000,"hood":"Bro","lat":59.5153405,"squareMeters":153}
+{"lon":17.9398127,"address":"Eksätravägen 180","startPrice":2695000,"hood":"Bredäng","lat":59.289411,"squareMeters":136}
+{"lon":17.2685489,"address":"Ekudden 9075","startPrice":1425000,"hood":"Rimbo, Ekudden","lat":59.2063544,"squareMeters":78}
+{"lon":17.6169895,"address":"Ekviksvägen 9A","startPrice":5950000,"hood":"Ekvik","lat":59.0438942,"squareMeters":224}
+{"lon":18.4260947,"address":"Ekvägen 11 - SÅLD","startPrice":3200000,"hood":"Märsta - Norrbacka","lat":59.5377478,"squareMeters":150}
+{"lon":17.829528,"address":"Ekvägen 27","startPrice":1875000,"hood":"Svärdsö","lat":58.872137,"squareMeters":86}
+{"lon":18.465992,"address":"Ekåsen 9","startPrice":4700000,"hood":"Värmdö - Skeppsdalsström","lat":59.3028758,"squareMeters":146}
+{"lon":17.9457998,"address":"Eldtornsvägen 5","startPrice":2295000,"hood":"Vistaberg","lat":59.2372767,"squareMeters":1011}
+{"lon":18.1776169,"address":"Elfviksvägen 70","startPrice":12500000,"hood":"Lidingö - Kyrkviken","lat":59.3669384,"squareMeters":300}
+{"lon":17.7284329,"address":"Elgerudsvägen 5","startPrice":5595000,"hood":"Rönninge","lat":59.1848429,"squareMeters":180}
+{"lon":18.0393072,"address":"Ellagårdsvägen 132","startPrice":2675000,"hood":"Ellagård","lat":59.4460796,"squareMeters":110}
+{"lon":18.0644881,"address":"Ellakrogsvägen 8b","startPrice":6975000,"hood":"Ella Park","lat":59.3327881,"squareMeters":214}
+{"lon":18.0644881,"address":"Ellaparksvägen 12A","startPrice":2850000,"hood":"Ellapark","lat":59.3327881,"squareMeters":90}
+{"lon":17.9545344,"address":"Elvingebacken 1","startPrice":1695000,"hood":"Norra Sorunda","lat":59.0990095,"squareMeters":72}
+{"lon":18.4323027,"address":"Elviravägen 5","startPrice":7000000,"hood":"Värmdö","lat":59.4149929,"squareMeters":120}
+{"lon":18.6053498,"address":"Emmavägen 9","startPrice":825000,"hood":"Hallstavik","lat":60.0455804,"squareMeters":123}
+{"lon":17.656967,"address":"Eneby","startPrice":3200000,"hood":"Håbo-Tibble","lat":59.590345,"squareMeters":130}
+{"lon":18.4154131,"address":"Enoc Åkerströms Väg 6","startPrice":3850000,"hood":"Skärgårdsstad","lat":59.4855802,"squareMeters":169}
+{"lon":18.0644881,"address":"Enskiftesvägen 34","startPrice":1795000,"hood":"Alby - Kvarnhagen","lat":59.3327881,"squareMeters":136}
+{"lon":17.7820647,"address":"Enstavägen 52","startPrice":6700000,"hood":"Ensta","lat":59.1875093,"squareMeters":167}
+{"lon":17.7824004,"address":"Enstavägen 5a","startPrice":6795000,"hood":"Ensta","lat":59.1874301,"squareMeters":1699}
+{"lon":17.7820647,"address":"Enstavägen 61","startPrice":4975000,"hood":"Ensta","lat":59.1875093,"squareMeters":153}
+{"lon":18.0644881,"address":"Entitevägen 12","startPrice":2750000,"hood":"Ösbydalen","lat":59.3327881,"squareMeters":119}
+{"lon":18.0644881,"address":"Entitevägen 17","startPrice":2795000,"hood":"Ösbydalen","lat":59.3327881,"squareMeters":119}
+{"lon":18.0644881,"address":"Eriksvägen 39","startPrice":7495000,"hood":"Duvbo","lat":59.3327881,"squareMeters":169}
+{"lon":18.0644881,"address":"Esplanaden 20a","startPrice":2295000,"hood":"Vendelsö\/Lyckeby","lat":59.3327881,"squareMeters":118}
+{"lon":18.1532508,"address":"Etydgränd 45","startPrice":3200000,"hood":"Trångsund","lat":59.2259963,"squareMeters":106}
+{"lon":17.6148352,"address":"Evalundsgatan 5a","startPrice":3795000,"hood":"Västergård","lat":59.19033,"squareMeters":169}
+{"lon":18.0644881,"address":"Fagerlidsvägen 8","startPrice":4400000,"hood":"Kungsängen \/ Strandvägsområdet","lat":59.3327881,"squareMeters":162}
+{"lon":18.2620321,"address":"Fageruddsgränd 28","startPrice":3250000,"hood":"Tyresö Strand","lat":59.2523006,"squareMeters":1128}
+{"lon":17.7534943,"address":"Fajansstigen 36","startPrice":1695000,"hood":"Brunna - Kungsängen","lat":59.5098071,"squareMeters":115}
+{"lon":18.0644881,"address":"Falkvägen 1","startPrice":3500000,"hood":"Södra Lännersta","lat":59.3327881,"squareMeters":31}
+{"lon":17.9974936,"address":"Falkvägen 4a","startPrice":3800000,"hood":"Älvsjö Långbro","lat":59.2786805,"squareMeters":140}
+{"lon":18.0644881,"address":"Fannydalsplatån 27","startPrice":3695000,"hood":"Storängen","lat":59.3327881,"squareMeters":96}
+{"lon":18.0644881,"address":"Fantans väg 34","startPrice":5295000,"hood":"Ekerö Sandudden","lat":59.3327881,"squareMeters":170}
+{"lon":18.0644881,"address":"Fantholmsvägen 3","startPrice":3690000,"hood":"Träkvista torg","lat":59.3327881,"squareMeters":122}
+{"lon":18.688171,"address":"Fasanens Väg 6","startPrice":1900000,"hood":"Stavsnäs","lat":59.285524,"squareMeters":136}
+{"lon":17.9932544,"address":"Fasanvägen 24a","startPrice":7000000,"hood":"Sjöberg","lat":59.4272843,"squareMeters":129}
+{"lon":17.8065578,"address":"Februarivägen 16","startPrice":3975000,"hood":"Jakobsberg","lat":59.4260025,"squareMeters":161}
+{"lon":18.0018317,"address":"Feroxgatan hus Nr: 11","startPrice":5100000,"hood":"Solna","lat":59.3586897,"squareMeters":116}
+{"lon":18.0018317,"address":"Feroxgatan hus Nr: 12 - 19","startPrice":4875000,"hood":"Solna","lat":59.3586897,"squareMeters":116}
+{"lon":18.0018317,"address":"Feroxgatan hus Nr: 20","startPrice":5450000,"hood":"Solna","lat":59.3586897,"squareMeters":134}
+{"lon":18.3416746,"address":"Finborgsvägen 34","startPrice":1795000,"hood":"Brevik","lat":59.2236008,"squareMeters":0}
+{"lon":17.312898,"address":"Finkarbyvägen 26","startPrice":1250000,"hood":"NYKVARN Finkarby","lat":59.2279719,"squareMeters":41}
+{"lon":18.0644881,"address":"Fiskare Glans Gata 3","startPrice":5995000,"hood":"Sigtuna - Björkbacka Strand","lat":59.3327881,"squareMeters":176}
+{"lon":18.0644881,"address":"Fiskare Lundbergs Gata 22","startPrice":6250000,"hood":"Björkbacka Strand","lat":59.3327881,"squareMeters":176}
+{"lon":18.9474779,"address":"Fiskebyvägen 22","startPrice":2100000,"hood":"Vätö","lat":59.8073196,"squareMeters":67}
+{"lon":18.0563763,"address":"Fiskmåsvägen 30","startPrice":1975000,"hood":"Fagersjö","lat":59.2497343,"squareMeters":118}
+{"lon":18.8589453,"address":"Fjäll 5:9","startPrice":3950000,"hood":"Väddö","lat":59.9644568,"squareMeters":65}
+{"lon":18.0644881,"address":"Fjätursvägen 1","startPrice":2975000,"hood":"Södersättra","lat":59.3327881,"squareMeters":83}
+{"lon":18.0644881,"address":"Fladenvägen 10","startPrice":8750000,"hood":"Ingarö Östernäs","lat":59.3327881,"squareMeters":260}
+{"lon":18.0644881,"address":"Floravägen 11","startPrice":2495000,"hood":"Blombacka","lat":59.3327881,"squareMeters":123}
+{"lon":18.0644881,"address":"Floravägen 11","startPrice":3395000,"hood":"Stuvsta Centrum","lat":59.3327881,"squareMeters":181}
+{"lon":17.9165405,"address":"Flottiljvägen 137","startPrice":3295000,"hood":"Tullinge - Riksten","lat":59.1884468,"squareMeters":128}
+{"lon":18.0644881,"address":"Flottiljvägen 166 - Hus 43","startPrice":3250000,"hood":"Riksten Friluftsstad","lat":59.3327881,"squareMeters":130}
+{"lon":18.0644881,"address":"Flottiljvägen 168- Hus 44","startPrice":3175000,"hood":"Riksten Friluftsstad","lat":59.3327881,"squareMeters":132}
+{"lon":18.0644881,"address":"Flåsjövägen 21","startPrice":2675000,"hood":"Stavsnäs\/Ramsmora","lat":59.3327881,"squareMeters":62}
+{"lon":17.9464971,"address":"Flädervägen 49","startPrice":3490000,"hood":"Bollstanäs","lat":59.4962124,"squareMeters":154}
+{"lon":18.0644881,"address":"Foderbylund","startPrice":1500000,"hood":" ","lat":59.3327881,"squareMeters":70}
+{"lon":18.51063,"address":"Forellstigen 20","startPrice":1800000,"hood":"HERRVIKSNÄS VÄRMDÖ","lat":59.321454,"squareMeters":60}
+{"lon":17.8237728,"address":"Forellvägen 7","startPrice":1695000,"hood":"Tumba","lat":59.2088854,"squareMeters":94}
+{"lon":17.8370249,"address":"Formansgränd 9","startPrice":2375000,"hood":"Hässelby","lat":59.3730836,"squareMeters":95}
+{"lon":17.9725796,"address":"Fornborgsvägen 22 B","startPrice":1775000,"hood":"Solgård","lat":59.227817,"squareMeters":1117}
+{"lon":17.9814343,"address":"Fornborgsvägen 63A","startPrice":5025000,"hood":"Solgård","lat":59.2225366,"squareMeters":167}
+{"lon":17.9662688,"address":"Fornborgsvägen 6F","startPrice":3995000,"hood":"Huddinge - Solgård","lat":59.2291157,"squareMeters":174}
+{"lon":18.0644881,"address":"Fornstigen 3","startPrice":2775000,"hood":"Bårsta","lat":59.3327881,"squareMeters":132}
+{"lon":17.9001529,"address":"Forsbacken 1","startPrice":0,"hood":"Ösmo","lat":58.9831364,"squareMeters":200}
+{"lon":18.1688132,"address":"Framnäsvägen 5","startPrice":1475000,"hood":"Frösunda","lat":59.6277091,"squareMeters":72}
+{"lon":17.6544697,"address":"Framnäsvägen 8","startPrice":6700000,"hood":"Centrum","lat":59.1790787,"squareMeters":126}
+{"lon":18.266604,"address":"Frans Mobergs Väg 5","startPrice":7750000,"hood":"Kummelnäs","lat":59.3498675,"squareMeters":260}
+{"lon":18.049868,"address":"Fredenvägen 2","startPrice":2695000,"hood":"Vallentuna","lat":59.5610162,"squareMeters":75}
+{"lon":17.7239649,"address":"Fredriksbergsvägen 22","startPrice":6700000,"hood":"Centrala Sigtuna","lat":59.6173358,"squareMeters":202}
+{"lon":18.0644881,"address":"Fredriksbergsvägen 24","startPrice":6450000,"hood":"Lilla Björknäs","lat":59.3327881,"squareMeters":80}
+{"lon":18.0644881,"address":"Fredriksbergsvägen 40","startPrice":2375000,"hood":"Vendelsömalm","lat":59.3327881,"squareMeters":133}
+{"lon":18.3321221,"address":"Fredriksstrandsvägen 1","startPrice":23000000,"hood":"Vaxholm","lat":59.4005201,"squareMeters":500}
+{"lon":17.6819673,"address":"Frejas Väg 8","startPrice":2800000,"hood":"Ekerö Helgö","lat":59.2789288,"squareMeters":90}
+{"lon":18.598703,"address":"Frejvägen 1 A +1B","startPrice":1100000,"hood":"Hallstavik","lat":60.0465324,"squareMeters":98}
+{"lon":18.4923283,"address":"Frihamra 5704 B","startPrice":695000,"hood":"Frihamra","lat":59.7242006,"squareMeters":45}
+{"lon":18.0644881,"address":"Fritzbergsvägen 10","startPrice":2995000,"hood":"Bällstalund","lat":59.3327881,"squareMeters":119}
+{"lon":18.0644881,"address":"Fritzbergsvägen 20","startPrice":3495000,"hood":"Bällstalund","lat":59.3327881,"squareMeters":143}
+{"lon":18.4155059,"address":"Fritz Janssons Väg 10","startPrice":3700000,"hood":"Skärgårdsstad","lat":59.487445,"squareMeters":135}
+{"lon":18.4168996,"address":"Fritz Janssons Väg 29","startPrice":4800000,"hood":"Skärgårdsstad","lat":59.4835657,"squareMeters":170}
+{"lon":18.0644881,"address":"Frubol 8720","startPrice":1075000,"hood":"Gottröra - Frubol","lat":59.3327881,"squareMeters":60}
+{"lon":17.9442689,"address":"Fruängsvägen 104","startPrice":1470000,"hood":"Odenslunda","lat":59.514825,"squareMeters":90}
+{"lon":17.9399993,"address":"Fruängsvägen 18","startPrice":3495000,"hood":"Odenslunda","lat":59.516955,"squareMeters":150}
+{"lon":17.9345272,"address":"Frötunagränd 14","startPrice":2995000,"hood":"Brunnby Vik","lat":59.5262608,"squareMeters":154}
+{"lon":17.9275333,"address":"Furulundsvägen 29","startPrice":3650000,"hood":"Östra Bällsta","lat":59.3658028,"squareMeters":159}
+{"lon":17.6359745,"address":"Furuvägen 1","startPrice":1150000,"hood":"Färingsö Kungsberga","lat":59.4047664,"squareMeters":48}
+{"lon":18.0644881,"address":"Furuvägen 17","startPrice":1600000,"hood":"Färingsö Jäsängen","lat":59.3327881,"squareMeters":72}
+{"lon":18.6039263,"address":"Furuvägen 23","startPrice":850000,"hood":"Hallstavik","lat":60.0588843,"squareMeters":152}
+{"lon":18.0497845,"address":"Fyrgränd 1","startPrice":2375000,"hood":"Huddinge - Högmora","lat":59.2409262,"squareMeters":55}
+{"lon":18.0644881,"address":"Fyrvägen 8","startPrice":2985000,"hood":"Södernäs viss sjöutsikt","lat":59.3327881,"squareMeters":81}
+{"lon":18.0644881,"address":"Fågelbrostigen 428","startPrice":3950000,"hood":"Fågelbro Säteri Skärgårdshusen","lat":59.3327881,"squareMeters":118}
+{"lon":18.0644881,"address":"Fågelbrostigen 434","startPrice":3350000,"hood":"Fågelbro Säteri Skärgårdshusen","lat":59.3327881,"squareMeters":126}
+{"lon":18.0644881,"address":"Fågelbrostigen 512","startPrice":4200000,"hood":"Fågelbro Säteri Skärgårdshusen","lat":59.3327881,"squareMeters":124}
+{"lon":17.8341852,"address":"Fågelvägen 20","startPrice":2450000,"hood":"Märsta - Ekilla","lat":59.6280164,"squareMeters":120}
+{"lon":18.0644881,"address":"Fågelvägen 2A","startPrice":3100000,"hood":"Stuvsta Segersminne","lat":59.3327881,"squareMeters":110}
+{"lon":18.0644881,"address":"Fågelvägen 4","startPrice":1150000,"hood":"Folkparksområdet","lat":59.3327881,"squareMeters":512}
+{"lon":17.8965138,"address":"Fägringsbrinken 17","startPrice":5475000,"hood":"Spånga - Flysta","lat":59.3666291,"squareMeters":176}
+{"lon":18.0941931,"address":"Färnebogatan 43","startPrice":2995000,"hood":"Farsta Centrum","lat":59.2483203,"squareMeters":147}
+{"lon":18.0644881,"address":"Färsna, etapp 1","startPrice":2450000,"hood":"Färsna","lat":59.3327881,"squareMeters":0}
+{"lon":18.0770415,"address":"Förvaltarvägen 17","startPrice":3975000,"hood":"Hökarängen\/Farsta","lat":59.2516612,"squareMeters":90}
+{"lon":18.9053704,"address":"Förängen","startPrice":2695000,"hood":"Blidö","lat":59.6128934,"squareMeters":108}
+{"lon":17.6720544,"address":"Gabrielsvägen 3","startPrice":3875000,"hood":"BERGVIK","lat":59.3001049,"squareMeters":160}
+{"lon":18.4745932,"address":"Gallbodavägen 38","startPrice":2950000,"hood":"Gallboda","lat":59.5134656,"squareMeters":54}
+{"lon":17.8958875,"address":"Galtabäcksvägen 8","startPrice":2850000,"hood":"Bromma Norra ängby","lat":59.3476128,"squareMeters":89}
+{"lon":18.4524767,"address":"Gamla Brunnsvägen 96","startPrice":4695000,"hood":"Ingarö - Brunn","lat":59.2724625,"squareMeters":128}
+{"lon":18.0644881,"address":"Gamla Enhörnavägen 25","startPrice":1850000,"hood":"Bårsta","lat":59.3327881,"squareMeters":95}
+{"lon":17.918708,"address":"Gamla Stockholmsvägen 227 A","startPrice":4550000,"hood":"Huddinge - Glömsta","lat":59.2431788,"squareMeters":137}
+{"lon":17.8951443,"address":"Gamla Södertäljevägen 144","startPrice":3675000,"hood":"Segeltorp","lat":59.2634046,"squareMeters":135}
+{"lon":17.9492947,"address":"Gamla vägen 14","startPrice":16000000,"hood":"Bollstanäs","lat":59.4883742,"squareMeters":250}
+{"lon":17.9496602,"address":"Gamla Vägen 21C","startPrice":5350000,"hood":"Bollstanäs gamla Vägen","lat":59.4912393,"squareMeters":180}
+{"lon":17.9473315,"address":"Gamla vägen 7","startPrice":5500000,"hood":"Bollstanäs","lat":59.4887328,"squareMeters":199}
+{"lon":17.6560169,"address":"Gammelgårdsudd 3","startPrice":13000000,"hood":"Ekerö - Helgö","lat":59.2805525,"squareMeters":220}
+{"lon":18.2979691,"address":"Generalsvägen 34B","startPrice":9700000,"hood":"Österskär","lat":59.465474,"squareMeters":266}
+{"lon":17.6986248,"address":"Gideon Hydéns Väg 3","startPrice":4175000,"hood":"Hörningsnäs","lat":59.0631801,"squareMeters":154}
+{"lon":17.7868997,"address":"Gitarrvägen 77","startPrice":2995000,"hood":"Viksjö","lat":59.4044792,"squareMeters":159}
+{"lon":17.7503174,"address":"Glasyrvägen 22","startPrice":2495000,"hood":"Brunna","lat":59.5085525,"squareMeters":138}
+{"lon":17.9261237,"address":"Gliavägen 73","startPrice":5800000,"hood":"Bromma Kyrka","lat":59.3525857,"squareMeters":134}
+{"lon":18.0644881,"address":"Glimmerstigen 25","startPrice":1675000,"hood":"Kungsängen Tibblehöjden","lat":59.3327881,"squareMeters":117}
+{"lon":18.3456084,"address":"Glimmervägen 10B","startPrice":4900000,"hood":"Resarö","lat":59.4296297,"squareMeters":183}
+{"lon":18.0101635,"address":"Glimmervägen 26","startPrice":3150000,"hood":"Balingsnäs","lat":59.2257927,"squareMeters":119}
+{"lon":18.0624126,"address":"Gläntastigen 157","startPrice":3495000,"hood":"Uthamra","lat":59.5069465,"squareMeters":134}
+{"lon":18.0602051,"address":"Gläntastigen 35","startPrice":1675000,"hood":"Uthamra","lat":59.5059861,"squareMeters":99}
+{"lon":18.0594794,"address":"Gläntastigen 45","startPrice":1495000,"hood":"Uthamra","lat":59.5061567,"squareMeters":111}
+{"lon":18.0594794,"address":"Gläntastigen 45","startPrice":1495000,"hood":"Uthamra","lat":59.5061567,"squareMeters":111}
+{"lon":18.0713084,"address":"Gnejsvägen 19","startPrice":1795000,"hood":"Västerhaninge\/Krigslida","lat":59.1177991,"squareMeters":120}
+{"lon":18.0644881,"address":"Gottröra Håsta 8105","startPrice":3495000,"hood":"Gottröra","lat":59.3327881,"squareMeters":184}
+{"lon":18.0644881,"address":"Gottröra Håsta 8105","startPrice":3495000,"hood":"Gottröra","lat":59.3327881,"squareMeters":184}
+{"lon":18.6056924,"address":"Gottstavägen 118","startPrice":1500000,"hood":"Häverödal","lat":60.0292727,"squareMeters":0}
+{"lon":18.601342,"address":"Gottstavägen 55","startPrice":1700000,"hood":"Hallstavik","lat":60.0405488,"squareMeters":157}
+{"lon":18.0644881,"address":"Granatvägen 7","startPrice":550000,"hood":"Färingsö Hillersjönäs","lat":59.3327881,"squareMeters":0}
+{"lon":18.0644881,"address":"Granatvägen 9","startPrice":1650000,"hood":"Färingsö Hillersjönäs","lat":59.3327881,"squareMeters":135}
+{"lon":18.0644881,"address":"Granbacken 24","startPrice":2195000,"hood":"Tumba Broängen","lat":59.3327881,"squareMeters":116}
+{"lon":18.0644881,"address":"Granbystrand","startPrice":0,"hood":"Granbystrand","lat":59.3327881,"squareMeters":0}
+{"lon":18.5926535,"address":"Grandalen 2175","startPrice":1750000,"hood":"Älmsta - Hallstavik","lat":60.0447919,"squareMeters":120}
+{"lon":18.5926535,"address":"Grandalen 2175","startPrice":1750000,"hood":"Älmsta - Hallstavik","lat":60.0447919,"squareMeters":120}
+{"lon":18.1291383,"address":"Granvägen 4 - 6","startPrice":20000000,"hood":"Hersby","lat":59.3689225,"squareMeters":0}
+{"lon":18.9791402,"address":"Granvägen 8","startPrice":1150000,"hood":"Åkerö - Västanvik","lat":59.7259125,"squareMeters":64}
+{"lon":17.9866387,"address":"Granåsvägen 29","startPrice":1500000,"hood":"Gladö Kvarn","lat":59.1940238,"squareMeters":48}
+{"lon":18.0939795,"address":"Gribbylunds Allé 92","startPrice":1975000,"hood":"Gribbylund","lat":59.4501926,"squareMeters":95}
+{"lon":17.9001529,"address":"Grimskaftet 10","startPrice":3978400,"hood":"KAPTENSGÅRDEN, Vansta Hästby, Ösmo","lat":58.9831364,"squareMeters":157}
+{"lon":17.9001529,"address":"Grimskaftet 12","startPrice":3978400,"hood":"KAPTENSGÅRDEN, Vansta Hästby, Ösmo","lat":58.9831364,"squareMeters":157}
+{"lon":17.9001529,"address":"Grimskaftet 14","startPrice":3968400,"hood":"KAPTENSGÅRDEN, Vansta Hästby, Ösmo","lat":58.9831364,"squareMeters":157}
+{"lon":17.9001529,"address":"Grimskaftet 4","startPrice":3761900,"hood":"KAPTENSGÅRDEN, Vansta Hästby, Ösmo","lat":58.9831364,"squareMeters":1596}
+{"lon":17.9001529,"address":"Grimskaftet 8","startPrice":3918400,"hood":"KAPTENSGÅRDEN, Vansta Hästby, Ösmo","lat":58.9831364,"squareMeters":157}
+{"lon":17.7551792,"address":"Grimstavägen 101","startPrice":3995000,"hood":"Sorunda","lat":58.975769,"squareMeters":185}
+{"lon":18.2019299,"address":"Grindstigen 4","startPrice":22500000,"hood":"Lidingö - Högberga","lat":59.3392575,"squareMeters":300}
+{"lon":18.0644881,"address":"Grindstuvägen 8","startPrice":3795000,"hood":"Centrala Stuvsta","lat":59.3327881,"squareMeters":130}
+{"lon":17.7088538,"address":"Gripens backe 7","startPrice":2200000,"hood":"Kungsängen \/ Sylta","lat":59.4815884,"squareMeters":0}
+{"lon":17.7088538,"address":"Gripens backe 9","startPrice":2800000,"hood":"Kungsängen \/ Sylta","lat":59.4815884,"squareMeters":0}
+{"lon":18.4467869,"address":"Grisslingebacken 2","startPrice":4895000,"hood":"Mörtnäs","lat":59.3142832,"squareMeters":153}
+{"lon":18.3553174,"address":"Gruvvägen 6","startPrice":7350000,"hood":"Resarö - Ytterby","lat":59.4271392,"squareMeters":250}
+{"lon":17.8901532,"address":"Gryningsvägen 27a","startPrice":4995000,"hood":"Spånga - Solhem","lat":59.3824154,"squareMeters":153}
+{"lon":17.9001529,"address":"Gryt 44","startPrice":2999000,"hood":"Ösmo -Gryt","lat":58.9831364,"squareMeters":185}
+{"lon":17.8530721,"address":"Grytstigen 48","startPrice":1850000,"hood":"Tumba","lat":59.1918186,"squareMeters":92}
+{"lon":18.6211264,"address":"Grytstigen 82","startPrice":1875000,"hood":"TUMBA - STORVRETEN","lat":59.9565454,"squareMeters":92}
+{"lon":18.2359304,"address":"Grytvägen 21","startPrice":5875000,"hood":"Eknäs","lat":59.3087577,"squareMeters":171}
+{"lon":18.0644881,"address":"Gränsridarvägen 11","startPrice":1895000,"hood":"Svinninge \/ Svartgarn","lat":59.3327881,"squareMeters":72}
+{"lon":17.7842242,"address":"Gränsvägen 20","startPrice":2675000,"hood":"Viksjö","lat":59.4164029,"squareMeters":125}
+{"lon":17.8018095,"address":"Gräsåkersvägen 11D","startPrice":2750000,"hood":"Ekerö - Gräsåker","lat":59.2754364,"squareMeters":116}
+{"lon":17.8036674,"address":"Gräsåkersvägen 25f","startPrice":2275000,"hood":"Ekerö Gräsåker","lat":59.2760643,"squareMeters":116}
+{"lon":18.0644881,"address":"Grävlingsstigen 24","startPrice":2495000,"hood":"Värmdövik","lat":59.3327881,"squareMeters":65}
+{"lon":17.9645136,"address":"Grävlingsvägen 47","startPrice":9250000,"hood":"BROMMA - STORA MOSSEN","lat":59.3336144,"squareMeters":188}
+{"lon":18.0132204,"address":"Gröndalsvägen 25","startPrice":1800000,"hood":"Gröndal","lat":59.3160197,"squareMeters":55}
+{"lon":18.3292942,"address":"Grönsiskevägen 10","startPrice":3375000,"hood":"Brevik","lat":59.2380931,"squareMeters":75}
+{"lon":17.9267231,"address":"Grönviksvägen 120","startPrice":8950000,"hood":"Bromma - Nockeby","lat":59.3241142,"squareMeters":198}
+{"lon":18.0967038,"address":"Gubbängsvägen  16","startPrice":3300000,"hood":"Enskede Gubbängen","lat":59.2643219,"squareMeters":96}
+{"lon":17.7991397,"address":"Gudby 13","startPrice":2300000,"hood":"Sorunda","lat":59.0162652,"squareMeters":109}
+{"lon":17.999995,"address":"Gudbyvägen 32","startPrice":2795000,"hood":"Fresta Glesbygd","lat":59.5128852,"squareMeters":100}
+{"lon":17.9578075,"address":"Guldvingevägen 35","startPrice":2495000,"hood":"Fresta","lat":59.5162656,"squareMeters":112}
+{"lon":18.0644881,"address":"Gullrands Väg 17","startPrice":1690000,"hood":"Eriksbergsåsen","lat":59.3327881,"squareMeters":95}
+{"lon":17.8026671,"address":"Gullrands Väg 71","startPrice":1450000,"hood":" ","lat":59.2427313,"squareMeters":82}
+{"lon":17.8394442,"address":"Gullrands Väg 89, friköpt tomt","startPrice":1795000,"hood":"Eriksberg","lat":58.8918985,"squareMeters":109}
+{"lon":17.9502091,"address":"Gullrisvägen 22","startPrice":3290000,"hood":"Bollstanäs","lat":59.4974901,"squareMeters":139}
+{"lon":18.0644881,"address":"Gullunge 5633","startPrice":2750000,"hood":"Rilanda - Gullunge","lat":59.3327881,"squareMeters":203}
+{"lon":17.8280925,"address":"Gullvivevägen 2","startPrice":1500000,"hood":"Sunnerby","lat":59.0224413,"squareMeters":97}
+{"lon":17.9472413,"address":"Gulmesvägen 8","startPrice":2975000,"hood":"Segeltorp","lat":59.2687522,"squareMeters":110}
+{"lon":18.0644881,"address":"Gulsparvsvägen 40","startPrice":3095000,"hood":"Nyby","lat":59.3327881,"squareMeters":125}
+{"lon":17.973376,"address":"Gulvedsbacken 4A &amp; 4B","startPrice":4295000,"hood":"Huddinge \/ Vistaberg","lat":59.2382,"squareMeters":155}
+{"lon":17.7167593,"address":"Gunnebovägen 4","startPrice":3350000,"hood":"Rönninge","lat":59.1976118,"squareMeters":149}
+{"lon":18.0644881,"address":"Gustafsvägen 2","startPrice":1500000,"hood":"HALLSTAVIK\/ Centralt","lat":59.3327881,"squareMeters":170}
+{"lon":17.7260012,"address":"Gustavslundsvägen 4","startPrice":7500000,"hood":"Rönninge","lat":59.1938854,"squareMeters":186}
+{"lon":17.718661,"address":"Gustavslundsvägen Hustyp: Freja","startPrice":4100000,"hood":"Gustavslund","lat":59.0933748,"squareMeters":156}
+{"lon":17.718661,"address":"Gustavslundsvägen Hustyp: Oden","startPrice":4200000,"hood":"Gustavslund","lat":59.0933748,"squareMeters":159}
+{"lon":17.718661,"address":"Gustavslundsvägen Hustyp: Tyr","startPrice":3595000,"hood":"Gustavslund","lat":59.0933748,"squareMeters":131}
+{"lon":18.521068,"address":"Gånglåten 2","startPrice":3750000,"hood":"Ljusterö - Linanäs","lat":59.4749059,"squareMeters":147}
+{"lon":17.7564298,"address":"Gånglåtsvägen 36","startPrice":1795000,"hood":"Brunna - Kungsängen","lat":59.5077948,"squareMeters":115}
+{"lon":17.8943719,"address":"Gårdsvägen 10e","startPrice":3995000,"hood":"Tullinge","lat":59.2104925,"squareMeters":150}
+{"lon":18.2348645,"address":"Gåshaga Brygga 29","startPrice":0,"hood":" ","lat":59.3554469,"squareMeters":207}
+{"lon":18.0644881,"address":"Gåshaga Brygga 8","startPrice":10500000,"hood":"Gåshaga","lat":59.3327881,"squareMeters":229}
+{"lon":17.8473188,"address":"Gällsta Bygränd 6","startPrice":3750000,"hood":"Ekerö Gällstaö","lat":59.2835838,"squareMeters":129}
+{"lon":17.8474233,"address":"Gällsta Bygränd 8","startPrice":3695000,"hood":"Ekerö - Gällstaö","lat":59.2835726,"squareMeters":129}
+{"lon":18.0644881,"address":"Gärdsgårdsvägen 3","startPrice":3495000,"hood":"Tynningö Norra","lat":59.3327881,"squareMeters":100}
+{"lon":18.0729413,"address":"Gökvägen 15","startPrice":4700000,"hood":"Västerhaninge Krigslida","lat":59.1149083,"squareMeters":180}
+{"lon":17.8519412,"address":"Gökvägen 1b","startPrice":8750000,"hood":"Saltsjöbaden \/ Solsidan","lat":59.2781585,"squareMeters":250}
+{"lon":18.0644881,"address":"Gömmarvägen 8","startPrice":1350000,"hood":"Glömsta - Gömmaren","lat":59.3327881,"squareMeters":30}
+{"lon":18.5926535,"address":"Göringe 2065","startPrice":1550000,"hood":"Göringe Hallstavik","lat":60.0447919,"squareMeters":113}
+{"lon":18.0644881,"address":"Görlaslingan 11","startPrice":2195000,"hood":"Görla","lat":59.3327881,"squareMeters":116}
+{"lon":18.0644881,"address":"Gösta Ekmans Väg 13","startPrice":2750000,"hood":"Eriksvik","lat":59.3327881,"squareMeters":89}
+{"lon":18.0644881,"address":"Gösta Frohms Väg 8(tomt 6)","startPrice":1130000,"hood":"Tullinge Riksten Friluftsstad","lat":59.3327881,"squareMeters":0}
+{"lon":18.1020722,"address":"Gösvägen 44","startPrice":7750000,"hood":"Sticklinge","lat":59.3831354,"squareMeters":150}
+{"lon":18.0772569,"address":"Götavägen 158","startPrice":4975000,"hood":"Gribbylund","lat":59.4638224,"squareMeters":149}
+{"lon":18.0644881,"address":"Hackspettsvägen 25","startPrice":2990000,"hood":"Gustavsberg - Ösbydalen","lat":59.3327881,"squareMeters":120}
+{"lon":18.0644881,"address":"Hackspettsvägen 5","startPrice":2975000,"hood":"Gustavsberg - Ösbydalen","lat":59.3327881,"squareMeters":120}
+{"lon":17.8712576,"address":"Haga 22","startPrice":2495000,"hood":"Grödinge","lat":59.1060217,"squareMeters":100}
+{"lon":17.8712576,"address":"Haga 22","startPrice":2195000,"hood":"Grödinge","lat":59.1060217,"squareMeters":100}
+{"lon":18.0644881,"address":"Hagagatan 8","startPrice":3450000,"hood":"Järna, centrum","lat":59.3327881,"squareMeters":134}
+{"lon":17.4221465,"address":"Hagens Backe 4","startPrice":3650000,"hood":"Ekerö Lundhagen","lat":59.2856176,"squareMeters":140}
+{"lon":17.9001529,"address":"HAGSGÅRDEN,  Vansta Hästby","startPrice":3461500,"hood":"HAGSGÅRDEN, Vansta Hästby, Ösmo","lat":58.9831364,"squareMeters":84}
+{"lon":17.9001529,"address":"HAGSGÅRDEN,  Vansta Hästby","startPrice":3761000,"hood":"HAGSGÅRDEN, Vansta Hästby, Ösmo","lat":58.9831364,"squareMeters":132}
+{"lon":18.0644881,"address":"Hallunda Gårdsväg 22","startPrice":1995000,"hood":"Slagsta","lat":59.3327881,"squareMeters":119}
+{"lon":17.7990096,"address":"Hallundavägen 133","startPrice":1825000,"hood":"Norsborg - Hallunda","lat":59.2441229,"squareMeters":88}
+{"lon":17.8015313,"address":"Hallundavägen 95","startPrice":1975000,"hood":"Norsborg","lat":59.244194,"squareMeters":106}
+{"lon":17.9998814,"address":"Hammarbacken 10","startPrice":17800000,"hood":"Danderyd","lat":59.4143415,"squareMeters":303}
+{"lon":18.0644881,"address":"Hammarbacken 4","startPrice":3350000,"hood":"Sigtuna - Hammaren","lat":59.3327881,"squareMeters":147}
+{"lon":18.0486762,"address":"Hammarbergsvägen 1","startPrice":3990000,"hood":"Tungelsta","lat":59.1081305,"squareMeters":133}
+{"lon":18.0378776,"address":"Hammardalsslingan 51","startPrice":895000,"hood":" ","lat":59.2278439,"squareMeters":38}
+{"lon":18.0644881,"address":"Hamnvägen 5","startPrice":7100000,"hood":"Gåshaga","lat":59.3327881,"squareMeters":150}
+{"lon":18.0644881,"address":"Hansbergsvägen 2","startPrice":3670000,"hood":"Södra Björkhaga","lat":59.3327881,"squareMeters":1406}
+{"lon":18.580963,"address":"Hansjötorp Enlund 40","startPrice":1300000,"hood":"Edsbro Ununge","lat":59.928045,"squareMeters":85}
+{"lon":18.0644881,"address":"Hanstanäsvägen 37","startPrice":8900000,"hood":"Saltarö sjötomt","lat":59.3327881,"squareMeters":191}
+{"lon":18.0644881,"address":"Hanstanäsvägen 37","startPrice":8900000,"hood":"Saltarö sjötomt","lat":59.3327881,"squareMeters":191}
+{"lon":17.6359745,"address":"Harholmen","startPrice":9000000,"hood":"Färingsö Kungsberga","lat":59.4047664,"squareMeters":160}
+{"lon":17.6359745,"address":"Harholmen","startPrice":9000000,"hood":"Färingsö Kungsberga","lat":59.4047664,"squareMeters":160}
+{"lon":18.330795,"address":"Harneskvägen 15","startPrice":3850000,"hood":"Margretelund","lat":59.4708956,"squareMeters":190}
+{"lon":18.0644881,"address":"Harry Martinsons Stig 32","startPrice":7250000,"hood":"Silverdal","lat":59.3327881,"squareMeters":150}
+{"lon":18.0644881,"address":"Hasselbacken 130","startPrice":3795000,"hood":"Hova","lat":59.3327881,"squareMeters":155}
+{"lon":18.0644881,"address":"Hasselbacken 732","startPrice":4200000,"hood":"Märsta-Odensala\/hästställe","lat":59.3327881,"squareMeters":135}
+{"lon":18.0644881,"address":"Hasseluddsvägen 12","startPrice":4700000,"hood":"Uthamra Strand","lat":59.3327881,"squareMeters":151}
+{"lon":18.0644881,"address":"Hasseluddsvägen 28","startPrice":5400000,"hood":"Uthamra Strand","lat":59.3327881,"squareMeters":155}
+{"lon":18.0644881,"address":"Hasseluddsvägen 32","startPrice":5500000,"hood":"Uthamra Strand","lat":59.3327881,"squareMeters":155}
+{"lon":18.3046908,"address":"Hasselvägen 16","startPrice":4875000,"hood":"Kullön","lat":59.4107493,"squareMeters":131}
+{"lon":17.8419806,"address":"Hasselvägen 24","startPrice":2750000,"hood":"Märsta - Sätuna","lat":59.6311549,"squareMeters":134}
+{"lon":18.0644881,"address":"Hasselvägen 9","startPrice":2795000,"hood":"Gustavsvik","lat":59.3327881,"squareMeters":48}
+{"lon":18.0644881,"address":"Hasselvägen 9","startPrice":2795000,"hood":"Gustavsvik","lat":59.3327881,"squareMeters":48}
+{"lon":17.4469015,"address":"Havrevägen 16","startPrice":2600000,"hood":"Nykvarn","lat":59.1709229,"squareMeters":115}
+{"lon":18.6752307,"address":"Havsjövägen, Sveden","startPrice":18000000,"hood":"Vettershaga","lat":59.6082086,"squareMeters":250}
+{"lon":18.0578686,"address":"Havsörnsvägen 33b","startPrice":3475000,"hood":"Farsta - Fagersjö","lat":59.2471447,"squareMeters":119}
+{"lon":18.5200509,"address":"Havsörnsvägen 45","startPrice":2995000,"hood":"Ingarö - Tranarö","lat":59.2802497,"squareMeters":59}
+{"lon":18.0644881,"address":"Hedenströms Väg 12","startPrice":4975000,"hood":"Tollare","lat":59.3327881,"squareMeters":187}
+{"lon":18.0644881,"address":"Hedvigsbergsvägen 14","startPrice":5795000,"hood":"Brunn - Fiskmyran","lat":59.3327881,"squareMeters":90}
+{"lon":18.0329388,"address":"Helgestavägen 98","startPrice":2995000,"hood":"Örby","lat":59.2724713,"squareMeters":127}
+{"lon":18.0644881,"address":"Helgåby 872","startPrice":2400000,"hood":"Märsta - Skepptuna","lat":59.3327881,"squareMeters":155}
+{"lon":18.1196818,"address":"Helikoptergatan 22","startPrice":2495000,"hood":"Skarpnäck","lat":59.2666742,"squareMeters":1165}
+{"lon":18.6880071,"address":"Helleby Bod 1","startPrice":2475000,"hood":"Hölö","lat":59.2731197,"squareMeters":109}
+{"lon":17.8280209,"address":"Hemfosavägen 159","startPrice":1495000,"hood":"Nynäshamn\/Norra Sorunda","lat":59.0192721,"squareMeters":140}
+{"lon":17.9723369,"address":"Hemfosavägen 159","startPrice":1495000,"hood":"Hemfosa\/Haninge","lat":59.0575848,"squareMeters":140}
+{"lon":18.3722982,"address":"Hemviksvägen 25","startPrice":9750000,"hood":"Två sjölägen - Tynningö","lat":59.3821524,"squareMeters":223}
+{"lon":18.0644881,"address":"Hensvik 8922 B","startPrice":1650000,"hood":"Herräng, Hensvik","lat":59.3327881,"squareMeters":102}
+{"lon":18.7051332,"address":"Herkulesgatan 10","startPrice":3400000,"hood":"Mosebacke","lat":59.7618011,"squareMeters":115}
+{"lon":17.5946218,"address":"Hermodvägen 18","startPrice":5995000,"hood":"Djursholm - Ekeby","lat":59.3658588,"squareMeters":156}
+{"lon":17.8463644,"address":"Herredagsvägen 10A","startPrice":9500000,"hood":"Ekerö Gällstaö","lat":59.278465,"squareMeters":232}
+{"lon":18.2091845,"address":"Herrgårdsbacken 3","startPrice":11500000,"hood":"Saltsjö-Duvnäs","lat":59.3031002,"squareMeters":287}
+{"lon":18.0644881,"address":"Herrgårdsvägen 55","startPrice":2490000,"hood":"Centralt","lat":59.3327881,"squareMeters":106}
+{"lon":17.3332841,"address":"Herrvik 7","startPrice":1795000,"hood":" ","lat":59.1564357,"squareMeters":117}
+{"lon":17.9605867,"address":"Herrängsvägen 103","startPrice":4700000,"hood":"Älvsjö Herrängen","lat":59.2796498,"squareMeters":140}
+{"lon":17.7252897,"address":"Herrängsvägen 66","startPrice":2295000,"hood":"Rönninge","lat":59.2003091,"squareMeters":120}
+{"lon":17.6959568,"address":"Hillersjönäsvägen 17","startPrice":6350000,"hood":"Färingsö","lat":59.3672437,"squareMeters":160}
+{"lon":17.7879256,"address":"Hillersjövägen 2I","startPrice":2595000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersjövägen 2J","startPrice":2440000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersjövägen 2K","startPrice":2395000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersjövägen 2L","startPrice":2530000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersjövägen 2M","startPrice":2570000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersjövägen 2N","startPrice":2375000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersjövägen 2O","startPrice":2495000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersjövägen 2P","startPrice":2540000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersjövägen 2R","startPrice":2295000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersjövägen 2S","startPrice":2395000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.8927111,"address":"Hirdvägen 11","startPrice":3795000,"hood":"Bromma Norra Ängby","lat":59.3501491,"squareMeters":68}
+{"lon":17.8384969,"address":"Hjälmvägen 13","startPrice":4500000,"hood":"Skälby","lat":59.3947032,"squareMeters":120}
+{"lon":17.8850637,"address":"Holbergsgatan 185","startPrice":3395000,"hood":"Blackeberg","lat":59.341965,"squareMeters":101}
+{"lon":18.0644881,"address":"Hollywoodvägen 89","startPrice":2595000,"hood":"Gillbo","lat":59.3327881,"squareMeters":113}
+{"lon":18.0644881,"address":"Hortensiavägen 33","startPrice":3180000,"hood":"Vistabergs Trädgårdsstad","lat":59.3327881,"squareMeters":118}
+{"lon":17.9241957,"address":"Hortensiavägen 50, hus 329","startPrice":3490000,"hood":"Vistaberg\/Glömsta","lat":59.2499389,"squareMeters":120}
+{"lon":17.9433185,"address":"Hortonomvägen 9","startPrice":4495000,"hood":"Vistaberg","lat":59.2358661,"squareMeters":160}
+{"lon":17.8415282,"address":"Hovvägen 34","startPrice":2550000,"hood":"Jakobsberg","lat":59.4354808,"squareMeters":102}
+{"lon":18.0644881,"address":"Huginvägen 30","startPrice":2775000,"hood":"Sjukyrkoberget","lat":59.3327881,"squareMeters":143}
+{"lon":18.0644881,"address":"Huginvägen 8","startPrice":2490000,"hood":"Odenslunda\/Sjukyrkoberget","lat":59.3327881,"squareMeters":149}
+{"lon":18.0644881,"address":"Humlavägen 7","startPrice":1775000,"hood":"Gudö","lat":59.3327881,"squareMeters":84}
+{"lon":17.9496619,"address":"Humlebacken 38","startPrice":3950000,"hood":"Vistaberg","lat":59.2353697,"squareMeters":148}
+{"lon":17.9439854,"address":"Humlevägen 14","startPrice":3500000,"hood":"Bollstanäs","lat":59.49274,"squareMeters":146}
+{"lon":18.1060285,"address":"Humlevägen 47","startPrice":2975000,"hood":"Lindholmen","lat":59.58461,"squareMeters":120}
+{"lon":17.7951028,"address":"Hummelvretsvägen 12","startPrice":2995000,"hood":"Ekerö Träkvista","lat":59.2734864,"squareMeters":111}
+{"lon":17.925209,"address":"Husby","startPrice":3700000,"hood":" ","lat":59.410285,"squareMeters":322}
+{"lon":18.15,"address":"Husby Backe 21","startPrice":3275000,"hood":"Husby Hagbyhöjden","lat":59.5,"squareMeters":135}
+{"lon":18.15,"address":"Husby Backe 77","startPrice":3495000,"hood":"Hagbyhöjden","lat":59.5,"squareMeters":153}
+{"lon":17.950523,"address":"Hyacintgränd 11","startPrice":3500000,"hood":"Bollstanäs","lat":59.5017591,"squareMeters":125}
+{"lon":18.0644881,"address":"Hyvelvägen 12","startPrice":3475000,"hood":"Telefonplan - Hökmossen","lat":59.3327881,"squareMeters":76}
+{"lon":18.0644881,"address":"Hålluddsstigen 12","startPrice":6950000,"hood":"Hålludden","lat":59.3327881,"squareMeters":160}
+{"lon":18.0644881,"address":"Hålluddsstigen 39","startPrice":6650000,"hood":"Hålludden","lat":59.3327881,"squareMeters":160}
+{"lon":17.9345272,"address":"Håtunagränd 4","startPrice":2675000,"hood":"Brunnby Vik","lat":59.5262608,"squareMeters":123}
+{"lon":18.0644881,"address":"Håven 11","startPrice":4350000,"hood":"Sigtuna - Tilsjö","lat":59.3327881,"squareMeters":144}
+{"lon":18.0644881,"address":"Hägerstens Allé 34","startPrice":4995000,"hood":"Hägerstenshamnen\/Axelsberg","lat":59.3327881,"squareMeters":175}
+{"lon":18.0644881,"address":"Hägerstensbrinken 62","startPrice":5750000,"hood":"Hägersten \/ Axelsberg","lat":59.3327881,"squareMeters":170}
+{"lon":18.4166138,"address":"Hägerstigen 16","startPrice":4900000,"hood":"Ramsö","lat":59.3842808,"squareMeters":78}
+{"lon":18.0011087,"address":"Hägervägen 13b","startPrice":6250000,"hood":"Sjöberg","lat":59.4281479,"squareMeters":174}
+{"lon":18.0644881,"address":"Häggkullevägen 23","startPrice":2125000,"hood":"Söra","lat":59.3327881,"squareMeters":116}
+{"lon":17.3931052,"address":"Hällbyvägen 15","startPrice":2700000,"hood":"Nygårds Backar Taxinge","lat":59.2306052,"squareMeters":1135}
+{"lon":18.0644881,"address":"Hällbyvägen 16","startPrice":2195000,"hood":"Nygårds Backar","lat":59.3327881,"squareMeters":106}
+{"lon":18.0644881,"address":"Häradsvägen 97","startPrice":1995000,"hood":"Barkarby","lat":59.3327881,"squareMeters":104}
+{"lon":17.8240387,"address":"Hässelby Strandväg 11","startPrice":4985000,"hood":"Hässelby Villastad","lat":59.3660422,"squareMeters":183}
+{"lon":18.0644881,"address":"Hässelby Strandväg 27","startPrice":3895000,"hood":"Hässelby södra villastad","lat":59.3327881,"squareMeters":132}
+{"lon":18.188054,"address":"Hästskovägen 10","startPrice":2690000,"hood":"Vendelsö Gård","lat":59.2061417,"squareMeters":90}
+{"lon":18.715879,"address":"Häverö Norrby","startPrice":7500000,"hood":" ","lat":60.065969,"squareMeters":0}
+{"lon":17.7888211,"address":"Högbyvägen 57","startPrice":2495000,"hood":"Viksjö","lat":59.415675,"squareMeters":133}
+{"lon":18.5119877,"address":"Högholmsvägen 20a","startPrice":1450000,"hood":"Ingarö","lat":59.2212639,"squareMeters":0}
+{"lon":17.9402787,"address":"Höglandstorget 11","startPrice":0,"hood":"Bromma","lat":59.3236981,"squareMeters":330}
+{"lon":17.5959868,"address":"Högloftsvägen 2c","startPrice":2390000,"hood":" ","lat":59.1839362,"squareMeters":120}
+{"lon":18.0644881,"address":"Högloftsvägen 33","startPrice":2250000,"hood":"Högloft","lat":59.3327881,"squareMeters":110}
+{"lon":18.0644881,"address":"Högmalmsvägen 53","startPrice":3695000,"hood":"Djurö - Lillebo","lat":59.3327881,"squareMeters":147}
+{"lon":18.0644881,"address":"Högstigen 3 A","startPrice":7450000,"hood":"Lahäll","lat":59.3327881,"squareMeters":318}
+{"lon":18.2047111,"address":"Höguddsvägen 15","startPrice":6750000,"hood":"Högberga\/Brevik","lat":59.3466157,"squareMeters":166}
+{"lon":18.0644881,"address":"Högvretsvägen 26","startPrice":4217000,"hood":"Söderby Park","lat":59.3327881,"squareMeters":156}
+{"lon":18.0644881,"address":"Högvretsvägen 40","startPrice":3995000,"hood":"Söderby Park","lat":59.3327881,"squareMeters":1366}
+{"lon":18.0644881,"address":"Högvägen 10","startPrice":2300000,"hood":"Ingarö - Hanskroka","lat":59.3327881,"squareMeters":63}
+{"lon":18.6374729,"address":"Högåsvägen 13","startPrice":2990000,"hood":"Älvsala","lat":59.3102321,"squareMeters":140}
+{"lon":18.1358815,"address":"Höjdvägen 21","startPrice":4695000,"hood":"Länna","lat":59.2033791,"squareMeters":226}
+{"lon":18.0644881,"address":"Höjdvägen 5B","startPrice":4100000,"hood":"Persudde","lat":59.3327881,"squareMeters":176}
+{"lon":17.9593532,"address":"Hökarvägen 26","startPrice":4250000,"hood":"Mälarhöjden-Hägersten","lat":59.3002303,"squareMeters":65}
+{"lon":17.6072923,"address":"Hökstigen 2","startPrice":2495000,"hood":"Viksberg","lat":59.2374544,"squareMeters":63}
+{"lon":18.6907191,"address":"Höl Byväg 15, Sjötomt","startPrice":8000000,"hood":"Stavsnäs","lat":59.2902657,"squareMeters":150}
+{"lon":18.6851384,"address":"Hölövägen 16","startPrice":5000000,"hood":"Stavsnäs","lat":59.2818366,"squareMeters":146}
+{"lon":18.0644881,"address":"Hölövägen 95","startPrice":3900000,"hood":"Stavsnäs Hölö sjönära","lat":59.3327881,"squareMeters":118}
+{"lon":18.0644881,"address":"Hölövägen 95","startPrice":3900000,"hood":"Stavsnäs Hölö sjönära","lat":59.3327881,"squareMeters":118}
+{"lon":17.925209,"address":"Hönsgärde 205","startPrice":6900000,"hood":"Husby","lat":59.410285,"squareMeters":184}
+{"lon":18.0644881,"address":"Idrottsvägen 34a","startPrice":4950000,"hood":"Norrviken","lat":59.3327881,"squareMeters":158}
+{"lon":18.1701011,"address":"Idrottsvägen 82","startPrice":2495000,"hood":"Årsta Havsbad","lat":59.0844839,"squareMeters":49}
+{"lon":18.1701011,"address":"Idrottsvägen 82","startPrice":2495000,"hood":"Årsta Havsbad","lat":59.0844839,"squareMeters":49}
+{"lon":18.3895236,"address":"Idsättratorpsvägen 15","startPrice":3850000,"hood":"Skärgårdsstad","lat":59.4913802,"squareMeters":180}
+{"lon":18.0863553,"address":"Idungränd 14","startPrice":5975000,"hood":"Täby Kyrkby","lat":59.498408,"squareMeters":1678}
+{"lon":17.9576794,"address":"Igelkottsvägen 80","startPrice":7500000,"hood":"Bromma-Stora Mossen","lat":59.3349054,"squareMeters":166}
+{"lon":18.0644881,"address":"Ikano Bostad - Växthusvägen hus 11","startPrice":2750000,"hood":"Hässelby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.0644881,"address":"Ikano Bostad - Växthusvägen hus 15","startPrice":2950000,"hood":"Hässelby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.0644881,"address":"Ikano Bostad - Växthusvägen hus 21","startPrice":2695000,"hood":"Hässelby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.0644881,"address":"Ikano Bostad - Växthusvägen hus 6","startPrice":2795000,"hood":"Hässelby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.0644881,"address":"Ikano Bostad - Växthusvägen hus 9","startPrice":2825000,"hood":"Hässelby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.1939374,"address":"Illervägen 12","startPrice":6900000,"hood":"Saltsjö-Duvnäs","lat":59.3048047,"squareMeters":155}
+{"lon":18.6030247,"address":"Ilända Gårds Väg 8","startPrice":2750000,"hood":"Färingsö Boda","lat":59.3640193,"squareMeters":120}
+{"lon":17.8324526,"address":"Jakob Borgmästares Väg 44","startPrice":2995000,"hood":"Rosenlund","lat":58.8802663,"squareMeters":91}
+{"lon":17.7863031,"address":"Jakobsbergsvägen 20","startPrice":1895000,"hood":"Grödinge Kagghamra","lat":59.1234833,"squareMeters":69}
+{"lon":18.0142882,"address":"Jaktvägen 107","startPrice":2795000,"hood":"Skarpäng","lat":59.4409266,"squareMeters":143}
+{"lon":18.0644881,"address":"Jaktvägen 29","startPrice":3790000,"hood":"Tumba \/ Skräcklinge","lat":59.3327881,"squareMeters":108}
+{"lon":17.9410795,"address":"Jaktvägen 7","startPrice":875000,"hood":"Bollstanäs","lat":59.4910313,"squareMeters":97}
+{"lon":18.376394,"address":"Jan Israelssons Väg 11","startPrice":2975000,"hood":"Skärgårdsstad","lat":59.4932785,"squareMeters":156}
+{"lon":18.4130176,"address":"Jan Israelssons Väg 5","startPrice":3495000,"hood":"Västra Skärgårdsstad","lat":59.4849882,"squareMeters":122}
+{"lon":18.0644881,"address":"Jenny Lidmans Stig 30","startPrice":7950000,"hood":"Lina Hage","lat":59.3327881,"squareMeters":330}
+{"lon":17.9757996,"address":"Jennylundsvägen 15","startPrice":2495000,"hood":"HEMFOSA","lat":59.0675019,"squareMeters":136}
+{"lon":18.6256822,"address":"Johannisberg 2007","startPrice":2100000,"hood":"Bergshamra","lat":59.6396249,"squareMeters":126}
+{"lon":18.0644881,"address":"Jumstabergsvägen 18","startPrice":2995000,"hood":"Jumstaberg","lat":59.3327881,"squareMeters":168}
+{"lon":17.7690897,"address":"Junkervägen 11a","startPrice":5595000,"hood":"Ensta","lat":59.1734359,"squareMeters":220}
+{"lon":18.0644881,"address":"Junkervägen 36","startPrice":3675000,"hood":"Lännersta","lat":59.3327881,"squareMeters":99}
+{"lon":17.8141537,"address":"Jupitergatan 5","startPrice":1395000,"hood":"Märsta - Steninge","lat":59.6155041,"squareMeters":1165}
+{"lon":17.9358993,"address":"Juringe Åväg 4","startPrice":2775000,"hood":"Segeltorp","lat":59.276086,"squareMeters":93}
+{"lon":18.0644881,"address":"Jägarstigen 11","startPrice":7200000,"hood":"FALKBERGET\/EDSVIKENS SOLSIDA","lat":59.3327881,"squareMeters":210}
+{"lon":17.9721799,"address":"Jägarstigen 11","startPrice":7200000,"hood":"DANDERYD\/SOLLENTUNA-EDSVIKEN","lat":59.435089,"squareMeters":210}
+{"lon":18.0121687,"address":"Jägarstigen 1A","startPrice":3675000,"hood":"Huddinge - Stuvsta","lat":59.2520056,"squareMeters":101}
+{"lon":17.8937944,"address":"Järingegränd 16","startPrice":2250000,"hood":"Spånga Tensta","lat":59.3944402,"squareMeters":92}
+{"lon":17.8937944,"address":"Järingegränd 20","startPrice":2250000,"hood":"Spånga Tensta","lat":59.3944402,"squareMeters":92}
+{"lon":17.8937436,"address":"Järingegränd 82","startPrice":2650000,"hood":"Spånga Hjulsta","lat":59.3945724,"squareMeters":126}
+{"lon":18.0644881,"address":"Järla Sjöväg 18","startPrice":4450000,"hood":"Järla Sjö","lat":59.3327881,"squareMeters":165}
+{"lon":17.4241678,"address":"Järnavägen 12","startPrice":1500000,"hood":"Mölnbo","lat":59.0496681,"squareMeters":70}
+{"lon":17.5792039,"address":"Järnåldersringen 653","startPrice":895000,"hood":"Norra Söderby","lat":59.3824335,"squareMeters":64}
+{"lon":17.5792039,"address":"Järnåldersringen 867","startPrice":1375000,"hood":"Norra Söderby","lat":59.3824335,"squareMeters":111}
+{"lon":17.9445458,"address":"Järpstigen 14","startPrice":11900000,"hood":"BROMMA - ÅLSTEN","lat":59.3220247,"squareMeters":389}
+{"lon":18.0644881,"address":"Kallkärrsvägen 69","startPrice":4195000,"hood":"Snättringe","lat":59.3327881,"squareMeters":200}
+{"lon":18.8540941,"address":"Kallvik 59","startPrice":2950000,"hood":"Svartnö","lat":59.6684372,"squareMeters":96}
+{"lon":18.0644881,"address":"Kanonbacken 9","startPrice":0,"hood":"Viggbyholm Sjösidan","lat":59.3327881,"squareMeters":130}
+{"lon":18.3297807,"address":"Kantarellvägen 54","startPrice":2075000,"hood":"Skånsta","lat":59.4948563,"squareMeters":120}
+{"lon":17.7876829,"address":"Kapellvägen 14","startPrice":4375000,"hood":"Ekerö Träkvista","lat":59.2756441,"squareMeters":168}
+{"lon":18.3662867,"address":"Karby 5003","startPrice":1500000,"hood":"Rimbo","lat":59.7443982,"squareMeters":87}
+{"lon":18.0644881,"address":"Karin Boyes Väg 3","startPrice":2250000,"hood":"LINA HAGE","lat":59.3327881,"squareMeters":160}
+{"lon":17.8027252,"address":"Karlavagnen 44","startPrice":3050000,"hood":"Märsta - Östra Steninge","lat":59.6020259,"squareMeters":132}
+{"lon":18.0690584,"address":"Karlavägen 26","startPrice":4682000,"hood":" ","lat":59.3422117,"squareMeters":0}
+{"lon":17.8195872,"address":"Karlsborgsvägen 143","startPrice":1670000,"hood":"Märsta - Sundveda","lat":59.6285154,"squareMeters":109}
+{"lon":18.0644881,"address":"Karlsborgsvägen 161","startPrice":1750000,"hood":"Sundveda","lat":59.3327881,"squareMeters":109}
+{"lon":17.7155857,"address":"Karlskronaviksvägen 57","startPrice":1300000,"hood":"RÖNNINGE","lat":59.1855817,"squareMeters":32}
+{"lon":17.7148328,"address":"Karlskronaviksvägen 59","startPrice":2500000,"hood":"RÖNNINGE","lat":59.1856516,"squareMeters":159}
+{"lon":18.0644881,"address":"Karlslundsvägen 24","startPrice":2895000,"hood":"NORRVIKEN","lat":59.3327881,"squareMeters":114}
+{"lon":19.0707483,"address":"Karlsrovägen 29","startPrice":3750000,"hood":"Rävsnäs","lat":59.7512388,"squareMeters":137}
+{"lon":18.3134184,"address":"Karlsuddsvägen","startPrice":16000000,"hood":"Karlsudd","lat":59.3853661,"squareMeters":210}
+{"lon":18.322116,"address":"Karlsuddsvägen 61a","startPrice":9950000,"hood":"Karlsudd","lat":59.3858556,"squareMeters":192}
+{"lon":18.3124436,"address":"Karlsuddsvägen 63A och B","startPrice":14800000,"hood":"Karlsudd","lat":59.3854247,"squareMeters":0}
+{"lon":18.3228901,"address":"Karlsuddsvägen 63B","startPrice":9900000,"hood":"Karlsudd","lat":59.3858451,"squareMeters":181}
+{"lon":18.6044328,"address":"Karolinavägen 5","startPrice":995000,"hood":"Hallstavik","lat":60.0427551,"squareMeters":145}
+{"lon":18.0058986,"address":"Kassmans väg 5","startPrice":5990000,"hood":"Danderyd","lat":59.4066152,"squareMeters":145}
+{"lon":18.0644881,"address":"Kassmyravägen 26","startPrice":2495000,"hood":"Tumba - Kassmyra","lat":59.3327881,"squareMeters":135}
+{"lon":18.3085073,"address":"Kastanjebacken 7","startPrice":3750000,"hood":"Kullön","lat":59.4129419,"squareMeters":125}
+{"lon":17.5966838,"address":"Kastanjestigen 10","startPrice":1495000,"hood":"Viksberg","lat":59.2464493,"squareMeters":52}
+{"lon":18.0644881,"address":"Kastanjevägen 2","startPrice":2910000,"hood":"Steningehöjden","lat":59.3327881,"squareMeters":117}
+{"lon":17.8992506,"address":"Kastanjevägen 33","startPrice":5500000,"hood":"Tullinge Villastad","lat":59.2227094,"squareMeters":2375}
+{"lon":18.2403512,"address":"Kastanjevägen 4 - Visning inställd!","startPrice":2750000,"hood":"Brottby","lat":59.5630959,"squareMeters":219}
+{"lon":17.7979635,"address":"Kastargränd 31","startPrice":2795000,"hood":"Ekerö Hummelvreten","lat":59.2746644,"squareMeters":130}
+{"lon":18.0644881,"address":"Katsen 11","startPrice":4125000,"hood":"Sigtuna - Björkbacka","lat":59.3327881,"squareMeters":144}
+{"lon":18.0644881,"address":"Katsen 15","startPrice":4195000,"hood":"Sigtuna - Björkbacka","lat":59.3327881,"squareMeters":144}
+{"lon":18.0644881,"address":"Katsen 17","startPrice":4225000,"hood":"Sigtuna - Björkbacka","lat":59.3327881,"squareMeters":144}
+{"lon":17.6113687,"address":"Killinge Byväg 32","startPrice":2850000,"hood":"Håtuna","lat":59.6025527,"squareMeters":187}
+{"lon":18.0644881,"address":"Killingevägen 24B","startPrice":5950000,"hood":"Killinge","lat":59.3327881,"squareMeters":165}
+{"lon":18.0644881,"address":"Kils Hagväg 15","startPrice":5785000,"hood":"Kilsviken - Baggensfjärden","lat":59.3327881,"squareMeters":1808}
+{"lon":18.0644881,"address":"Kimstalund 385","startPrice":1995000,"hood":"Rosersberg-Kimsta","lat":59.3327881,"squareMeters":93}
+{"lon":18.0644881,"address":"Kistavägen 15","startPrice":3550000,"hood":"Norrviken","lat":59.3327881,"squareMeters":125}
+{"lon":18.0644881,"address":"Kittelvägen 22","startPrice":3475000,"hood":"Kästa - Nyproduktion","lat":59.3327881,"squareMeters":130}
+{"lon":18.0644881,"address":"Klappervägen 20","startPrice":2975000,"hood":"Östra Vallabrink","lat":59.3327881,"squareMeters":171}
+{"lon":18.204683,"address":"Klarbärsvägen 28","startPrice":4200000,"hood":" ","lat":59.3542185,"squareMeters":152}
+{"lon":18.0644881,"address":"Klarbärsvägen 45","startPrice":4650000,"hood":"Killinge","lat":59.3327881,"squareMeters":135}
+{"lon":17.9289103,"address":"Klasrovägen 23b","startPrice":5495000,"hood":"Häggvik","lat":59.4418935,"squareMeters":160}
+{"lon":17.9518519,"address":"Klasrovägen 59 SÅLD","startPrice":5000000,"hood":"Sollentuna Häggvik","lat":59.428478,"squareMeters":152}
+{"lon":17.7835316,"address":"Klavergränd 7","startPrice":2990000,"hood":"Viksjö","lat":59.4006599,"squareMeters":141}
+{"lon":17.9477648,"address":"Klintvägen 24","startPrice":3400000,"hood":"Segeltorp","lat":59.2798892,"squareMeters":125}
+{"lon":17.7034308,"address":"Klippans Väg 36","startPrice":2450000,"hood":"Färingsö Hilleshög","lat":59.3899936,"squareMeters":66}
+{"lon":18.7112656,"address":"Klippgatan 2","startPrice":5700000,"hood":"Kvisthamra","lat":59.754723,"squareMeters":220}
+{"lon":18.3738749,"address":"Klippvägen 3 - ACCEPTPRIS","startPrice":1550000,"hood":"Garns-Ekskogen","lat":59.6127483,"squareMeters":49}
+{"lon":18.0644881,"address":"Klippvägen 5","startPrice":4375000,"hood":"Vallabrink","lat":59.3327881,"squareMeters":188}
+{"lon":18.271479,"address":"Klippvägen 9","startPrice":5350000,"hood":"Tyresö Strand","lat":59.2509039,"squareMeters":220}
+{"lon":17.6397641,"address":"Klockarvägen 3","startPrice":4150000,"hood":"Bro","lat":59.5128747,"squareMeters":194}
+{"lon":17.7490762,"address":"Klodalsvägen","startPrice":4595000,"hood":"Lennartsnäs Kungsängen","lat":59.4787695,"squareMeters":180}
+{"lon":17.6899619,"address":"Klubbstigen 8","startPrice":3695000,"hood":"Färingsö Stenhamra","lat":59.3337253,"squareMeters":156}
+{"lon":18.3516436,"address":"Klövbergsvägen 34","startPrice":2775000,"hood":"Brevik","lat":59.2149471,"squareMeters":91}
+{"lon":17.4402879,"address":"Klövervägen 3","startPrice":2595000,"hood":"NYKVARN Ängsborgsområdet","lat":59.1702365,"squareMeters":149}
+{"address":"Knutbyvägen 1","startPrice":2695000,"hood":"Fågelsången","squareMeters":96}
+{"lon":18.1985047,"address":"Knut Pernos Väg 8","startPrice":6500000,"hood":"Saltsjö-Duvnäs","lat":59.3013258,"squareMeters":174}
+{"lon":18.2883965,"address":"Knut Wallenbergs Väg 42","startPrice":5950000,"hood":"Saltsjöbaden Tattby","lat":59.2813413,"squareMeters":127}
+{"lon":18.0644881,"address":"Knäckepilsgränd 37","startPrice":3975000,"hood":"Hässelby Norra Villastad","lat":59.3327881,"squareMeters":201}
+{"lon":18.0644881,"address":"Knäckepilsgränd 62","startPrice":2375000,"hood":"Hässelby Norra Villastad","lat":59.3327881,"squareMeters":120}
+{"lon":17.8251175,"address":"Koggevägen 10","startPrice":5575000,"hood":"Sigtuna - Munkholmen","lat":59.5261823,"squareMeters":164}
+{"lon":18.6256822,"address":"Kohagsbacken 2449","startPrice":3475000,"hood":"Bergshamra","lat":59.6396249,"squareMeters":105}
+{"lon":18.6026192,"address":"Kolartorpsvägen 8","startPrice":1275000,"hood":"Skebobruk","lat":59.95792,"squareMeters":100}
+{"lon":18.0644881,"address":"Kolmilevägen 2","startPrice":2970000,"hood":"Björkhaga","lat":59.3327881,"squareMeters":70}
+{"lon":17.8354884,"address":"KOLONISTIGEN 3, 9 och 11","startPrice":3600000,"hood":"Torpängen\/Storvreten - Tumba","lat":59.1988136,"squareMeters":1237}
+{"lon":17.8354884,"address":"Kolonistigen 6","startPrice":1295000,"hood":"Tumba","lat":59.1988136,"squareMeters":0}
+{"lon":18.86635,"address":"Kolsvik 50","startPrice":3365000,"hood":"Yxlan","lat":59.611528,"squareMeters":230}
+{"lon":18.0644881,"address":"Koltrastvägen 29","startPrice":2950000,"hood":"Näsbypark - Norskogen","lat":59.3327881,"squareMeters":106}
+{"lon":17.9937679,"address":"Koltrastvägen 52","startPrice":4850000,"hood":"Sjöberg","lat":59.4249938,"squareMeters":164}
+{"lon":18.1614028,"address":"Konsertvägen 20","startPrice":0,"hood":"Skogås","lat":59.2269308,"squareMeters":120}
+{"lon":18.2803375,"address":"Konstnärsvägen 17","startPrice":3800000,"hood":"Tyresö Strand","lat":59.2439927,"squareMeters":122}
+{"lon":18.0844201,"address":"Konvaljevägen 5","startPrice":0,"hood":"Västerhaninge\/Jägartorp","lat":59.1242666,"squareMeters":126}
+{"lon":18.0644881,"address":"Kopernikus Väg 1","startPrice":3475000,"hood":"Tumba Solhöjden","lat":59.3327881,"squareMeters":140}
+{"lon":18.0644881,"address":"Kopernikus Väg 17","startPrice":3395000,"hood":"Tumba Solhöjden","lat":59.3327881,"squareMeters":140}
+{"lon":18.0644881,"address":"Korpralvägen\/Löjtnantsvägen Folkhem","startPrice":4375000,"hood":"Barkarby - Barkarbystaden","lat":59.3327881,"squareMeters":114}
+{"lon":18.0644881,"address":"Korpralvägen\/Löjtnantsvägen Folkhem","startPrice":4675000,"hood":"Barkarby - Barkarbystaden","lat":59.3327881,"squareMeters":129}
+{"lon":18.0018359,"address":"Korsmyravägen 29","startPrice":1795000,"hood":"Tungelsta","lat":59.1088229,"squareMeters":80}
+{"lon":18.2476351,"address":"Korta Vägen 1","startPrice":3975000,"hood":"Öringe","lat":59.2478699,"squareMeters":109}
+{"lon":18.216863,"address":"Kragenäsvägen 11","startPrice":9950000,"hood":"Brevik","lat":59.3449398,"squareMeters":220}
+{"lon":18.0345249,"address":"Kristinebergsvägen 17","startPrice":3650000,"hood":"Vallatorp","lat":59.4614879,"squareMeters":121}
+{"lon":18.0598348,"address":"Kristinelundsvägen 8","startPrice":2500000,"hood":"Svartvik","lat":59.2403573,"squareMeters":63}
+{"lon":18.1321953,"address":"Krogtäppan 129","startPrice":2150000,"hood":"Norra Jordbro","lat":59.1441852,"squareMeters":190}
+{"lon":18.6431711,"address":"Krokusvägen 13-15","startPrice":7500000,"hood":"Värmdö - Älvsala","lat":59.3050985,"squareMeters":265}
+{"lon":17.835981,"address":"Krokvägen 21","startPrice":1255000,"hood":"Riala, Sättra","lat":59.5325917,"squareMeters":69}
+{"lon":17.9725336,"address":"Krusvägen 4","startPrice":3575000,"hood":"Huddinge, Fullersta, Rosendal","lat":59.248201,"squareMeters":128}
+{"lon":17.8373323,"address":"Kryddgårdsvägen 103","startPrice":2990000,"hood":"Slagsta \/ Norsborg","lat":59.2439992,"squareMeters":126}
+{"lon":18.0644881,"address":"Kråkbärsvägen 18","startPrice":5500000,"hood":"Trångsund\/Sjöängen","lat":59.3327881,"squareMeters":164}
+{"lon":18.0644881,"address":"Kullavägen 26","startPrice":7750000,"hood":"Högberga","lat":59.3327881,"squareMeters":210}
+{"lon":18.1321953,"address":"Kullerstensvägen 62","startPrice":1845000,"hood":"Södra Jordbro","lat":59.1441852,"squareMeters":120}
+{"lon":18.0934496,"address":"Kulstötarvägen 64","startPrice":3600000,"hood":"Tallkrogen","lat":59.2673853,"squareMeters":68}
+{"lon":18.2763543,"address":"Kulvägen 2a","startPrice":5795000,"hood":"Björknäs\/Saltsjö-Boo","lat":59.3111718,"squareMeters":174}
+{"lon":18.59795,"address":"Kulörgränd 1","startPrice":3895000,"hood":"Viksjö Hummelmora","lat":59.46347,"squareMeters":147}
+{"lon":18.3662867,"address":"Kundby 5184","startPrice":925000,"hood":"Rimbo","lat":59.7443982,"squareMeters":65}
+{"lon":18.0644881,"address":"Kundby 8:8","startPrice":895000,"hood":"Rimbo - Kundby","lat":59.3327881,"squareMeters":46}
+{"lon":17.7377002,"address":"Kung Olofs Väg 19","startPrice":7500000,"hood":"Sigtuna - Munkholmen","lat":59.6105378,"squareMeters":169}
+{"lon":18.3535802,"address":"Kungsbacksvägen 48","startPrice":5185000,"hood":"Margretelund","lat":59.4628488,"squareMeters":165}
+{"lon":18.3483042,"address":"Kungsgatan 3A","startPrice":3750000,"hood":"Vaxholm","lat":59.4029004,"squareMeters":114}
+{"lon":18.6031961,"address":"Kvarnbacksvägen 13 SALTARÖ","startPrice":2300000,"hood":"SALTARÖ Värmdö","lat":59.3439625,"squareMeters":58}
+{"lon":18.5706604,"address":"Kvarnberget 1","startPrice":1200000,"hood":"Ljusterö","lat":59.4692331,"squareMeters":40}
+{"lon":17.6986248,"address":"Kvarnbergsvägen 43A - Acceptpris","startPrice":2800000,"hood":"Hörningsnäs","lat":59.0631801,"squareMeters":149}

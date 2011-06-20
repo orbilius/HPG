@@ -1,0 +1,7 @@
+{"lon":17.9049433,"address":"Petunievägen 5 B","startPrice":2395000,"hood":"Tullinge Trädgårdsstad","lat":59.2169728,"squareMeters":100}
+{"lon":17.8544333,"address":"Barkvägen 38","startPrice":2295000,"hood":"Tumba Östra Storvreten","lat":59.1972402,"squareMeters":120}
+{"address":"unknown","startPrice":0,"hood":"Tumba","squareMeters":157}
+{"lon":12.5734506,"address":"Pinnvägen 8","startPrice":3950000,"hood":"Tullinge","lat":57.6803945,"squareMeters":169}
+{"lon":17.8944785,"address":"Bertheliusvägen 28","startPrice":3250000,"hood":"Tullinge - Brantbrink","lat":59.1951282,"squareMeters":118}
+{"lon":17.9863449,"address":"Storskiftesvägen 44","startPrice":1695000,"hood":"Alby","lat":59.2600551,"squareMeters":136}
+{"lon":17.8210754,"address":"Tomtbergavägen 257","startPrice":2550000,"hood":"Norsborg","lat":59.2506304,"squareMeters":136}

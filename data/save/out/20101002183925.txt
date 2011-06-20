@@ -1,0 +1,750 @@
+{"lon":18.0644881,"address":"Abborrv�gen 2E","startPrice":3995000,"hood":"Saltsj�-Boo\/Mens�ttra","lat":59.3327881,"squareMeters":120}
+{"lon":18.1011797,"address":"Abborrv�gen 42B","startPrice":7500000,"hood":"Sticklinge","lat":59.3839515,"squareMeters":191}
+{"lon":18.0644881,"address":"Abrahamsby Pl 8800","startPrice":1295000,"hood":"Gottr�ra","lat":59.3327881,"squareMeters":121}
+{"lon":17.9427778,"address":"Adlerfelts Gata 55","startPrice":4195000,"hood":"Bollstan�s","lat":59.4991667,"squareMeters":130}
+{"lon":17.8947599,"address":"Adler Salvius V�g 94","startPrice":2250000,"hood":"Tullinge G�rd","lat":59.2154137,"squareMeters":120}
+{"lon":18.0644881,"address":"Albert Landbergs Gr�nd 46","startPrice":2995000,"hood":"H�sselby S�dra Villastad","lat":59.3327881,"squareMeters":166}
+{"lon":18.0615841,"address":"Albert M�lares V�g 16 E","startPrice":1595000,"hood":"T�by Kyrkby","lat":59.4915389,"squareMeters":67}
+{"lon":18.0608955,"address":"Albert M�lares V�g 3 A","startPrice":1975000,"hood":"T�by Kyrkby","lat":59.4913746,"squareMeters":90}
+{"lon":18.2770227,"address":"Alby Sj�v�g 7","startPrice":3850000,"hood":"Gimmersta","lat":59.2339186,"squareMeters":80}
+{"lon":18.3708469,"address":"All�v�gen 15- Rimbo","startPrice":2995000,"hood":" ","lat":59.748385,"squareMeters":232}
+{"lon":17.7431735,"address":"All�v�gen 24","startPrice":6900000,"hood":"Eker� Sommarstad","lat":59.2786785,"squareMeters":285}
+{"lon":18.2263806,"address":"All�v�gen 3e","startPrice":4650000,"hood":"Ekn�s","lat":59.3099948,"squareMeters":120}
+{"lon":17.9087247,"address":"All�v�gen 4K","startPrice":1295000,"hood":"Rotebro","lat":59.4789808,"squareMeters":46}
+{"lon":18.0644881,"address":"All�v�gen 8 C","startPrice":7950000,"hood":"N�sby Park","lat":59.3327881,"squareMeters":220}
+{"lon":18.0707635,"address":"Allfarv�gen 20","startPrice":6250000,"hood":"T�by Kyrkby","lat":59.502009,"squareMeters":192}
+{"lon":17.790141,"address":"Almhagsv�gen 1","startPrice":3275000,"hood":"Eker� Tr�kvista","lat":59.2728768,"squareMeters":160}
+{"lon":18.4260947,"address":"Almv�gen 9","startPrice":3200000,"hood":"M�rsta - Norrbacka","lat":59.5377478,"squareMeters":118}
+{"lon":17.6618635,"address":"Alpv�gen 21","startPrice":2900000,"hood":"�stert�lje","lat":59.1887645,"squareMeters":1015}
+{"lon":17.6618635,"address":"Alpv�gen 21","startPrice":3960000,"hood":"�stert�lje","lat":59.1887645,"squareMeters":168}
+{"lon":17.9253849,"address":"Altartorpsv�gen 6","startPrice":7000000,"hood":"Segeltorp","lat":59.2741466,"squareMeters":194}
+{"lon":18.1286751,"address":"Altorpsv�gen 21","startPrice":1720000,"hood":"Musk�","lat":59.0000396,"squareMeters":148}
+{"lon":18.1286371,"address":"Altorpsv�gen 34","startPrice":1295000,"hood":"Musk�","lat":59.0012998,"squareMeters":113}
+{"lon":17.4004884,"address":"Andv�gen 27","startPrice":1280000,"hood":"MOLSTABERG","lat":59.0732726,"squareMeters":80}
+{"lon":18.0644881,"address":"Angsk�rsv�gen 33","startPrice":2750000,"hood":"�sbyholm","lat":59.3327881,"squareMeters":158}
+{"lon":18.5793968,"address":"Ang�ringsv�gen 12","startPrice":2495000,"hood":"S�dra Kopparmora","lat":59.3279064,"squareMeters":75}
+{"lon":18.5793968,"address":"Ang�ringsv�gen 12","startPrice":2495000,"hood":"S�dra Kopparmora","lat":59.3279064,"squareMeters":75}
+{"lon":17.9295561,"address":"Ankarstocksv�gen 9","startPrice":3295000,"hood":"Bromma B�llsta","lat":59.3671182,"squareMeters":70}
+{"lon":18.0644881,"address":"Annalundsv�gen 32","startPrice":3385000,"hood":"RITORP","lat":59.3327881,"squareMeters":168}
+{"lon":17.8906648,"address":"Anna Maria Roos V�g 5 -7","startPrice":5500000,"hood":"Tullinge G�rd","lat":59.2153362,"squareMeters":205}
+{"lon":17.8901634,"address":"Anna Maria Roos V�g 7","startPrice":5500000,"hood":"Tullinge  Parkhem","lat":59.2154006,"squareMeters":205}
+{"lon":18.0644881,"address":"Anna Vasas V�g 11","startPrice":5490000,"hood":"Sigtunah�jden","lat":59.3327881,"squareMeters":145}
+{"lon":18.0644881,"address":"Apelvretsv�gen 15","startPrice":3190000,"hood":"Vendels� L�tk�rr","lat":59.3327881,"squareMeters":149}
+{"lon":18.0644881,"address":"Apelvretsv�gen 32","startPrice":3595000,"hood":"Vendels�\/L�tk�rr","lat":59.3327881,"squareMeters":178}
+{"lon":18.0644881,"address":"Apelv�gen 2","startPrice":3750000,"hood":"Gustavsberg �sbygrind","lat":59.3327881,"squareMeters":144}
+{"lon":17.845587,"address":"Arenbergav�gen 24","startPrice":3150000,"hood":"M�rsta - Arenberga","lat":59.6298149,"squareMeters":111}
+{"lon":18.0644881,"address":"Arholmagatan 3","startPrice":1695000,"hood":"Centralt","lat":59.3327881,"squareMeters":87}
+{"lon":18.0644881,"address":"Arholmav�gen 9","startPrice":2975000,"hood":"Petersberg","lat":59.3327881,"squareMeters":145}
+{"lon":18.1627451,"address":"Arkitektv�gen 18","startPrice":1395000,"hood":"�rsta havsbad","lat":59.0850522,"squareMeters":20}
+{"lon":18.3241627,"address":"Armborstv�gen 14","startPrice":2900000,"hood":"Margretelund","lat":59.4765398,"squareMeters":123}
+{"lon":18.0825694,"address":"Armev�gen 56","startPrice":2525000,"hood":"Gribbylund","lat":59.4652515,"squareMeters":99}
+{"lon":17.981178,"address":"Arrendatorsv�gen 23","startPrice":2750000,"hood":"Centrala Huddinge","lat":59.2372717,"squareMeters":65}
+{"lon":17.4589111,"address":"Aska 28","startPrice":1950000,"hood":"Enh�rna","lat":59.251202,"squareMeters":115}
+{"lon":18.0644881,"address":"Aspenv�gen 70","startPrice":2150000,"hood":"Tumba Vretarna","lat":59.3327881,"squareMeters":106}
+{"lon":18.1260806,"address":"Asplunds V�g 7","startPrice":4150000,"hood":"Vega","lat":59.1919377,"squareMeters":122}
+{"lon":18.4268037,"address":"Aspviksv�gen","startPrice":2600000,"hood":"Gustavsberg - Betsede","lat":59.3327607,"squareMeters":0}
+{"lon":18.4282311,"address":"Aspviksv�gen 16","startPrice":0,"hood":"Gustavsberg - Betsede","lat":59.332243,"squareMeters":403}
+{"lon":18.4287888,"address":"Aspviksv�gen 20 ?","startPrice":2050000,"hood":"Gustavsberg - Betsede","lat":59.3289896,"squareMeters":0}
+{"lon":18.4422949,"address":"Aspviksv�gen 22 ?","startPrice":2050000,"hood":"Gustavsberg - Betsede","lat":59.3352193,"squareMeters":0}
+{"lon":17.9699504,"address":"Aspv�gen 11d","startPrice":4650000,"hood":"F�gels�ngen","lat":59.3644242,"squareMeters":146}
+{"lon":18.4411955,"address":"Backstigen 1","startPrice":6375000,"hood":"M�rtn�s","lat":59.3152909,"squareMeters":210}
+{"lon":18.3204144,"address":"Backstigen 3","startPrice":3650000,"hood":"Resar�","lat":59.4353507,"squareMeters":127}
+{"lon":18.0644881,"address":"Backstuguv�gen 12","startPrice":1370000,"hood":"Bro \/ �sterhagen","lat":59.3327881,"squareMeters":0}
+{"lon":17.4181768,"address":"Backv�gen 12","startPrice":2100000,"hood":"M�lnbo","lat":59.0506156,"squareMeters":162}
+{"lon":18.0644881,"address":"Baldersv�gen 9","startPrice":3495000,"hood":"Blombacka","lat":59.3327881,"squareMeters":121}
+{"lon":18.1567215,"address":"Balettv�gen 85","startPrice":2295000,"hood":"Tr�ngsund","lat":59.2251993,"squareMeters":104}
+{"lon":18.4343354,"address":"Bammarbodav�gen 12","startPrice":2595000,"hood":"�s�ttra","lat":59.5270608,"squareMeters":180}
+{"lon":17.9765639,"address":"Bandyv�gen 42","startPrice":2275000,"hood":"V�stertorp","lat":59.290898,"squareMeters":112}
+{"lon":17.9769512,"address":"Bandyv�gen 55","startPrice":3950000,"hood":"H�gersten","lat":59.289901,"squareMeters":84}
+{"lon":18.0912318,"address":"Ban�rv�gen 1","startPrice":16500000,"hood":"Djursholm","lat":59.3981525,"squareMeters":325}
+{"lon":17.748,"address":"Banjov�gen 15","startPrice":2975000,"hood":"Kungs�ngen \/ Brunna","lat":59.5050358,"squareMeters":150}
+{"lon":18.0644881,"address":"Bankir Zethraeus V�g 41","startPrice":6900000,"hood":"Ljung","lat":59.3327881,"squareMeters":198}
+{"lon":17.9404599,"address":"Bankv�gen 12","startPrice":2950000,"hood":"H�ggvik","lat":59.4373883,"squareMeters":73}
+{"lon":18.6211264,"address":"Barkv�gen 17","startPrice":2325000,"hood":"�stra Storvreten","lat":59.9565454,"squareMeters":120}
+{"lon":17.9878234,"address":"Barrskogsv�gen 7","startPrice":2275000,"hood":"Glad� Kvarn","lat":59.1931034,"squareMeters":56}
+{"lon":18.0644881,"address":"Bastug�rdesv�gen 19","startPrice":800000,"hood":"Margretelund - H�gs�tra","lat":59.3327881,"squareMeters":1133}
+{"lon":18.6468639,"address":"Bastuuddsv�gen 7","startPrice":2800000,"hood":"Saltar�","lat":59.332033,"squareMeters":136}
+{"lon":18.0660972,"address":"Bastuv�gen 5","startPrice":0,"hood":" ","lat":59.3204057,"squareMeters":103}
+{"lon":18.265149,"address":"Beatebergsv�gen 7","startPrice":6500000,"hood":"Saltsj�-Boo \/ Kummeln�s","lat":59.3528258,"squareMeters":0}
+{"lon":17.8568758,"address":"Beckasinv�gen 10","startPrice":3495000,"hood":"Bro - R�by","lat":59.1373147,"squareMeters":180}
+{"lon":18.0644881,"address":"Beckasinv�gen 21","startPrice":2950000,"hood":"R�by-G�rde","lat":59.3327881,"squareMeters":126}
+{"lon":17.6223489,"address":"Beckasinv�gen 40","startPrice":4975000,"hood":"Viksberg","lat":59.2419047,"squareMeters":180}
+{"lon":17.6225894,"address":"Beckasinv�gen 42","startPrice":5200000,"hood":"Viksberg","lat":59.2422951,"squareMeters":180}
+{"lon":17.9160662,"address":"Beckombergav�gen 73","startPrice":4495000,"hood":"Bromma Norra �ngby","lat":59.3455182,"squareMeters":85}
+{"lon":17.9554532,"address":"Bellmansk�llev�gen 8","startPrice":9500000,"hood":"M�larh�jden","lat":59.3024827,"squareMeters":254}
+{"lon":17.9241957,"address":"Benvedsbacken 15, hus 363","startPrice":4290000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 17, hus 362","startPrice":4250000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 19, hus 361","startPrice":4190000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 21, tomt 360","startPrice":4390000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 2, tomt 345","startPrice":4190000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":119}
+{"lon":17.9241957,"address":"Benvedsbacken 4, tomt 346","startPrice":3990000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":119}
+{"lon":17.9241957,"address":"Benvedsbacken 6, hus 347","startPrice":3990000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":119}
+{"lon":17.9241957,"address":"Benvedsbacken 7, hus 367","startPrice":4490000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":128}
+{"lon":17.9241957,"address":"Benvedsbacken 9, hus 366","startPrice":4290000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":128}
+{"lon":18.2753534,"address":"Berberisv�gen 37","startPrice":645000,"hood":"Bro Finnsta","lat":59.4036882,"squareMeters":96}
+{"lon":17.8255149,"address":"Berga 14","startPrice":9750000,"hood":"Berga","lat":58.9882692,"squareMeters":477}
+{"lon":17.6282027,"address":"Berga 21","startPrice":2495000,"hood":"J�rna","lat":59.1158835,"squareMeters":158}
+{"lon":18.353581,"address":"Bergabov�gen 15","startPrice":5950000,"hood":"Saltsj�baden\/�lg�","lat":59.2660738,"squareMeters":174}
+{"lon":18.0036381,"address":"Bergfalkstigen 6A","startPrice":1995000,"hood":"�dran","lat":59.1571873,"squareMeters":72}
+{"lon":17.7885822,"address":"Bergfinkv�gen 33","startPrice":2495000,"hood":"V�rsta","lat":59.1671205,"squareMeters":137}
+{"lon":18.51063,"address":"Berggransbacken 1\/Hanstan�sv�gen 38","startPrice":2350000,"hood":"Saltar�","lat":59.321454,"squareMeters":60}
+{"lon":17.9475953,"address":"Bergklintv�gen 16","startPrice":0,"hood":"Bollstan�s","lat":59.4957839,"squareMeters":201}
+{"lon":17.9487672,"address":"Bergklintv�gen 2","startPrice":4950000,"hood":"Bollstan�s","lat":59.4974316,"squareMeters":201}
+{"lon":18.9053704,"address":"Bergshyddan","startPrice":2850000,"hood":"Blid�","lat":59.6128934,"squareMeters":80}
+{"lon":18.0644881,"address":"Bergsrundan 18","startPrice":1395000,"hood":"Ljuster�\/sk�rsberget","lat":59.3327881,"squareMeters":59}
+{"lon":18.3632624,"address":"Bergstupsv�gen 6","startPrice":11000000,"hood":"Vaxholm - Tynning�","lat":59.3826509,"squareMeters":200}
+{"lon":18.6230425,"address":"Bergsv�gen 2","startPrice":2195000,"hood":"Ljuster� - Nolsj�","lat":59.5321404,"squareMeters":128}
+{"lon":18.1421742,"address":"Bergsv�gen 37","startPrice":8800000,"hood":"Hersby","lat":59.3703959,"squareMeters":243}
+{"lon":18.4268166,"address":"Betsedev�gen 15b","startPrice":7500000,"hood":"Gustavsberg","lat":59.3291694,"squareMeters":200}
+{"lon":18.4268166,"address":"Betsedev�gen 15b","startPrice":7500000,"hood":"Gustavsberg","lat":59.3291694,"squareMeters":200}
+{"lon":18.0644881,"address":"Betselv�gen 15","startPrice":3295000,"hood":"Vattmyra","lat":59.3327881,"squareMeters":141}
+{"lon":18.0816763,"address":"Bifrostv�gen 25","startPrice":2850000,"hood":"T�by Kyrkby","lat":59.5034796,"squareMeters":89}
+{"lon":18.4954001,"address":"Birgittav�gen  28","startPrice":1495000,"hood":"Finsta","lat":59.7365402,"squareMeters":103}
+{"lon":17.8090841,"address":"Biskop Brasks Gr�nd 80","startPrice":2175000,"hood":"St�ket","lat":59.4815939,"squareMeters":106}
+{"lon":18.1208511,"address":"Biskopsudden","startPrice":9900000,"hood":"Djurg�rden","lat":59.326358,"squareMeters":205}
+{"lon":17.9508064,"address":"Biv�gen 3","startPrice":3650000,"hood":"Vistaberg","lat":59.238543,"squareMeters":129}
+{"lon":18.6617161,"address":"Biv�gen 6","startPrice":2200000,"hood":"Stavsn�s","lat":59.2763078,"squareMeters":67}
+{"lon":18.0709423,"address":"Bi�tarev�gen 2","startPrice":1995000,"hood":"Vidja","lat":59.1966576,"squareMeters":73}
+{"lon":18.0644881,"address":"Bj�rkhagsv�gen 10","startPrice":4900000,"hood":"Duvbo","lat":59.3327881,"squareMeters":140}
+{"lon":18.0644881,"address":"Bj�rkhagsv�gen 21B","startPrice":4160500,"hood":"Bj�rkhaga","lat":59.3327881,"squareMeters":0}
+{"lon":18.2452679,"address":"Bj�rkholmsv�gen 201","startPrice":2290000,"hood":"�stra Orminge","lat":59.330365,"squareMeters":121}
+{"lon":17.6986248,"address":"Bj�rkhultsv�gen 1","startPrice":3975000,"hood":"H�rningsn�s","lat":59.0631801,"squareMeters":127}
+{"lon":18.352705,"address":"Bj�rkstigen 5","startPrice":4850000,"hood":"Blyn�s Vaxholm","lat":59.402499,"squareMeters":210}
+{"lon":18.0644881,"address":"Bj�rktrastv�gen 11","startPrice":3495000,"hood":"Nyby Backe","lat":59.3327881,"squareMeters":117}
+{"lon":18.0644881,"address":"Bj�rktrastv�gen 1, 3 &amp; 5","startPrice":3795000,"hood":"Nyby Backe","lat":59.3327881,"squareMeters":145}
+{"lon":18.0644881,"address":"Bj�rktrastv�gen 2 &amp; 4","startPrice":3645000,"hood":"Nyby Backe","lat":59.3327881,"squareMeters":125}
+{"lon":17.4786392,"address":"Bj�rkvallav�gen 89","startPrice":2395000,"hood":"Centrala V�sby","lat":59.2560346,"squareMeters":132}
+{"lon":17.9695907,"address":"Bj�rkv�gen 26 A","startPrice":3475000,"hood":"Fullersta","lat":59.242828,"squareMeters":190}
+{"lon":17.862825,"address":"Bj�rnb�rsv�gen 17","startPrice":5345000,"hood":"Grimsta","lat":59.3608889,"squareMeters":166}
+{"lon":17.9001529,"address":"Bj�rn Clousv�g 51","startPrice":160000,"hood":"�smo","lat":58.9831364,"squareMeters":89}
+{"lon":17.8549351,"address":"Bj�rnidegr�nd 275","startPrice":2995000,"hood":"V�llingby - K�lvesta","lat":59.3808861,"squareMeters":120}
+{"lon":18.0644881,"address":"Bj�rnmosseg�ngen 26","startPrice":2595000,"hood":"Krusboda","lat":59.3327881,"squareMeters":123}
+{"lon":17.8822046,"address":"Bj�rnsonsgatan 61","startPrice":2795000,"hood":"Bromma Blackeberg","lat":59.3429914,"squareMeters":81}
+{"lon":18.0644881,"address":"Bj�rsholmsv�gen 270","startPrice":20000000,"hood":"Lis�","lat":59.3327881,"squareMeters":208}
+{"lon":17.9982979,"address":"Blackensv�gen 28","startPrice":2650000,"hood":"�lvsj� L�ngbro","lat":59.2803668,"squareMeters":68}
+{"lon":18.6083941,"address":"Bladgr�nd 2","startPrice":975000,"hood":"Hallstavik","lat":60.0481508,"squareMeters":116}
+{"lon":18.0690304,"address":"Blendav�gen 5","startPrice":6500000,"hood":"T�by kyrkby","lat":59.4935264,"squareMeters":275}
+{"lon":18.8890809,"address":"Blid� G�rd 204","startPrice":4200000,"hood":"Blid�","lat":59.6148328,"squareMeters":68}
+{"lon":17.8303581,"address":"Blockv�gen 14","startPrice":3750000,"hood":"Tumba","lat":59.1898586,"squareMeters":112}
+{"lon":18.0644881,"address":"Blombackagatan 17","startPrice":2995000,"hood":"Blombacka","lat":59.3327881,"squareMeters":111}
+{"lon":18.0644881,"address":"Blomkronegr�nd 19","startPrice":2350000,"hood":"H�sselby Villastad Norra","lat":59.3327881,"squareMeters":140}
+{"lon":18.0644881,"address":"Blomodlarv�gen 3A","startPrice":2495000,"hood":"H�sselby S�dra Villastad","lat":59.3327881,"squareMeters":130}
+{"lon":18.0644881,"address":"Blomsterhagen 24","startPrice":3400000,"hood":"Vendels� Hage - G�rd","lat":59.3327881,"squareMeters":123}
+{"lon":17.8268262,"address":"Blomsterv�gen 1","startPrice":2795000,"hood":"Kallh�ll","lat":59.4647861,"squareMeters":81}
+{"lon":17.7659936,"address":"Bl�b�rsstigen 31","startPrice":2195000,"hood":"SALEM","lat":59.2065942,"squareMeters":127}
+{"lon":18.6256822,"address":"Bl�b�rsv�gen 3","startPrice":1650000,"hood":"Bergshamra","lat":59.6396249,"squareMeters":145}
+{"lon":18.1433544,"address":"Bl�klintsv�gen 21B","startPrice":3295000,"hood":"Tr�ngsund","lat":59.2304521,"squareMeters":138}
+{"lon":17.9493428,"address":"Bl�klintv�gen 35","startPrice":2195000,"hood":"Bollstan�s","lat":59.4936003,"squareMeters":100}
+{"lon":18.1107552,"address":"Bl�kullav�gen 16","startPrice":3198000,"hood":"V�sterhaninge","lat":59.1171957,"squareMeters":1222}
+{"lon":18.0644881,"address":"Bl�mesv�gen 13","startPrice":4185000,"hood":"Nyby","lat":59.3327881,"squareMeters":144}
+{"lon":18.0644881,"address":"Bl�mesv�gen 16","startPrice":3495000,"hood":"Nyby","lat":59.3327881,"squareMeters":111}
+{"lon":18.0644881,"address":"Bl�mesv�gen 24","startPrice":4195000,"hood":"Nyby","lat":59.3327881,"squareMeters":155}
+{"lon":18.0644881,"address":"Bl�mesv�gen 30","startPrice":4195000,"hood":"Nyby","lat":59.3327881,"squareMeters":155}
+{"lon":17.6899619,"address":"Bl�sbacksv�gen 63","startPrice":1595000,"hood":"F�rings� Stenhamra","lat":59.3337253,"squareMeters":96}
+{"lon":18.6081834,"address":"Boda 1:78","startPrice":2798600,"hood":"Boda","lat":59.3667048,"squareMeters":95}
+{"lon":18.6942006,"address":"Bodatorpsv�gen 2","startPrice":1750000,"hood":"Vind�, Bodatorp","lat":59.3410568,"squareMeters":60}
+{"lon":17.6939816,"address":"Bodav�gen 63","startPrice":3595000,"hood":"F�rings� Il�nda","lat":59.4186342,"squareMeters":170}
+{"lon":17.7601765,"address":"Bofinkstigen 13","startPrice":1400000,"hood":"Salem","lat":59.1960687,"squareMeters":120}
+{"lon":17.7623397,"address":"Bofinkstigen 37","startPrice":1795000,"hood":"Salem","lat":59.1951578,"squareMeters":136}
+{"lon":17.7804543,"address":"Bofinkv�gen 32","startPrice":2495000,"hood":"V�rsta","lat":59.1670496,"squareMeters":120}
+{"lon":18.2217693,"address":"Boforsv�gen 3B","startPrice":5100000,"hood":"Trollb�cken","lat":59.2189099,"squareMeters":145}
+{"lon":17.8568758,"address":"Bokstigen 9","startPrice":1995000,"hood":"Bro - R�by","lat":59.1373147,"squareMeters":131}
+{"lon":17.8132275,"address":"Bolinderv�gen 30 - S�LD, Visning in","startPrice":1895000,"hood":"Kallh�ll","lat":59.4515525,"squareMeters":819}
+{"lon":17.7959126,"address":"Bollgr�nd 2","startPrice":2700000,"hood":"Eker� Tr�kvista","lat":59.2726731,"squareMeters":111}
+{"lon":18.0644881,"address":"Bondv�gen 140","startPrice":2495000,"hood":"Gud�","lat":59.3327881,"squareMeters":45}
+{"lon":18.296432,"address":"Borgv�gen 3","startPrice":2495000,"hood":"�stersk�r","lat":59.4723443,"squareMeters":153}
+{"lon":17.9902761,"address":"Borgv�gen 32","startPrice":5700000,"hood":"Sj�berg","lat":59.4251069,"squareMeters":206}
+{"lon":18.0644881,"address":"Branta stigen 3\/ Odenv�gen 22","startPrice":6750000,"hood":"SALTSJ�BADEN\/IGELBODA","lat":59.3327881,"squareMeters":145}
+{"lon":18.0644881,"address":"Brebol 11","startPrice":1995000,"hood":"Lis�","lat":59.3327881,"squareMeters":77}
+{"lon":18.0644881,"address":"Bredl�tsv�gen 5","startPrice":3195000,"hood":"F�rings� Bredl�t","lat":59.3327881,"squareMeters":156}
+{"lon":18.0644881,"address":"Bredst�k 21","startPrice":5200000,"hood":"Sk�rg�rd - Lis�","lat":59.3327881,"squareMeters":200}
+{"lon":18.8589453,"address":"Brevik 3295","startPrice":1895000,"hood":"V�dd�","lat":59.9644568,"squareMeters":188}
+{"lon":18.344467,"address":"Breviksv�gen 63","startPrice":7790000,"hood":"Brevik","lat":59.2360497,"squareMeters":70}
+{"lon":18.0018317,"address":"Britta-Kolas all� hus Nr: 1","startPrice":5100000,"hood":"Solna","lat":59.3586897,"squareMeters":116}
+{"lon":18.0018317,"address":"Britta-Kolas All� hus nr 10","startPrice":6300000,"hood":"Solna","lat":59.3586897,"squareMeters":156}
+{"lon":18.0228051,"address":"Britta Kolas All� hus Nr: 2","startPrice":4875000,"hood":"Solna","lat":59.3696128,"squareMeters":116}
+{"lon":18.0680347,"address":"Britta Kolas All� hus Nr: 7","startPrice":4875000,"hood":"Solna","lat":59.3257278,"squareMeters":116}
+{"lon":18.2278395,"address":"Broby 12","startPrice":2975000,"hood":"Ekskogen","lat":59.6395873,"squareMeters":170}
+{"lon":17.9299997,"address":"Brogr�nd 6","startPrice":2450000,"hood":"Sk�lby","lat":59.5295059,"squareMeters":105}
+{"lon":17.6926933,"address":"Broholmsv�gen 10","startPrice":8500000,"hood":"Sigtuna - Sjudarg�rden","lat":59.6171193,"squareMeters":261}
+{"lon":18.6527915,"address":"Bromsstr�ckan 10","startPrice":5495000,"hood":"Bulland�","lat":59.3068712,"squareMeters":159}
+{"lon":17.8243648,"address":"Bronsgjutarv�gen 50","startPrice":2150000,"hood":"Norsborg","lat":59.2536566,"squareMeters":95}
+{"lon":18.1872602,"address":"Brovallsv�gen 40","startPrice":2500000,"hood":"Rydbo","lat":59.4632206,"squareMeters":116}
+{"lon":18.5492912,"address":"Brudbergsv�gen 1","startPrice":2500000,"hood":"INGAR�-SK�LSMARA","lat":59.2507699,"squareMeters":100}
+{"lon":17.5214784,"address":"Bruksbacken 10","startPrice":2400000,"hood":"Eker� Adels�","lat":59.3843971,"squareMeters":128}
+{"lon":17.520194,"address":"Brukskogsv�gen 30","startPrice":3895000,"hood":"Eker� - Adels�","lat":59.3868803,"squareMeters":0}
+{"lon":17.4138834,"address":"Brunsk�rsv�gen 5","startPrice":1975000,"hood":"Ingar� Bj�rkvik","lat":59.1423387,"squareMeters":49}
+{"lon":17.6415098,"address":"Brushanev�gen 19","startPrice":2975000,"hood":"R�by G�rde \/ Bro","lat":59.5153405,"squareMeters":146}
+{"lon":18.0644881,"address":"Brushanev�gen 24","startPrice":2753000,"hood":"Bro, R�by-G�rde","lat":59.3327881,"squareMeters":153}
+{"lon":18.0644881,"address":"Brushanev�gen 25","startPrice":2737000,"hood":"Bro\/R�by G�rde","lat":59.3327881,"squareMeters":146}
+{"lon":18.295884,"address":"Bryggv�gen 8","startPrice":4150000,"hood":"Tyres� Strand","lat":59.2431936,"squareMeters":130}
+{"lon":18.0947459,"address":"Brynhildsv�gen 14","startPrice":5650000,"hood":"T�by Kyrkby","lat":59.5010582,"squareMeters":1295}
+{"lon":18.0946081,"address":"Brynhildsv�gen 16","startPrice":5550000,"hood":"T�by Kyrkby","lat":59.5010974,"squareMeters":1295}
+{"lon":17.9626787,"address":"Br�derna Grimms V�g 6","startPrice":7900000,"hood":"Bromma - Smedsl�tten","lat":59.3209115,"squareMeters":142}
+{"lon":17.9546755,"address":"Buddlejav�gen 29","startPrice":3675000,"hood":"Vistaberg\/Gl�msta","lat":59.2365955,"squareMeters":112}
+{"lon":18.0644881,"address":"Bullerholmsgr�nd 63","startPrice":2700000,"hood":"Sk�rholmsh�jden","lat":59.3327881,"squareMeters":185}
+{"lon":18.0644881,"address":"Buntmakarv�gen 12","startPrice":2975000,"hood":"Uts�lje","lat":59.3327881,"squareMeters":112}
+{"lon":18.0644881,"address":"Burtr�skgatan 65","startPrice":2900000,"hood":"V�llingbyh�jden","lat":59.3327881,"squareMeters":140}
+{"lon":18.3374352,"address":"Byg�rdsv�gen 7","startPrice":5695000,"hood":"Resar�","lat":59.4274558,"squareMeters":148}
+{"lon":17.9159209,"address":"Byg�rdesv�gen 5","startPrice":4395000,"hood":" ","lat":59.3804698,"squareMeters":270}
+{"lon":17.8530618,"address":"Byleden 11","startPrice":4490000,"hood":"Sk�lby","lat":59.3960963,"squareMeters":214}
+{"lon":17.5975489,"address":"Byv�gen 16b","startPrice":3095000,"hood":"Ronna","lat":59.2023529,"squareMeters":150}
+{"lon":18.0644881,"address":"Byv�gen 72a","startPrice":2995000,"hood":"B�rsta","lat":59.3327881,"squareMeters":170}
+{"lon":17.9171866,"address":"B�tsman Stens v�g 51C","startPrice":3175000,"hood":"Sp�nga - Bromsten","lat":59.3847531,"squareMeters":104}
+{"lon":17.9171866,"address":"B�tsman Stens v�g 51D","startPrice":3225000,"hood":"Sp�nga - Bromsten","lat":59.3847531,"squareMeters":104}
+{"lon":17.8855627,"address":"B�tsmansv�gen 28","startPrice":3850000,"hood":"Centrum","lat":59.5173355,"squareMeters":122}
+{"lon":18.0631709,"address":"B�tsmansv�gen 5, 18772  T�by","startPrice":3600000,"hood":"T�by Kyrkby","lat":59.5004476,"squareMeters":127}
+{"lon":18.0644881,"address":"B�cktorpsv�gen 27","startPrice":5495000,"hood":"Bj�rkn�s","lat":59.3327881,"squareMeters":160}
+{"lon":18.0644881,"address":"B�verstigen 39","startPrice":2490000,"hood":"Tumba - Sk�cklinge","lat":59.3327881,"squareMeters":91}
+{"lon":17.9240024,"address":"Carl Barks V�g 29","startPrice":4195000,"hood":"Sp�nga Bromsten","lat":59.3772483,"squareMeters":151}
+{"lon":18.0644881,"address":"Caroline �stbergs V�g 7","startPrice":5475000,"hood":"Enskede - K�rringstan","lat":59.3327881,"squareMeters":139}
+{"lon":17.892147,"address":"Cederstr�msv�gen 12","startPrice":3295000,"hood":"Bromma Norra �ngby","lat":59.3472707,"squareMeters":66}
+{"lon":17.9452287,"address":"Celsiusv�gen 16","startPrice":2875000,"hood":"Helenelund","lat":59.4212023,"squareMeters":121}
+{"lon":18.2075045,"address":"Centralgatan 29A","startPrice":2395000,"hood":"Centrum","lat":59.2242863,"squareMeters":166}
+{"lon":17.9491539,"address":"Centralgatan 49","startPrice":2895000,"hood":"Centrala Nyn�shamn","lat":58.9033867,"squareMeters":175}
+{"lon":18.2058479,"address":"Centralv�gen 22 B","startPrice":3100000,"hood":"Trollb�cken","lat":59.2254775,"squareMeters":72}
+{"lon":18.0644881,"address":"Centralv�gen 32","startPrice":3975000,"hood":"N�sby Park","lat":59.3327881,"squareMeters":93}
+{"lon":18.0644881,"address":"Centralv�gen 44","startPrice":2325000,"hood":"Centralt","lat":59.3327881,"squareMeters":99}
+{"lon":18.1451105,"address":"Centrumv�gen 15","startPrice":4100000,"hood":"L�nna","lat":59.2061435,"squareMeters":156}
+{"lon":17.7528855,"address":"Champinjonstigen 2","startPrice":1800000,"hood":"Salem","lat":59.2028503,"squareMeters":125}
+{"lon":18.001875,"address":"Champinjonv�gen 66","startPrice":2775000,"hood":"S�rskogen","lat":59.2210335,"squareMeters":105}
+{"lon":18.0005443,"address":"Champinjonv�gen 73","startPrice":2195000,"hood":"S�rskogen","lat":59.2209728,"squareMeters":120}
+{"lon":18.1197493,"address":"Constantiav�gen 12","startPrice":9950000,"hood":"Liding�","lat":59.3703905,"squareMeters":185}
+{"lon":18.352705,"address":"Cronhamns Gr�nd 4","startPrice":15000000,"hood":"Centrala Vaxholm","lat":59.402499,"squareMeters":150}
+{"lon":17.6986248,"address":"Cypressv�gen 1 - L�nnav�gen 47-Acceptpris - F�rst till kvarn!","startPrice":3675000,"hood":"H�rningsn�s","lat":59.0631801,"squareMeters":184}
+{"lon":18.3061713,"address":"Dadelv�gen 3","startPrice":2695000,"hood":"�stersk�r","lat":59.4731027,"squareMeters":128}
+{"lon":18.0644881,"address":"Dagsverkarv�gen 24","startPrice":3495000,"hood":"Bro-�sterhagen","lat":59.3327881,"squareMeters":180}
+{"lon":18.0644881,"address":"Dahliav�gen 5","startPrice":3995000,"hood":"Vikingshill","lat":59.3327881,"squareMeters":90}
+{"lon":18.2426314,"address":"Dalar�v�gen 103","startPrice":2995000,"hood":"Haninge\/Valsta\/L�nn�ker","lat":59.1197861,"squareMeters":121}
+{"lon":18.2505478,"address":"Dalen 2","startPrice":4675000,"hood":" ","lat":59.307516,"squareMeters":136}
+{"lon":18.0644881,"address":"Dalhagav�gen 25","startPrice":1750000,"hood":"KARLHOV","lat":59.3327881,"squareMeters":90}
+{"lon":17.9275471,"address":"Dalkarlsgr�nd 6a","startPrice":3275000,"hood":"Bromma Kyrka","lat":59.3553704,"squareMeters":0}
+{"lon":18.0644881,"address":"Dal�ngsv�gen 5","startPrice":2175000,"hood":"Soldalen","lat":59.3327881,"squareMeters":162}
+{"lon":18.0644881,"address":"Dammk�rrsv�gen 51","startPrice":1475000,"hood":"Dammk�rr","lat":59.3327881,"squareMeters":65}
+{"lon":17.8914295,"address":"Danav�gen 17","startPrice":3800000,"hood":"Bromma - Norra �ngby","lat":59.350014,"squareMeters":118}
+{"lon":18.0701145,"address":"Danderydsgatan 17","startPrice":0,"hood":"�stermalm","lat":59.3430491,"squareMeters":441}
+{"lon":18.0644881,"address":"Dappens Backe 32","startPrice":1250000,"hood":"Tegelvreten","lat":59.3327881,"squareMeters":46}
+{"lon":18.1119479,"address":"Diakongr�nd 16","startPrice":4350000,"hood":"Sk�ndal","lat":59.2506219,"squareMeters":168}
+{"lon":18.0644881,"address":"Diskusv�gen 11B","startPrice":5675000,"hood":"T�rnskogen","lat":59.3327881,"squareMeters":150}
+{"lon":17.5856347,"address":"Diskusv�gen 5","startPrice":2895000,"hood":"Geneta","lat":59.1880947,"squareMeters":128}
+{"lon":17.7814071,"address":"Djupviksv�gen 2","startPrice":2775000,"hood":"Fiskarhagen","lat":59.237289,"squareMeters":135}
+{"lon":17.9789851,"address":"Djursholm","startPrice":38500000,"hood":"Djursholm","lat":59.4512924,"squareMeters":1000}
+{"lon":17.9789851,"address":"Djursholm","startPrice":14500000,"hood":"Djursholm","lat":59.4512924,"squareMeters":290}
+{"lon":18.0907144,"address":"Djursholm-Svaln�s","startPrice":0,"hood":"Djursholm","lat":59.4100595,"squareMeters":630}
+{"lon":18.0644881,"address":"Djursholmsv�gen 53","startPrice":7700000,"hood":"N�sby Park","lat":59.3327881,"squareMeters":418}
+{"lon":17.413342,"address":"Djurstaberg 15","startPrice":1000000,"hood":"Djurstaberg","lat":59.2135168,"squareMeters":50}
+{"lon":17.9109523,"address":"Doktor Abrahams V�g 85","startPrice":3795000,"hood":"Bromma-Eneby","lat":59.3606603,"squareMeters":66}
+{"lon":17.9197379,"address":"Doktor Robertsons V�g 10","startPrice":3495000,"hood":"Sp�nga Bromsten","lat":59.3804873,"squareMeters":83}
+{"lon":18.0651021,"address":"Doktorsv�gen 18","startPrice":1395000,"hood":"Vidja","lat":59.200826,"squareMeters":26}
+{"lon":18.0004945,"address":"Domherrev�gen 10 A","startPrice":6318225,"hood":"Sollentuna - Sj�berg","lat":59.4267051,"squareMeters":1994}
+{"lon":18.0004945,"address":"Domherrev�gen 10 B","startPrice":6852875,"hood":"Sollentuna - Sj�berg","lat":59.4267051,"squareMeters":216}
+{"lon":18.2923058,"address":"Drabantv�gen 58","startPrice":6995000,"hood":"Boo G�rd","lat":59.3141397,"squareMeters":201}
+{"lon":17.9988668,"address":"Drabbningsv�gen 19","startPrice":3500000,"hood":"�lvsj� Gamla �lvsj�","lat":59.2743696,"squareMeters":136}
+{"lon":17.8199038,"address":"Drivb�nksv�gen 4","startPrice":2375000,"hood":"H�sselby","lat":59.3811566,"squareMeters":90}
+{"lon":17.9737528,"address":"Drotsv�gen 25","startPrice":5500000,"hood":"Edsviken","lat":59.4169152,"squareMeters":110}
+{"lon":18.0644881,"address":"Drottning Kristinas V�g 101","startPrice":2395000,"hood":"Bolkadalen","lat":59.3327881,"squareMeters":139}
+{"lon":18.7066892,"address":"Drottning Kristinas V�g 33","startPrice":2895000,"hood":"Kvisthamra","lat":59.7501896,"squareMeters":151}
+{"lon":17.8859605,"address":"Duvbergsv�gen 11","startPrice":2100000,"hood":"V�rby G�rd","lat":59.2608158,"squareMeters":68}
+{"lon":18.0644881,"address":"Duvbergsv�gen 54 B","startPrice":5450000,"hood":"Duvberget","lat":59.3327881,"squareMeters":202}
+{"lon":17.8844024,"address":"Duvbergsv�gen 62B","startPrice":4350000,"hood":"Huddinge- V�rby","lat":59.2607392,"squareMeters":160}
+{"lon":18.0644881,"address":"Duvkullav�gen 27","startPrice":3995000,"hood":"Duvbo","lat":59.3327881,"squareMeters":122}
+{"lon":18.0644881,"address":"Dv�rglinsgr�nd 128","startPrice":2275000,"hood":"H�sselby Villastad Norra","lat":59.3327881,"squareMeters":117}
+{"lon":18.2067516,"address":"Dv�rgv�gen 2b","startPrice":3650000,"hood":"Trollb�cken","lat":59.2283267,"squareMeters":100}
+{"lon":18.4076682,"address":"Dyviksv�gen 82","startPrice":3795000,"hood":"Brevik","lat":59.1856695,"squareMeters":123}
+{"lon":18.4076682,"address":"Dyviksv�gen 82","startPrice":3795000,"hood":"Brevik","lat":59.1856695,"squareMeters":123}
+{"lon":18.912837,"address":"D�ckv�gen 10","startPrice":1700000,"hood":"Nyn�shamn - Sandhamn","lat":59.2874428,"squareMeters":102}
+{"lon":17.9378906,"address":"D�ckv�gen 2","startPrice":2300000,"hood":"Nyn�shamn sj�utsikt","lat":58.8901828,"squareMeters":125}
+{"lon":18.0644881,"address":"Eddav�gen 17 A","startPrice":13000000,"hood":"Djursholm - Svaln�s","lat":59.3327881,"squareMeters":318}
+{"lon":18.0644881,"address":"Edebo-Gillberga 3:10","startPrice":495000,"hood":"Edebo, Gillberga","lat":59.3327881,"squareMeters":80}
+{"lon":18.6053678,"address":"Edebov�gen 9A","startPrice":2590000,"hood":"H�ver�dal","lat":60.0260734,"squareMeters":445}
+{"lon":17.8713727,"address":"Edebyv�gen 51","startPrice":8500000,"hood":"Drottningholm","lat":59.3059201,"squareMeters":180}
+{"lon":18.353525,"address":"Edsbro-Ytterby","startPrice":650000,"hood":"Edsbro Ytterby","lat":59.4265,"squareMeters":100}
+{"lon":18.956248,"address":"Edsgarnsv�gen 44","startPrice":2495000,"hood":"V�t�, Harg","lat":59.814761,"squareMeters":122}
+{"lon":18.956248,"address":"Edsgarnsv�gen 44","startPrice":2495000,"hood":"V�t�, Harg","lat":59.814761,"squareMeters":122}
+{"lon":17.7,"address":"Egelsholm","startPrice":9900000,"hood":"M�rk�","lat":59.0,"squareMeters":110}
+{"lon":17.7,"address":"Egelsholm","startPrice":9900000,"hood":"M�rk�","lat":59.0,"squareMeters":110}
+{"lon":17.6387824,"address":"Ekbackestigen 8","startPrice":1395000,"hood":"VIKSBERG","lat":59.2464937,"squareMeters":56}
+{"lon":17.951388,"address":"Ekbacksv�gen 17B","startPrice":3295000,"hood":"Ekbacken","lat":59.1009009,"squareMeters":121}
+{"lon":18.2145362,"address":"Ekdalsv�gen 5","startPrice":2650000,"hood":" ","lat":59.189407,"squareMeters":115}
+{"lon":18.5330988,"address":"Ekeby","startPrice":875000,"hood":"Bergshamra - Riala","lat":59.6300828,"squareMeters":129}
+{"lon":17.6027187,"address":"Ekebyv�gen 145","startPrice":2295000,"hood":"Ekeby","lat":59.3629002,"squareMeters":146}
+{"lon":17.9775363,"address":"Ekebyv�gen 47","startPrice":1895000,"hood":"Ekeby","lat":59.5232864,"squareMeters":100}
+{"lon":17.5916869,"address":"Ekebyv�gen 48","startPrice":2175000,"hood":"Eker� Muns�","lat":59.3704784,"squareMeters":184}
+{"lon":18.0644881,"address":"Ekebyv�gen 8 D","startPrice":1495000,"hood":"Rimbo - Centralt","lat":59.3327881,"squareMeters":99}
+{"lon":17.9817017,"address":"Ekhagsv�gen 8A","startPrice":3290000,"hood":"Ekeby","lat":59.5215275,"squareMeters":1015}
+{"lon":18.0644881,"address":"Ekhammarsv�gen 22","startPrice":2495000,"hood":"Kungs�ngen Centrum","lat":59.3327881,"squareMeters":129}
+{"lon":18.3909877,"address":"Ekhammarsv�gen 25","startPrice":3695000,"hood":"Lervik","lat":59.4633263,"squareMeters":157}
+{"lon":17.9577084,"address":"Ekhamrav�gen 1","startPrice":2550000,"hood":"Norra Sorunda","lat":59.0992442,"squareMeters":160}
+{"lon":18.354497,"address":"Ekholmsv�gen 14","startPrice":15000000,"hood":"Saltsj�baden - �lg�","lat":59.2633258,"squareMeters":128}
+{"lon":18.056589,"address":"Ekingev�gen 13","startPrice":4920000,"hood":" ","lat":59.1147887,"squareMeters":172}
+{"lon":18.232943,"address":"Eklundav�gen 8","startPrice":5475000,"hood":"Saltsj�-Boo Ekn�s","lat":59.3116253,"squareMeters":174}
+{"lon":17.5239428,"address":"Ekorrstigen 18","startPrice":2595000,"hood":"Ekeby","lat":59.2533257,"squareMeters":135}
+{"lon":18.0347889,"address":"Ekorrv�gen 60 (HUSET �R S�LT, VISNINGARNA INST�LLDA","startPrice":5950000,"hood":"N�set","lat":59.0526217,"squareMeters":128}
+{"lon":18.0644881,"address":"Ekov�gen 45 B","startPrice":1795000,"hood":"Duvbo\/Duvboskogen","lat":59.3327881,"squareMeters":65}
+{"lon":18.0904596,"address":"Eksh�radsgatan 49","startPrice":2975000,"hood":"Farsta Strand","lat":59.2383026,"squareMeters":87}
+{"lon":18.6649931,"address":"Eksj�v�gen 11","startPrice":1475000,"hood":"Djur�\/Vind� �verby","lat":59.3615821,"squareMeters":76}
+{"lon":18.2893267,"address":"Ekstigen 13","startPrice":6595000,"hood":"Tyres� Strand","lat":59.2374611,"squareMeters":160}
+{"lon":17.6415098,"address":"Eks�terv�gen 3 - ACCEPTPRIS","startPrice":3850000,"hood":"Bro","lat":59.5153405,"squareMeters":153}
+{"lon":17.9398127,"address":"Eks�trav�gen 180","startPrice":2695000,"hood":"Bred�ng","lat":59.289411,"squareMeters":136}
+{"lon":17.2685489,"address":"Ekudden 9075","startPrice":1425000,"hood":"Rimbo, Ekudden","lat":59.2063544,"squareMeters":78}
+{"lon":17.6169895,"address":"Ekviksv�gen 9A","startPrice":5950000,"hood":"Ekvik","lat":59.0438942,"squareMeters":224}
+{"lon":18.4260947,"address":"Ekv�gen 11 - S�LD","startPrice":3200000,"hood":"M�rsta - Norrbacka","lat":59.5377478,"squareMeters":150}
+{"lon":17.829528,"address":"Ekv�gen 27","startPrice":1875000,"hood":"Sv�rds�","lat":58.872137,"squareMeters":86}
+{"lon":18.465992,"address":"Ek�sen 9","startPrice":4700000,"hood":"V�rmd� - Skeppsdalsstr�m","lat":59.3028758,"squareMeters":146}
+{"lon":17.9457998,"address":"Eldtornsv�gen 5","startPrice":2295000,"hood":"Vistaberg","lat":59.2372767,"squareMeters":1011}
+{"lon":18.1776169,"address":"Elfviksv�gen 70","startPrice":12500000,"hood":"Liding� - Kyrkviken","lat":59.3669384,"squareMeters":300}
+{"lon":17.7284329,"address":"Elgerudsv�gen 5","startPrice":5595000,"hood":"R�nninge","lat":59.1848429,"squareMeters":180}
+{"lon":18.0393072,"address":"Ellag�rdsv�gen 132","startPrice":2675000,"hood":"Ellag�rd","lat":59.4460796,"squareMeters":110}
+{"lon":18.0644881,"address":"Ellakrogsv�gen 8b","startPrice":6975000,"hood":"Ella Park","lat":59.3327881,"squareMeters":214}
+{"lon":18.0644881,"address":"Ellaparksv�gen 12A","startPrice":2850000,"hood":"Ellapark","lat":59.3327881,"squareMeters":90}
+{"lon":17.9545344,"address":"Elvingebacken 1","startPrice":1695000,"hood":"Norra Sorunda","lat":59.0990095,"squareMeters":72}
+{"lon":18.4323027,"address":"Elvirav�gen 5","startPrice":7000000,"hood":"V�rmd�","lat":59.4149929,"squareMeters":120}
+{"lon":18.6053498,"address":"Emmav�gen 9","startPrice":825000,"hood":"Hallstavik","lat":60.0455804,"squareMeters":123}
+{"lon":17.656967,"address":"Eneby","startPrice":3200000,"hood":"H�bo-Tibble","lat":59.590345,"squareMeters":130}
+{"lon":18.4154131,"address":"Enoc �kerstr�ms V�g 6","startPrice":3850000,"hood":"Sk�rg�rdsstad","lat":59.4855802,"squareMeters":169}
+{"lon":18.0644881,"address":"Enskiftesv�gen 34","startPrice":1795000,"hood":"Alby - Kvarnhagen","lat":59.3327881,"squareMeters":136}
+{"lon":17.7820647,"address":"Enstav�gen 52","startPrice":6700000,"hood":"Ensta","lat":59.1875093,"squareMeters":167}
+{"lon":17.7824004,"address":"Enstav�gen 5a","startPrice":6795000,"hood":"Ensta","lat":59.1874301,"squareMeters":1699}
+{"lon":17.7820647,"address":"Enstav�gen 61","startPrice":4975000,"hood":"Ensta","lat":59.1875093,"squareMeters":153}
+{"lon":18.0644881,"address":"Entitev�gen 12","startPrice":2750000,"hood":"�sbydalen","lat":59.3327881,"squareMeters":119}
+{"lon":18.0644881,"address":"Entitev�gen 17","startPrice":2795000,"hood":"�sbydalen","lat":59.3327881,"squareMeters":119}
+{"lon":18.0644881,"address":"Eriksv�gen 39","startPrice":7495000,"hood":"Duvbo","lat":59.3327881,"squareMeters":169}
+{"lon":18.0644881,"address":"Esplanaden 20a","startPrice":2295000,"hood":"Vendels�\/Lyckeby","lat":59.3327881,"squareMeters":118}
+{"lon":18.1532508,"address":"Etydgr�nd 45","startPrice":3200000,"hood":"Tr�ngsund","lat":59.2259963,"squareMeters":106}
+{"lon":17.6148352,"address":"Evalundsgatan 5a","startPrice":3795000,"hood":"V�sterg�rd","lat":59.19033,"squareMeters":169}
+{"lon":18.0644881,"address":"Fagerlidsv�gen 8","startPrice":4400000,"hood":"Kungs�ngen \/ Strandv�gsomr�det","lat":59.3327881,"squareMeters":162}
+{"lon":18.2620321,"address":"Fageruddsgr�nd 28","startPrice":3250000,"hood":"Tyres� Strand","lat":59.2523006,"squareMeters":1128}
+{"lon":17.7534943,"address":"Fajansstigen 36","startPrice":1695000,"hood":"Brunna - Kungs�ngen","lat":59.5098071,"squareMeters":115}
+{"lon":18.0644881,"address":"Falkv�gen 1","startPrice":3500000,"hood":"S�dra L�nnersta","lat":59.3327881,"squareMeters":31}
+{"lon":17.9974936,"address":"Falkv�gen 4a","startPrice":3800000,"hood":"�lvsj� L�ngbro","lat":59.2786805,"squareMeters":140}
+{"lon":18.0644881,"address":"Fannydalsplat�n 27","startPrice":3695000,"hood":"Stor�ngen","lat":59.3327881,"squareMeters":96}
+{"lon":18.0644881,"address":"Fantans v�g 34","startPrice":5295000,"hood":"Eker� Sandudden","lat":59.3327881,"squareMeters":170}
+{"lon":18.0644881,"address":"Fantholmsv�gen 3","startPrice":3690000,"hood":"Tr�kvista torg","lat":59.3327881,"squareMeters":122}
+{"lon":18.688171,"address":"Fasanens V�g 6","startPrice":1900000,"hood":"Stavsn�s","lat":59.285524,"squareMeters":136}
+{"lon":17.9932544,"address":"Fasanv�gen 24a","startPrice":7000000,"hood":"Sj�berg","lat":59.4272843,"squareMeters":129}
+{"lon":17.8065578,"address":"Februariv�gen 16","startPrice":3975000,"hood":"Jakobsberg","lat":59.4260025,"squareMeters":161}
+{"lon":18.0018317,"address":"Feroxgatan hus Nr: 11","startPrice":5100000,"hood":"Solna","lat":59.3586897,"squareMeters":116}
+{"lon":18.0018317,"address":"Feroxgatan hus Nr: 12 - 19","startPrice":4875000,"hood":"Solna","lat":59.3586897,"squareMeters":116}
+{"lon":18.0018317,"address":"Feroxgatan hus Nr: 20","startPrice":5450000,"hood":"Solna","lat":59.3586897,"squareMeters":134}
+{"lon":18.3416746,"address":"Finborgsv�gen 34","startPrice":1795000,"hood":"Brevik","lat":59.2236008,"squareMeters":0}
+{"lon":17.312898,"address":"Finkarbyv�gen 26","startPrice":1250000,"hood":"NYKVARN Finkarby","lat":59.2279719,"squareMeters":41}
+{"lon":18.0644881,"address":"Fiskare Glans Gata 3","startPrice":5995000,"hood":"Sigtuna - Bj�rkbacka Strand","lat":59.3327881,"squareMeters":176}
+{"lon":18.0644881,"address":"Fiskare Lundbergs Gata 22","startPrice":6250000,"hood":"Bj�rkbacka Strand","lat":59.3327881,"squareMeters":176}
+{"lon":18.9474779,"address":"Fiskebyv�gen 22","startPrice":2100000,"hood":"V�t�","lat":59.8073196,"squareMeters":67}
+{"lon":18.0563763,"address":"Fiskm�sv�gen 30","startPrice":1975000,"hood":"Fagersj�","lat":59.2497343,"squareMeters":118}
+{"lon":18.8589453,"address":"Fj�ll 5:9","startPrice":3950000,"hood":"V�dd�","lat":59.9644568,"squareMeters":65}
+{"lon":18.0644881,"address":"Fj�tursv�gen 1","startPrice":2975000,"hood":"S�ders�ttra","lat":59.3327881,"squareMeters":83}
+{"lon":18.0644881,"address":"Fladenv�gen 10","startPrice":8750000,"hood":"Ingar� �stern�s","lat":59.3327881,"squareMeters":260}
+{"lon":18.0644881,"address":"Florav�gen 11","startPrice":2495000,"hood":"Blombacka","lat":59.3327881,"squareMeters":123}
+{"lon":18.0644881,"address":"Florav�gen 11","startPrice":3395000,"hood":"Stuvsta Centrum","lat":59.3327881,"squareMeters":181}
+{"lon":17.9165405,"address":"Flottiljv�gen 137","startPrice":3295000,"hood":"Tullinge - Riksten","lat":59.1884468,"squareMeters":128}
+{"lon":18.0644881,"address":"Flottiljv�gen 166 - Hus 43","startPrice":3250000,"hood":"Riksten Friluftsstad","lat":59.3327881,"squareMeters":130}
+{"lon":18.0644881,"address":"Flottiljv�gen 168- Hus 44","startPrice":3175000,"hood":"Riksten Friluftsstad","lat":59.3327881,"squareMeters":132}
+{"lon":18.0644881,"address":"Fl�sj�v�gen 21","startPrice":2675000,"hood":"Stavsn�s\/Ramsmora","lat":59.3327881,"squareMeters":62}
+{"lon":17.9464971,"address":"Fl�derv�gen 49","startPrice":3490000,"hood":"Bollstan�s","lat":59.4962124,"squareMeters":154}
+{"lon":18.0644881,"address":"Foderbylund","startPrice":1500000,"hood":" ","lat":59.3327881,"squareMeters":70}
+{"lon":18.51063,"address":"Forellstigen 20","startPrice":1800000,"hood":"HERRVIKSN�S V�RMD�","lat":59.321454,"squareMeters":60}
+{"lon":17.8237728,"address":"Forellv�gen 7","startPrice":1695000,"hood":"Tumba","lat":59.2088854,"squareMeters":94}
+{"lon":17.8370249,"address":"Formansgr�nd 9","startPrice":2375000,"hood":"H�sselby","lat":59.3730836,"squareMeters":95}
+{"lon":17.9725796,"address":"Fornborgsv�gen 22 B","startPrice":1775000,"hood":"Solg�rd","lat":59.227817,"squareMeters":1117}
+{"lon":17.9814343,"address":"Fornborgsv�gen 63A","startPrice":5025000,"hood":"Solg�rd","lat":59.2225366,"squareMeters":167}
+{"lon":17.9662688,"address":"Fornborgsv�gen 6F","startPrice":3995000,"hood":"Huddinge - Solg�rd","lat":59.2291157,"squareMeters":174}
+{"lon":18.0644881,"address":"Fornstigen 3","startPrice":2775000,"hood":"B�rsta","lat":59.3327881,"squareMeters":132}
+{"lon":17.9001529,"address":"Forsbacken 1","startPrice":0,"hood":"�smo","lat":58.9831364,"squareMeters":200}
+{"lon":18.1688132,"address":"Framn�sv�gen 5","startPrice":1475000,"hood":"Fr�sunda","lat":59.6277091,"squareMeters":72}
+{"lon":17.6544697,"address":"Framn�sv�gen 8","startPrice":6700000,"hood":"Centrum","lat":59.1790787,"squareMeters":126}
+{"lon":18.266604,"address":"Frans Mobergs V�g 5","startPrice":7750000,"hood":"Kummeln�s","lat":59.3498675,"squareMeters":260}
+{"lon":18.049868,"address":"Fredenv�gen 2","startPrice":2695000,"hood":"Vallentuna","lat":59.5610162,"squareMeters":75}
+{"lon":17.7239649,"address":"Fredriksbergsv�gen 22","startPrice":6700000,"hood":"Centrala Sigtuna","lat":59.6173358,"squareMeters":202}
+{"lon":18.0644881,"address":"Fredriksbergsv�gen 24","startPrice":6450000,"hood":"Lilla Bj�rkn�s","lat":59.3327881,"squareMeters":80}
+{"lon":18.0644881,"address":"Fredriksbergsv�gen 40","startPrice":2375000,"hood":"Vendels�malm","lat":59.3327881,"squareMeters":133}
+{"lon":18.3321221,"address":"Fredriksstrandsv�gen 1","startPrice":23000000,"hood":"Vaxholm","lat":59.4005201,"squareMeters":500}
+{"lon":17.6819673,"address":"Frejas V�g 8","startPrice":2800000,"hood":"Eker� Helg�","lat":59.2789288,"squareMeters":90}
+{"lon":18.598703,"address":"Frejv�gen 1 A +1B","startPrice":1100000,"hood":"Hallstavik","lat":60.0465324,"squareMeters":98}
+{"lon":18.4923283,"address":"Frihamra 5704 B","startPrice":695000,"hood":"Frihamra","lat":59.7242006,"squareMeters":45}
+{"lon":18.0644881,"address":"Fritzbergsv�gen 10","startPrice":2995000,"hood":"B�llstalund","lat":59.3327881,"squareMeters":119}
+{"lon":18.0644881,"address":"Fritzbergsv�gen 20","startPrice":3495000,"hood":"B�llstalund","lat":59.3327881,"squareMeters":143}
+{"lon":18.4155059,"address":"Fritz Janssons V�g 10","startPrice":3700000,"hood":"Sk�rg�rdsstad","lat":59.487445,"squareMeters":135}
+{"lon":18.4168996,"address":"Fritz Janssons V�g 29","startPrice":4800000,"hood":"Sk�rg�rdsstad","lat":59.4835657,"squareMeters":170}
+{"lon":18.0644881,"address":"Frubol 8720","startPrice":1075000,"hood":"Gottr�ra - Frubol","lat":59.3327881,"squareMeters":60}
+{"lon":17.9442689,"address":"Fru�ngsv�gen 104","startPrice":1470000,"hood":"Odenslunda","lat":59.514825,"squareMeters":90}
+{"lon":17.9399993,"address":"Fru�ngsv�gen 18","startPrice":3495000,"hood":"Odenslunda","lat":59.516955,"squareMeters":150}
+{"lon":17.9345272,"address":"Fr�tunagr�nd 14","startPrice":2995000,"hood":"Brunnby Vik","lat":59.5262608,"squareMeters":154}
+{"lon":17.9275333,"address":"Furulundsv�gen 29","startPrice":3650000,"hood":"�stra B�llsta","lat":59.3658028,"squareMeters":159}
+{"lon":17.6359745,"address":"Furuv�gen 1","startPrice":1150000,"hood":"F�rings� Kungsberga","lat":59.4047664,"squareMeters":48}
+{"lon":18.0644881,"address":"Furuv�gen 17","startPrice":1600000,"hood":"F�rings� J�s�ngen","lat":59.3327881,"squareMeters":72}
+{"lon":18.6039263,"address":"Furuv�gen 23","startPrice":850000,"hood":"Hallstavik","lat":60.0588843,"squareMeters":152}
+{"lon":18.0497845,"address":"Fyrgr�nd 1","startPrice":2375000,"hood":"Huddinge - H�gmora","lat":59.2409262,"squareMeters":55}
+{"lon":18.0644881,"address":"Fyrv�gen 8","startPrice":2985000,"hood":"S�dern�s viss sj�utsikt","lat":59.3327881,"squareMeters":81}
+{"lon":18.0644881,"address":"F�gelbrostigen 428","startPrice":3950000,"hood":"F�gelbro S�teri Sk�rg�rdshusen","lat":59.3327881,"squareMeters":118}
+{"lon":18.0644881,"address":"F�gelbrostigen 434","startPrice":3350000,"hood":"F�gelbro S�teri Sk�rg�rdshusen","lat":59.3327881,"squareMeters":126}
+{"lon":18.0644881,"address":"F�gelbrostigen 512","startPrice":4200000,"hood":"F�gelbro S�teri Sk�rg�rdshusen","lat":59.3327881,"squareMeters":124}
+{"lon":17.8341852,"address":"F�gelv�gen 20","startPrice":2450000,"hood":"M�rsta - Ekilla","lat":59.6280164,"squareMeters":120}
+{"lon":18.0644881,"address":"F�gelv�gen 2A","startPrice":3100000,"hood":"Stuvsta Segersminne","lat":59.3327881,"squareMeters":110}
+{"lon":18.0644881,"address":"F�gelv�gen 4","startPrice":1150000,"hood":"Folkparksomr�det","lat":59.3327881,"squareMeters":512}
+{"lon":17.8965138,"address":"F�gringsbrinken 17","startPrice":5475000,"hood":"Sp�nga - Flysta","lat":59.3666291,"squareMeters":176}
+{"lon":18.0941931,"address":"F�rnebogatan 43","startPrice":2995000,"hood":"Farsta Centrum","lat":59.2483203,"squareMeters":147}
+{"lon":18.0644881,"address":"F�rsna, etapp 1","startPrice":2450000,"hood":"F�rsna","lat":59.3327881,"squareMeters":0}
+{"lon":18.0770415,"address":"F�rvaltarv�gen 17","startPrice":3975000,"hood":"H�kar�ngen\/Farsta","lat":59.2516612,"squareMeters":90}
+{"lon":18.9053704,"address":"F�r�ngen","startPrice":2695000,"hood":"Blid�","lat":59.6128934,"squareMeters":108}
+{"lon":17.6720544,"address":"Gabrielsv�gen 3","startPrice":3875000,"hood":"BERGVIK","lat":59.3001049,"squareMeters":160}
+{"lon":18.4745932,"address":"Gallbodav�gen 38","startPrice":2950000,"hood":"Gallboda","lat":59.5134656,"squareMeters":54}
+{"lon":17.8958875,"address":"Galtab�cksv�gen 8","startPrice":2850000,"hood":"Bromma Norra �ngby","lat":59.3476128,"squareMeters":89}
+{"lon":18.4524767,"address":"Gamla Brunnsv�gen 96","startPrice":4695000,"hood":"Ingar� - Brunn","lat":59.2724625,"squareMeters":128}
+{"lon":18.0644881,"address":"Gamla Enh�rnav�gen 25","startPrice":1850000,"hood":"B�rsta","lat":59.3327881,"squareMeters":95}
+{"lon":17.918708,"address":"Gamla Stockholmsv�gen 227 A","startPrice":4550000,"hood":"Huddinge - Gl�msta","lat":59.2431788,"squareMeters":137}
+{"lon":17.8951443,"address":"Gamla S�dert�ljev�gen 144","startPrice":3675000,"hood":"Segeltorp","lat":59.2634046,"squareMeters":135}
+{"lon":17.9492947,"address":"Gamla v�gen 14","startPrice":16000000,"hood":"Bollstan�s","lat":59.4883742,"squareMeters":250}
+{"lon":17.9496602,"address":"Gamla V�gen 21C","startPrice":5350000,"hood":"Bollstan�s gamla V�gen","lat":59.4912393,"squareMeters":180}
+{"lon":17.9473315,"address":"Gamla v�gen 7","startPrice":5500000,"hood":"Bollstan�s","lat":59.4887328,"squareMeters":199}
+{"lon":17.6560169,"address":"Gammelg�rdsudd 3","startPrice":13000000,"hood":"Eker� - Helg�","lat":59.2805525,"squareMeters":220}
+{"lon":18.2979691,"address":"Generalsv�gen 34B","startPrice":9700000,"hood":"�stersk�r","lat":59.465474,"squareMeters":266}
+{"lon":17.6986248,"address":"Gideon Hyd�ns V�g 3","startPrice":4175000,"hood":"H�rningsn�s","lat":59.0631801,"squareMeters":154}
+{"lon":17.7868997,"address":"Gitarrv�gen 77","startPrice":2995000,"hood":"Viksj�","lat":59.4044792,"squareMeters":159}
+{"lon":17.7503174,"address":"Glasyrv�gen 22","startPrice":2495000,"hood":"Brunna","lat":59.5085525,"squareMeters":138}
+{"lon":17.9261237,"address":"Gliav�gen 73","startPrice":5800000,"hood":"Bromma Kyrka","lat":59.3525857,"squareMeters":134}
+{"lon":18.0644881,"address":"Glimmerstigen 25","startPrice":1675000,"hood":"Kungs�ngen Tibbleh�jden","lat":59.3327881,"squareMeters":117}
+{"lon":18.3456084,"address":"Glimmerv�gen 10B","startPrice":4900000,"hood":"Resar�","lat":59.4296297,"squareMeters":183}
+{"lon":18.0101635,"address":"Glimmerv�gen 26","startPrice":3150000,"hood":"Balingsn�s","lat":59.2257927,"squareMeters":119}
+{"lon":18.0624126,"address":"Gl�ntastigen 157","startPrice":3495000,"hood":"Uthamra","lat":59.5069465,"squareMeters":134}
+{"lon":18.0602051,"address":"Gl�ntastigen 35","startPrice":1675000,"hood":"Uthamra","lat":59.5059861,"squareMeters":99}
+{"lon":18.0594794,"address":"Gl�ntastigen 45","startPrice":1495000,"hood":"Uthamra","lat":59.5061567,"squareMeters":111}
+{"lon":18.0594794,"address":"Gl�ntastigen 45","startPrice":1495000,"hood":"Uthamra","lat":59.5061567,"squareMeters":111}
+{"lon":18.0713084,"address":"Gnejsv�gen 19","startPrice":1795000,"hood":"V�sterhaninge\/Krigslida","lat":59.1177991,"squareMeters":120}
+{"lon":18.0644881,"address":"Gottr�ra H�sta 8105","startPrice":3495000,"hood":"Gottr�ra","lat":59.3327881,"squareMeters":184}
+{"lon":18.0644881,"address":"Gottr�ra H�sta 8105","startPrice":3495000,"hood":"Gottr�ra","lat":59.3327881,"squareMeters":184}
+{"lon":18.6056924,"address":"Gottstav�gen 118","startPrice":1500000,"hood":"H�ver�dal","lat":60.0292727,"squareMeters":0}
+{"lon":18.601342,"address":"Gottstav�gen 55","startPrice":1700000,"hood":"Hallstavik","lat":60.0405488,"squareMeters":157}
+{"lon":18.0644881,"address":"Granatv�gen 7","startPrice":550000,"hood":"F�rings� Hillersj�n�s","lat":59.3327881,"squareMeters":0}
+{"lon":18.0644881,"address":"Granatv�gen 9","startPrice":1650000,"hood":"F�rings� Hillersj�n�s","lat":59.3327881,"squareMeters":135}
+{"lon":18.0644881,"address":"Granbacken 24","startPrice":2195000,"hood":"Tumba Bro�ngen","lat":59.3327881,"squareMeters":116}
+{"lon":18.0644881,"address":"Granbystrand","startPrice":0,"hood":"Granbystrand","lat":59.3327881,"squareMeters":0}
+{"lon":18.5926535,"address":"Grandalen 2175","startPrice":1750000,"hood":"�lmsta - Hallstavik","lat":60.0447919,"squareMeters":120}
+{"lon":18.5926535,"address":"Grandalen 2175","startPrice":1750000,"hood":"�lmsta - Hallstavik","lat":60.0447919,"squareMeters":120}
+{"lon":18.1291383,"address":"Granv�gen 4 - 6","startPrice":20000000,"hood":"Hersby","lat":59.3689225,"squareMeters":0}
+{"lon":18.9791402,"address":"Granv�gen 8","startPrice":1150000,"hood":"�ker� - V�stanvik","lat":59.7259125,"squareMeters":64}
+{"lon":17.9866387,"address":"Gran�sv�gen 29","startPrice":1500000,"hood":"Glad� Kvarn","lat":59.1940238,"squareMeters":48}
+{"lon":18.0939795,"address":"Gribbylunds All� 92","startPrice":1975000,"hood":"Gribbylund","lat":59.4501926,"squareMeters":95}
+{"lon":17.9001529,"address":"Grimskaftet 10","startPrice":3978400,"hood":"KAPTENSG�RDEN, Vansta H�stby, �smo","lat":58.9831364,"squareMeters":157}
+{"lon":17.9001529,"address":"Grimskaftet 12","startPrice":3978400,"hood":"KAPTENSG�RDEN, Vansta H�stby, �smo","lat":58.9831364,"squareMeters":157}
+{"lon":17.9001529,"address":"Grimskaftet 14","startPrice":3968400,"hood":"KAPTENSG�RDEN, Vansta H�stby, �smo","lat":58.9831364,"squareMeters":157}
+{"lon":17.9001529,"address":"Grimskaftet 4","startPrice":3761900,"hood":"KAPTENSG�RDEN, Vansta H�stby, �smo","lat":58.9831364,"squareMeters":1596}
+{"lon":17.9001529,"address":"Grimskaftet 8","startPrice":3918400,"hood":"KAPTENSG�RDEN, Vansta H�stby, �smo","lat":58.9831364,"squareMeters":157}
+{"lon":17.7551792,"address":"Grimstav�gen 101","startPrice":3995000,"hood":"Sorunda","lat":58.975769,"squareMeters":185}
+{"lon":18.2019299,"address":"Grindstigen 4","startPrice":22500000,"hood":"Liding� - H�gberga","lat":59.3392575,"squareMeters":300}
+{"lon":18.0644881,"address":"Grindstuv�gen 8","startPrice":3795000,"hood":"Centrala Stuvsta","lat":59.3327881,"squareMeters":130}
+{"lon":17.7088538,"address":"Gripens backe 7","startPrice":2200000,"hood":"Kungs�ngen \/ Sylta","lat":59.4815884,"squareMeters":0}
+{"lon":17.7088538,"address":"Gripens backe 9","startPrice":2800000,"hood":"Kungs�ngen \/ Sylta","lat":59.4815884,"squareMeters":0}
+{"lon":18.4467869,"address":"Grisslingebacken 2","startPrice":4895000,"hood":"M�rtn�s","lat":59.3142832,"squareMeters":153}
+{"lon":18.3553174,"address":"Gruvv�gen 6","startPrice":7350000,"hood":"Resar� - Ytterby","lat":59.4271392,"squareMeters":250}
+{"lon":17.8901532,"address":"Gryningsv�gen 27a","startPrice":4995000,"hood":"Sp�nga - Solhem","lat":59.3824154,"squareMeters":153}
+{"lon":17.9001529,"address":"Gryt 44","startPrice":2999000,"hood":"�smo -Gryt","lat":58.9831364,"squareMeters":185}
+{"lon":17.8530721,"address":"Grytstigen 48","startPrice":1850000,"hood":"Tumba","lat":59.1918186,"squareMeters":92}
+{"lon":18.6211264,"address":"Grytstigen 82","startPrice":1875000,"hood":"TUMBA - STORVRETEN","lat":59.9565454,"squareMeters":92}
+{"lon":18.2359304,"address":"Grytv�gen 21","startPrice":5875000,"hood":"Ekn�s","lat":59.3087577,"squareMeters":171}
+{"lon":18.0644881,"address":"Gr�nsridarv�gen 11","startPrice":1895000,"hood":"Svinninge \/ Svartgarn","lat":59.3327881,"squareMeters":72}
+{"lon":17.7842242,"address":"Gr�nsv�gen 20","startPrice":2675000,"hood":"Viksj�","lat":59.4164029,"squareMeters":125}
+{"lon":17.8018095,"address":"Gr�s�kersv�gen 11D","startPrice":2750000,"hood":"Eker� - Gr�s�ker","lat":59.2754364,"squareMeters":116}
+{"lon":17.8036674,"address":"Gr�s�kersv�gen 25f","startPrice":2275000,"hood":"Eker� Gr�s�ker","lat":59.2760643,"squareMeters":116}
+{"lon":18.0644881,"address":"Gr�vlingsstigen 24","startPrice":2495000,"hood":"V�rmd�vik","lat":59.3327881,"squareMeters":65}
+{"lon":17.9645136,"address":"Gr�vlingsv�gen 47","startPrice":9250000,"hood":"BROMMA - STORA MOSSEN","lat":59.3336144,"squareMeters":188}
+{"lon":18.0132204,"address":"Gr�ndalsv�gen 25","startPrice":1800000,"hood":"Gr�ndal","lat":59.3160197,"squareMeters":55}
+{"lon":18.3292942,"address":"Gr�nsiskev�gen 10","startPrice":3375000,"hood":"Brevik","lat":59.2380931,"squareMeters":75}
+{"lon":17.9267231,"address":"Gr�nviksv�gen 120","startPrice":8950000,"hood":"Bromma - Nockeby","lat":59.3241142,"squareMeters":198}
+{"lon":18.0967038,"address":"Gubb�ngsv�gen  16","startPrice":3300000,"hood":"Enskede Gubb�ngen","lat":59.2643219,"squareMeters":96}
+{"lon":17.7991397,"address":"Gudby 13","startPrice":2300000,"hood":"Sorunda","lat":59.0162652,"squareMeters":109}
+{"lon":17.999995,"address":"Gudbyv�gen 32","startPrice":2795000,"hood":"Fresta Glesbygd","lat":59.5128852,"squareMeters":100}
+{"lon":17.9578075,"address":"Guldvingev�gen 35","startPrice":2495000,"hood":"Fresta","lat":59.5162656,"squareMeters":112}
+{"lon":18.0644881,"address":"Gullrands V�g 17","startPrice":1690000,"hood":"Eriksbergs�sen","lat":59.3327881,"squareMeters":95}
+{"lon":17.8026671,"address":"Gullrands V�g 71","startPrice":1450000,"hood":" ","lat":59.2427313,"squareMeters":82}
+{"lon":17.8394442,"address":"Gullrands V�g 89, frik�pt tomt","startPrice":1795000,"hood":"Eriksberg","lat":58.8918985,"squareMeters":109}
+{"lon":17.9502091,"address":"Gullrisv�gen 22","startPrice":3290000,"hood":"Bollstan�s","lat":59.4974901,"squareMeters":139}
+{"lon":18.0644881,"address":"Gullunge 5633","startPrice":2750000,"hood":"Rilanda - Gullunge","lat":59.3327881,"squareMeters":203}
+{"lon":17.8280925,"address":"Gullvivev�gen 2","startPrice":1500000,"hood":"Sunnerby","lat":59.0224413,"squareMeters":97}
+{"lon":17.9472413,"address":"Gulmesv�gen 8","startPrice":2975000,"hood":"Segeltorp","lat":59.2687522,"squareMeters":110}
+{"lon":18.0644881,"address":"Gulsparvsv�gen 40","startPrice":3095000,"hood":"Nyby","lat":59.3327881,"squareMeters":125}
+{"lon":17.973376,"address":"Gulvedsbacken 4A &amp; 4B","startPrice":4295000,"hood":"Huddinge \/ Vistaberg","lat":59.2382,"squareMeters":155}
+{"lon":17.7167593,"address":"Gunnebov�gen 4","startPrice":3350000,"hood":"R�nninge","lat":59.1976118,"squareMeters":149}
+{"lon":18.0644881,"address":"Gustafsv�gen 2","startPrice":1500000,"hood":"HALLSTAVIK\/ Centralt","lat":59.3327881,"squareMeters":170}
+{"lon":17.7260012,"address":"Gustavslundsv�gen 4","startPrice":7500000,"hood":"R�nninge","lat":59.1938854,"squareMeters":186}
+{"lon":17.718661,"address":"Gustavslundsv�gen Hustyp: Freja","startPrice":4100000,"hood":"Gustavslund","lat":59.0933748,"squareMeters":156}
+{"lon":17.718661,"address":"Gustavslundsv�gen Hustyp: Oden","startPrice":4200000,"hood":"Gustavslund","lat":59.0933748,"squareMeters":159}
+{"lon":17.718661,"address":"Gustavslundsv�gen Hustyp: Tyr","startPrice":3595000,"hood":"Gustavslund","lat":59.0933748,"squareMeters":131}
+{"lon":18.521068,"address":"G�ngl�ten 2","startPrice":3750000,"hood":"Ljuster� - Linan�s","lat":59.4749059,"squareMeters":147}
+{"lon":17.7564298,"address":"G�ngl�tsv�gen 36","startPrice":1795000,"hood":"Brunna - Kungs�ngen","lat":59.5077948,"squareMeters":115}
+{"lon":17.8943719,"address":"G�rdsv�gen 10e","startPrice":3995000,"hood":"Tullinge","lat":59.2104925,"squareMeters":150}
+{"lon":18.2348645,"address":"G�shaga Brygga 29","startPrice":0,"hood":" ","lat":59.3554469,"squareMeters":207}
+{"lon":18.0644881,"address":"G�shaga Brygga 8","startPrice":10500000,"hood":"G�shaga","lat":59.3327881,"squareMeters":229}
+{"lon":17.8473188,"address":"G�llsta Bygr�nd 6","startPrice":3750000,"hood":"Eker� G�llsta�","lat":59.2835838,"squareMeters":129}
+{"lon":17.8474233,"address":"G�llsta Bygr�nd 8","startPrice":3695000,"hood":"Eker� - G�llsta�","lat":59.2835726,"squareMeters":129}
+{"lon":18.0644881,"address":"G�rdsg�rdsv�gen 3","startPrice":3495000,"hood":"Tynning� Norra","lat":59.3327881,"squareMeters":100}
+{"lon":18.0729413,"address":"G�kv�gen 15","startPrice":4700000,"hood":"V�sterhaninge Krigslida","lat":59.1149083,"squareMeters":180}
+{"lon":17.8519412,"address":"G�kv�gen 1b","startPrice":8750000,"hood":"Saltsj�baden \/ Solsidan","lat":59.2781585,"squareMeters":250}
+{"lon":18.0644881,"address":"G�mmarv�gen 8","startPrice":1350000,"hood":"Gl�msta - G�mmaren","lat":59.3327881,"squareMeters":30}
+{"lon":18.5926535,"address":"G�ringe 2065","startPrice":1550000,"hood":"G�ringe Hallstavik","lat":60.0447919,"squareMeters":113}
+{"lon":18.0644881,"address":"G�rlaslingan 11","startPrice":2195000,"hood":"G�rla","lat":59.3327881,"squareMeters":116}
+{"lon":18.0644881,"address":"G�sta Ekmans V�g 13","startPrice":2750000,"hood":"Eriksvik","lat":59.3327881,"squareMeters":89}
+{"lon":18.0644881,"address":"G�sta Frohms V�g 8(tomt 6)","startPrice":1130000,"hood":"Tullinge Riksten Friluftsstad","lat":59.3327881,"squareMeters":0}
+{"lon":18.1020722,"address":"G�sv�gen 44","startPrice":7750000,"hood":"Sticklinge","lat":59.3831354,"squareMeters":150}
+{"lon":18.0772569,"address":"G�tav�gen 158","startPrice":4975000,"hood":"Gribbylund","lat":59.4638224,"squareMeters":149}
+{"lon":18.0644881,"address":"Hackspettsv�gen 25","startPrice":2990000,"hood":"Gustavsberg - �sbydalen","lat":59.3327881,"squareMeters":120}
+{"lon":18.0644881,"address":"Hackspettsv�gen 5","startPrice":2975000,"hood":"Gustavsberg - �sbydalen","lat":59.3327881,"squareMeters":120}
+{"lon":17.8712576,"address":"Haga 22","startPrice":2495000,"hood":"Gr�dinge","lat":59.1060217,"squareMeters":100}
+{"lon":17.8712576,"address":"Haga 22","startPrice":2195000,"hood":"Gr�dinge","lat":59.1060217,"squareMeters":100}
+{"lon":18.0644881,"address":"Hagagatan 8","startPrice":3450000,"hood":"J�rna, centrum","lat":59.3327881,"squareMeters":134}
+{"lon":17.4221465,"address":"Hagens Backe 4","startPrice":3650000,"hood":"Eker� Lundhagen","lat":59.2856176,"squareMeters":140}
+{"lon":17.9001529,"address":"HAGSG�RDEN,  Vansta H�stby","startPrice":3461500,"hood":"HAGSG�RDEN, Vansta H�stby, �smo","lat":58.9831364,"squareMeters":84}
+{"lon":17.9001529,"address":"HAGSG�RDEN,  Vansta H�stby","startPrice":3761000,"hood":"HAGSG�RDEN, Vansta H�stby, �smo","lat":58.9831364,"squareMeters":132}
+{"lon":18.0644881,"address":"Hallunda G�rdsv�g 22","startPrice":1995000,"hood":"Slagsta","lat":59.3327881,"squareMeters":119}
+{"lon":17.7990096,"address":"Hallundav�gen 133","startPrice":1825000,"hood":"Norsborg - Hallunda","lat":59.2441229,"squareMeters":88}
+{"lon":17.8015313,"address":"Hallundav�gen 95","startPrice":1975000,"hood":"Norsborg","lat":59.244194,"squareMeters":106}
+{"lon":17.9998814,"address":"Hammarbacken 10","startPrice":17800000,"hood":"Danderyd","lat":59.4143415,"squareMeters":303}
+{"lon":18.0644881,"address":"Hammarbacken 4","startPrice":3350000,"hood":"Sigtuna - Hammaren","lat":59.3327881,"squareMeters":147}
+{"lon":18.0486762,"address":"Hammarbergsv�gen 1","startPrice":3990000,"hood":"Tungelsta","lat":59.1081305,"squareMeters":133}
+{"lon":18.0378776,"address":"Hammardalsslingan 51","startPrice":895000,"hood":" ","lat":59.2278439,"squareMeters":38}
+{"lon":18.0644881,"address":"Hamnv�gen 5","startPrice":7100000,"hood":"G�shaga","lat":59.3327881,"squareMeters":150}
+{"lon":18.0644881,"address":"Hansbergsv�gen 2","startPrice":3670000,"hood":"S�dra Bj�rkhaga","lat":59.3327881,"squareMeters":1406}
+{"lon":18.580963,"address":"Hansj�torp Enlund 40","startPrice":1300000,"hood":"Edsbro Ununge","lat":59.928045,"squareMeters":85}
+{"lon":18.0644881,"address":"Hanstan�sv�gen 37","startPrice":8900000,"hood":"Saltar� sj�tomt","lat":59.3327881,"squareMeters":191}
+{"lon":18.0644881,"address":"Hanstan�sv�gen 37","startPrice":8900000,"hood":"Saltar� sj�tomt","lat":59.3327881,"squareMeters":191}
+{"lon":17.6359745,"address":"Harholmen","startPrice":9000000,"hood":"F�rings� Kungsberga","lat":59.4047664,"squareMeters":160}
+{"lon":17.6359745,"address":"Harholmen","startPrice":9000000,"hood":"F�rings� Kungsberga","lat":59.4047664,"squareMeters":160}
+{"lon":18.330795,"address":"Harneskv�gen 15","startPrice":3850000,"hood":"Margretelund","lat":59.4708956,"squareMeters":190}
+{"lon":18.0644881,"address":"Harry Martinsons Stig 32","startPrice":7250000,"hood":"Silverdal","lat":59.3327881,"squareMeters":150}
+{"lon":18.0644881,"address":"Hasselbacken 130","startPrice":3795000,"hood":"Hova","lat":59.3327881,"squareMeters":155}
+{"lon":18.0644881,"address":"Hasselbacken 732","startPrice":4200000,"hood":"M�rsta-Odensala\/h�stst�lle","lat":59.3327881,"squareMeters":135}
+{"lon":18.0644881,"address":"Hasseluddsv�gen 12","startPrice":4700000,"hood":"Uthamra Strand","lat":59.3327881,"squareMeters":151}
+{"lon":18.0644881,"address":"Hasseluddsv�gen 28","startPrice":5400000,"hood":"Uthamra Strand","lat":59.3327881,"squareMeters":155}
+{"lon":18.0644881,"address":"Hasseluddsv�gen 32","startPrice":5500000,"hood":"Uthamra Strand","lat":59.3327881,"squareMeters":155}
+{"lon":18.3046908,"address":"Hasselv�gen 16","startPrice":4875000,"hood":"Kull�n","lat":59.4107493,"squareMeters":131}
+{"lon":17.8419806,"address":"Hasselv�gen 24","startPrice":2750000,"hood":"M�rsta - S�tuna","lat":59.6311549,"squareMeters":134}
+{"lon":18.0644881,"address":"Hasselv�gen 9","startPrice":2795000,"hood":"Gustavsvik","lat":59.3327881,"squareMeters":48}
+{"lon":18.0644881,"address":"Hasselv�gen 9","startPrice":2795000,"hood":"Gustavsvik","lat":59.3327881,"squareMeters":48}
+{"lon":17.4469015,"address":"Havrev�gen 16","startPrice":2600000,"hood":"Nykvarn","lat":59.1709229,"squareMeters":115}
+{"lon":18.6752307,"address":"Havsj�v�gen, Sveden","startPrice":18000000,"hood":"Vettershaga","lat":59.6082086,"squareMeters":250}
+{"lon":18.0578686,"address":"Havs�rnsv�gen 33b","startPrice":3475000,"hood":"Farsta - Fagersj�","lat":59.2471447,"squareMeters":119}
+{"lon":18.5200509,"address":"Havs�rnsv�gen 45","startPrice":2995000,"hood":"Ingar� - Tranar�","lat":59.2802497,"squareMeters":59}
+{"lon":18.0644881,"address":"Hedenstr�ms V�g 12","startPrice":4975000,"hood":"Tollare","lat":59.3327881,"squareMeters":187}
+{"lon":18.0644881,"address":"Hedvigsbergsv�gen 14","startPrice":5795000,"hood":"Brunn - Fiskmyran","lat":59.3327881,"squareMeters":90}
+{"lon":18.0329388,"address":"Helgestav�gen 98","startPrice":2995000,"hood":"�rby","lat":59.2724713,"squareMeters":127}
+{"lon":18.0644881,"address":"Helg�by 872","startPrice":2400000,"hood":"M�rsta - Skepptuna","lat":59.3327881,"squareMeters":155}
+{"lon":18.1196818,"address":"Helikoptergatan 22","startPrice":2495000,"hood":"Skarpn�ck","lat":59.2666742,"squareMeters":1165}
+{"lon":18.6880071,"address":"Helleby Bod 1","startPrice":2475000,"hood":"H�l�","lat":59.2731197,"squareMeters":109}
+{"lon":17.8280209,"address":"Hemfosav�gen 159","startPrice":1495000,"hood":"Nyn�shamn\/Norra Sorunda","lat":59.0192721,"squareMeters":140}
+{"lon":17.9723369,"address":"Hemfosav�gen 159","startPrice":1495000,"hood":"Hemfosa\/Haninge","lat":59.0575848,"squareMeters":140}
+{"lon":18.3722982,"address":"Hemviksv�gen 25","startPrice":9750000,"hood":"Tv� sj�l�gen - Tynning�","lat":59.3821524,"squareMeters":223}
+{"lon":18.0644881,"address":"Hensvik 8922 B","startPrice":1650000,"hood":"Herr�ng, Hensvik","lat":59.3327881,"squareMeters":102}
+{"lon":18.7051332,"address":"Herkulesgatan 10","startPrice":3400000,"hood":"Mosebacke","lat":59.7618011,"squareMeters":115}
+{"lon":17.5946218,"address":"Hermodv�gen 18","startPrice":5995000,"hood":"Djursholm - Ekeby","lat":59.3658588,"squareMeters":156}
+{"lon":17.8463644,"address":"Herredagsv�gen 10A","startPrice":9500000,"hood":"Eker� G�llsta�","lat":59.278465,"squareMeters":232}
+{"lon":18.2091845,"address":"Herrg�rdsbacken 3","startPrice":11500000,"hood":"Saltsj�-Duvn�s","lat":59.3031002,"squareMeters":287}
+{"lon":18.0644881,"address":"Herrg�rdsv�gen 55","startPrice":2490000,"hood":"Centralt","lat":59.3327881,"squareMeters":106}
+{"lon":17.3332841,"address":"Herrvik 7","startPrice":1795000,"hood":" ","lat":59.1564357,"squareMeters":117}
+{"lon":17.9605867,"address":"Herr�ngsv�gen 103","startPrice":4700000,"hood":"�lvsj� Herr�ngen","lat":59.2796498,"squareMeters":140}
+{"lon":17.7252897,"address":"Herr�ngsv�gen 66","startPrice":2295000,"hood":"R�nninge","lat":59.2003091,"squareMeters":120}
+{"lon":17.6959568,"address":"Hillersj�n�sv�gen 17","startPrice":6350000,"hood":"F�rings�","lat":59.3672437,"squareMeters":160}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2I","startPrice":2595000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2J","startPrice":2440000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2K","startPrice":2395000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2L","startPrice":2530000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2M","startPrice":2570000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2N","startPrice":2375000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2O","startPrice":2495000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2P","startPrice":2540000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2R","startPrice":2295000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.7879256,"address":"Hillersj�v�gen 2S","startPrice":2395000,"hood":"Stora Vika","lat":58.956119,"squareMeters":1246}
+{"lon":17.8927111,"address":"Hirdv�gen 11","startPrice":3795000,"hood":"Bromma Norra �ngby","lat":59.3501491,"squareMeters":68}
+{"lon":17.8384969,"address":"Hj�lmv�gen 13","startPrice":4500000,"hood":"Sk�lby","lat":59.3947032,"squareMeters":120}
+{"lon":17.8850637,"address":"Holbergsgatan 185","startPrice":3395000,"hood":"Blackeberg","lat":59.341965,"squareMeters":101}
+{"lon":18.0644881,"address":"Hollywoodv�gen 89","startPrice":2595000,"hood":"Gillbo","lat":59.3327881,"squareMeters":113}
+{"lon":18.0644881,"address":"Hortensiav�gen 33","startPrice":3180000,"hood":"Vistabergs Tr�dg�rdsstad","lat":59.3327881,"squareMeters":118}
+{"lon":17.9241957,"address":"Hortensiav�gen 50, hus 329","startPrice":3490000,"hood":"Vistaberg\/Gl�msta","lat":59.2499389,"squareMeters":120}
+{"lon":17.9433185,"address":"Hortonomv�gen 9","startPrice":4495000,"hood":"Vistaberg","lat":59.2358661,"squareMeters":160}
+{"lon":17.8415282,"address":"Hovv�gen 34","startPrice":2550000,"hood":"Jakobsberg","lat":59.4354808,"squareMeters":102}
+{"lon":18.0644881,"address":"Huginv�gen 30","startPrice":2775000,"hood":"Sjukyrkoberget","lat":59.3327881,"squareMeters":143}
+{"lon":18.0644881,"address":"Huginv�gen 8","startPrice":2490000,"hood":"Odenslunda\/Sjukyrkoberget","lat":59.3327881,"squareMeters":149}
+{"lon":18.0644881,"address":"Humlav�gen 7","startPrice":1775000,"hood":"Gud�","lat":59.3327881,"squareMeters":84}
+{"lon":17.9496619,"address":"Humlebacken 38","startPrice":3950000,"hood":"Vistaberg","lat":59.2353697,"squareMeters":148}
+{"lon":17.9439854,"address":"Humlev�gen 14","startPrice":3500000,"hood":"Bollstan�s","lat":59.49274,"squareMeters":146}
+{"lon":18.1060285,"address":"Humlev�gen 47","startPrice":2975000,"hood":"Lindholmen","lat":59.58461,"squareMeters":120}
+{"lon":17.7951028,"address":"Hummelvretsv�gen 12","startPrice":2995000,"hood":"Eker� Tr�kvista","lat":59.2734864,"squareMeters":111}
+{"lon":17.925209,"address":"Husby","startPrice":3700000,"hood":" ","lat":59.410285,"squareMeters":322}
+{"lon":18.15,"address":"Husby Backe 21","startPrice":3275000,"hood":"Husby Hagbyh�jden","lat":59.5,"squareMeters":135}
+{"lon":18.15,"address":"Husby Backe 77","startPrice":3495000,"hood":"Hagbyh�jden","lat":59.5,"squareMeters":153}
+{"lon":17.950523,"address":"Hyacintgr�nd 11","startPrice":3500000,"hood":"Bollstan�s","lat":59.5017591,"squareMeters":125}
+{"lon":18.0644881,"address":"Hyvelv�gen 12","startPrice":3475000,"hood":"Telefonplan - H�kmossen","lat":59.3327881,"squareMeters":76}
+{"lon":18.0644881,"address":"H�lluddsstigen 12","startPrice":6950000,"hood":"H�lludden","lat":59.3327881,"squareMeters":160}
+{"lon":18.0644881,"address":"H�lluddsstigen 39","startPrice":6650000,"hood":"H�lludden","lat":59.3327881,"squareMeters":160}
+{"lon":17.9345272,"address":"H�tunagr�nd 4","startPrice":2675000,"hood":"Brunnby Vik","lat":59.5262608,"squareMeters":123}
+{"lon":18.0644881,"address":"H�ven 11","startPrice":4350000,"hood":"Sigtuna - Tilsj�","lat":59.3327881,"squareMeters":144}
+{"lon":18.0644881,"address":"H�gerstens All� 34","startPrice":4995000,"hood":"H�gerstenshamnen\/Axelsberg","lat":59.3327881,"squareMeters":175}
+{"lon":18.0644881,"address":"H�gerstensbrinken 62","startPrice":5750000,"hood":"H�gersten \/ Axelsberg","lat":59.3327881,"squareMeters":170}
+{"lon":18.4166138,"address":"H�gerstigen 16","startPrice":4900000,"hood":"Rams�","lat":59.3842808,"squareMeters":78}
+{"lon":18.0011087,"address":"H�gerv�gen 13b","startPrice":6250000,"hood":"Sj�berg","lat":59.4281479,"squareMeters":174}
+{"lon":18.0644881,"address":"H�ggkullev�gen 23","startPrice":2125000,"hood":"S�ra","lat":59.3327881,"squareMeters":116}
+{"lon":17.3931052,"address":"H�llbyv�gen 15","startPrice":2700000,"hood":"Nyg�rds Backar Taxinge","lat":59.2306052,"squareMeters":1135}
+{"lon":18.0644881,"address":"H�llbyv�gen 16","startPrice":2195000,"hood":"Nyg�rds Backar","lat":59.3327881,"squareMeters":106}
+{"lon":18.0644881,"address":"H�radsv�gen 97","startPrice":1995000,"hood":"Barkarby","lat":59.3327881,"squareMeters":104}
+{"lon":17.8240387,"address":"H�sselby Strandv�g 11","startPrice":4985000,"hood":"H�sselby Villastad","lat":59.3660422,"squareMeters":183}
+{"lon":18.0644881,"address":"H�sselby Strandv�g 27","startPrice":3895000,"hood":"H�sselby s�dra villastad","lat":59.3327881,"squareMeters":132}
+{"lon":18.188054,"address":"H�stskov�gen 10","startPrice":2690000,"hood":"Vendels� G�rd","lat":59.2061417,"squareMeters":90}
+{"lon":18.715879,"address":"H�ver� Norrby","startPrice":7500000,"hood":" ","lat":60.065969,"squareMeters":0}
+{"lon":17.7888211,"address":"H�gbyv�gen 57","startPrice":2495000,"hood":"Viksj�","lat":59.415675,"squareMeters":133}
+{"lon":18.5119877,"address":"H�gholmsv�gen 20a","startPrice":1450000,"hood":"Ingar�","lat":59.2212639,"squareMeters":0}
+{"lon":17.9402787,"address":"H�glandstorget 11","startPrice":0,"hood":"Bromma","lat":59.3236981,"squareMeters":330}
+{"lon":17.5959868,"address":"H�gloftsv�gen 2c","startPrice":2390000,"hood":" ","lat":59.1839362,"squareMeters":120}
+{"lon":18.0644881,"address":"H�gloftsv�gen 33","startPrice":2250000,"hood":"H�gloft","lat":59.3327881,"squareMeters":110}
+{"lon":18.0644881,"address":"H�gmalmsv�gen 53","startPrice":3695000,"hood":"Djur� - Lillebo","lat":59.3327881,"squareMeters":147}
+{"lon":18.0644881,"address":"H�gstigen 3 A","startPrice":7450000,"hood":"Lah�ll","lat":59.3327881,"squareMeters":318}
+{"lon":18.2047111,"address":"H�guddsv�gen 15","startPrice":6750000,"hood":"H�gberga\/Brevik","lat":59.3466157,"squareMeters":166}
+{"lon":18.0644881,"address":"H�gvretsv�gen 26","startPrice":4217000,"hood":"S�derby Park","lat":59.3327881,"squareMeters":156}
+{"lon":18.0644881,"address":"H�gvretsv�gen 40","startPrice":3995000,"hood":"S�derby Park","lat":59.3327881,"squareMeters":1366}
+{"lon":18.0644881,"address":"H�gv�gen 10","startPrice":2300000,"hood":"Ingar� - Hanskroka","lat":59.3327881,"squareMeters":63}
+{"lon":18.6374729,"address":"H�g�sv�gen 13","startPrice":2990000,"hood":"�lvsala","lat":59.3102321,"squareMeters":140}
+{"lon":18.1358815,"address":"H�jdv�gen 21","startPrice":4695000,"hood":"L�nna","lat":59.2033791,"squareMeters":226}
+{"lon":18.0644881,"address":"H�jdv�gen 5B","startPrice":4100000,"hood":"Persudde","lat":59.3327881,"squareMeters":176}
+{"lon":17.9593532,"address":"H�karv�gen 26","startPrice":4250000,"hood":"M�larh�jden-H�gersten","lat":59.3002303,"squareMeters":65}
+{"lon":17.6072923,"address":"H�kstigen 2","startPrice":2495000,"hood":"Viksberg","lat":59.2374544,"squareMeters":63}
+{"lon":18.6907191,"address":"H�l Byv�g 15, Sj�tomt","startPrice":8000000,"hood":"Stavsn�s","lat":59.2902657,"squareMeters":150}
+{"lon":18.6851384,"address":"H�l�v�gen 16","startPrice":5000000,"hood":"Stavsn�s","lat":59.2818366,"squareMeters":146}
+{"lon":18.0644881,"address":"H�l�v�gen 95","startPrice":3900000,"hood":"Stavsn�s H�l� sj�n�ra","lat":59.3327881,"squareMeters":118}
+{"lon":18.0644881,"address":"H�l�v�gen 95","startPrice":3900000,"hood":"Stavsn�s H�l� sj�n�ra","lat":59.3327881,"squareMeters":118}
+{"lon":17.925209,"address":"H�nsg�rde 205","startPrice":6900000,"hood":"Husby","lat":59.410285,"squareMeters":184}
+{"lon":18.0644881,"address":"Idrottsv�gen 34a","startPrice":4950000,"hood":"Norrviken","lat":59.3327881,"squareMeters":158}
+{"lon":18.1701011,"address":"Idrottsv�gen 82","startPrice":2495000,"hood":"�rsta Havsbad","lat":59.0844839,"squareMeters":49}
+{"lon":18.1701011,"address":"Idrottsv�gen 82","startPrice":2495000,"hood":"�rsta Havsbad","lat":59.0844839,"squareMeters":49}
+{"lon":18.3895236,"address":"Ids�ttratorpsv�gen 15","startPrice":3850000,"hood":"Sk�rg�rdsstad","lat":59.4913802,"squareMeters":180}
+{"lon":18.0863553,"address":"Idungr�nd 14","startPrice":5975000,"hood":"T�by Kyrkby","lat":59.498408,"squareMeters":1678}
+{"lon":17.9576794,"address":"Igelkottsv�gen 80","startPrice":7500000,"hood":"Bromma-Stora Mossen","lat":59.3349054,"squareMeters":166}
+{"lon":18.0644881,"address":"Ikano Bostad - V�xthusv�gen hus 11","startPrice":2750000,"hood":"H�sselby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.0644881,"address":"Ikano Bostad - V�xthusv�gen hus 15","startPrice":2950000,"hood":"H�sselby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.0644881,"address":"Ikano Bostad - V�xthusv�gen hus 21","startPrice":2695000,"hood":"H�sselby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.0644881,"address":"Ikano Bostad - V�xthusv�gen hus 6","startPrice":2795000,"hood":"H�sselby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.0644881,"address":"Ikano Bostad - V�xthusv�gen hus 9","startPrice":2825000,"hood":"H�sselby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.1939374,"address":"Illerv�gen 12","startPrice":6900000,"hood":"Saltsj�-Duvn�s","lat":59.3048047,"squareMeters":155}
+{"lon":18.6030247,"address":"Il�nda G�rds V�g 8","startPrice":2750000,"hood":"F�rings� Boda","lat":59.3640193,"squareMeters":120}
+{"lon":17.8324526,"address":"Jakob Borgm�stares V�g 44","startPrice":2995000,"hood":"Rosenlund","lat":58.8802663,"squareMeters":91}
+{"lon":17.7863031,"address":"Jakobsbergsv�gen 20","startPrice":1895000,"hood":"Gr�dinge Kagghamra","lat":59.1234833,"squareMeters":69}
+{"lon":18.0142882,"address":"Jaktv�gen 107","startPrice":2795000,"hood":"Skarp�ng","lat":59.4409266,"squareMeters":143}
+{"lon":18.0644881,"address":"Jaktv�gen 29","startPrice":3790000,"hood":"Tumba \/ Skr�cklinge","lat":59.3327881,"squareMeters":108}
+{"lon":17.9410795,"address":"Jaktv�gen 7","startPrice":875000,"hood":"Bollstan�s","lat":59.4910313,"squareMeters":97}
+{"lon":18.376394,"address":"Jan Israelssons V�g 11","startPrice":2975000,"hood":"Sk�rg�rdsstad","lat":59.4932785,"squareMeters":156}
+{"lon":18.4130176,"address":"Jan Israelssons V�g 5","startPrice":3495000,"hood":"V�stra Sk�rg�rdsstad","lat":59.4849882,"squareMeters":122}
+{"lon":18.0644881,"address":"Jenny Lidmans Stig 30","startPrice":7950000,"hood":"Lina Hage","lat":59.3327881,"squareMeters":330}
+{"lon":17.9757996,"address":"Jennylundsv�gen 15","startPrice":2495000,"hood":"HEMFOSA","lat":59.0675019,"squareMeters":136}
+{"lon":18.6256822,"address":"Johannisberg 2007","startPrice":2100000,"hood":"Bergshamra","lat":59.6396249,"squareMeters":126}
+{"lon":18.0644881,"address":"Jumstabergsv�gen 18","startPrice":2995000,"hood":"Jumstaberg","lat":59.3327881,"squareMeters":168}
+{"lon":17.7690897,"address":"Junkerv�gen 11a","startPrice":5595000,"hood":"Ensta","lat":59.1734359,"squareMeters":220}
+{"lon":18.0644881,"address":"Junkerv�gen 36","startPrice":3675000,"hood":"L�nnersta","lat":59.3327881,"squareMeters":99}
+{"lon":17.8141537,"address":"Jupitergatan 5","startPrice":1395000,"hood":"M�rsta - Steninge","lat":59.6155041,"squareMeters":1165}
+{"lon":17.9358993,"address":"Juringe �v�g 4","startPrice":2775000,"hood":"Segeltorp","lat":59.276086,"squareMeters":93}
+{"lon":18.0644881,"address":"J�garstigen 11","startPrice":7200000,"hood":"FALKBERGET\/EDSVIKENS SOLSIDA","lat":59.3327881,"squareMeters":210}
+{"lon":17.9721799,"address":"J�garstigen 11","startPrice":7200000,"hood":"DANDERYD\/SOLLENTUNA-EDSVIKEN","lat":59.435089,"squareMeters":210}
+{"lon":18.0121687,"address":"J�garstigen 1A","startPrice":3675000,"hood":"Huddinge - Stuvsta","lat":59.2520056,"squareMeters":101}
+{"lon":17.8937944,"address":"J�ringegr�nd 16","startPrice":2250000,"hood":"Sp�nga Tensta","lat":59.3944402,"squareMeters":92}
+{"lon":17.8937944,"address":"J�ringegr�nd 20","startPrice":2250000,"hood":"Sp�nga Tensta","lat":59.3944402,"squareMeters":92}
+{"lon":17.8937436,"address":"J�ringegr�nd 82","startPrice":2650000,"hood":"Sp�nga Hjulsta","lat":59.3945724,"squareMeters":126}
+{"lon":18.0644881,"address":"J�rla Sj�v�g 18","startPrice":4450000,"hood":"J�rla Sj�","lat":59.3327881,"squareMeters":165}
+{"lon":17.4241678,"address":"J�rnav�gen 12","startPrice":1500000,"hood":"M�lnbo","lat":59.0496681,"squareMeters":70}
+{"lon":17.5792039,"address":"J�rn�ldersringen 653","startPrice":895000,"hood":"Norra S�derby","lat":59.3824335,"squareMeters":64}
+{"lon":17.5792039,"address":"J�rn�ldersringen 867","startPrice":1375000,"hood":"Norra S�derby","lat":59.3824335,"squareMeters":111}
+{"lon":17.9445458,"address":"J�rpstigen 14","startPrice":11900000,"hood":"BROMMA - �LSTEN","lat":59.3220247,"squareMeters":389}
+{"lon":18.0644881,"address":"Kallk�rrsv�gen 69","startPrice":4195000,"hood":"Sn�ttringe","lat":59.3327881,"squareMeters":200}
+{"lon":18.8540941,"address":"Kallvik 59","startPrice":2950000,"hood":"Svartn�","lat":59.6684372,"squareMeters":96}
+{"lon":18.0644881,"address":"Kanonbacken 9","startPrice":0,"hood":"Viggbyholm Sj�sidan","lat":59.3327881,"squareMeters":130}
+{"lon":18.3297807,"address":"Kantarellv�gen 54","startPrice":2075000,"hood":"Sk�nsta","lat":59.4948563,"squareMeters":120}
+{"lon":17.7876829,"address":"Kapellv�gen 14","startPrice":4375000,"hood":"Eker� Tr�kvista","lat":59.2756441,"squareMeters":168}
+{"lon":18.3662867,"address":"Karby 5003","startPrice":1500000,"hood":"Rimbo","lat":59.7443982,"squareMeters":87}
+{"lon":18.0644881,"address":"Karin Boyes V�g 3","startPrice":2250000,"hood":"LINA HAGE","lat":59.3327881,"squareMeters":160}
+{"lon":17.8027252,"address":"Karlavagnen 44","startPrice":3050000,"hood":"M�rsta - �stra Steninge","lat":59.6020259,"squareMeters":132}
+{"lon":18.0690584,"address":"Karlav�gen 26","startPrice":4682000,"hood":" ","lat":59.3422117,"squareMeters":0}
+{"lon":17.8195872,"address":"Karlsborgsv�gen 143","startPrice":1670000,"hood":"M�rsta - Sundveda","lat":59.6285154,"squareMeters":109}
+{"lon":18.0644881,"address":"Karlsborgsv�gen 161","startPrice":1750000,"hood":"Sundveda","lat":59.3327881,"squareMeters":109}
+{"lon":17.7155857,"address":"Karlskronaviksv�gen 57","startPrice":1300000,"hood":"R�NNINGE","lat":59.1855817,"squareMeters":32}
+{"lon":17.7148328,"address":"Karlskronaviksv�gen 59","startPrice":2500000,"hood":"R�NNINGE","lat":59.1856516,"squareMeters":159}
+{"lon":18.0644881,"address":"Karlslundsv�gen 24","startPrice":2895000,"hood":"NORRVIKEN","lat":59.3327881,"squareMeters":114}
+{"lon":19.0707483,"address":"Karlsrov�gen 29","startPrice":3750000,"hood":"R�vsn�s","lat":59.7512388,"squareMeters":137}
+{"lon":18.3134184,"address":"Karlsuddsv�gen","startPrice":16000000,"hood":"Karlsudd","lat":59.3853661,"squareMeters":210}
+{"lon":18.322116,"address":"Karlsuddsv�gen 61a","startPrice":9950000,"hood":"Karlsudd","lat":59.3858556,"squareMeters":192}
+{"lon":18.3124436,"address":"Karlsuddsv�gen 63A och B","startPrice":14800000,"hood":"Karlsudd","lat":59.3854247,"squareMeters":0}
+{"lon":18.3228901,"address":"Karlsuddsv�gen 63B","startPrice":9900000,"hood":"Karlsudd","lat":59.3858451,"squareMeters":181}
+{"lon":18.6044328,"address":"Karolinav�gen 5","startPrice":995000,"hood":"Hallstavik","lat":60.0427551,"squareMeters":145}
+{"lon":18.0058986,"address":"Kassmans v�g 5","startPrice":5990000,"hood":"Danderyd","lat":59.4066152,"squareMeters":145}
+{"lon":18.0644881,"address":"Kassmyrav�gen 26","startPrice":2495000,"hood":"Tumba - Kassmyra","lat":59.3327881,"squareMeters":135}
+{"lon":18.3085073,"address":"Kastanjebacken 7","startPrice":3750000,"hood":"Kull�n","lat":59.4129419,"squareMeters":125}
+{"lon":17.5966838,"address":"Kastanjestigen 10","startPrice":1495000,"hood":"Viksberg","lat":59.2464493,"squareMeters":52}
+{"lon":18.0644881,"address":"Kastanjev�gen 2","startPrice":2910000,"hood":"Steningeh�jden","lat":59.3327881,"squareMeters":117}
+{"lon":17.8992506,"address":"Kastanjev�gen 33","startPrice":5500000,"hood":"Tullinge Villastad","lat":59.2227094,"squareMeters":2375}
+{"lon":18.2403512,"address":"Kastanjev�gen 4 - Visning inst�lld!","startPrice":2750000,"hood":"Brottby","lat":59.5630959,"squareMeters":219}
+{"lon":17.7979635,"address":"Kastargr�nd 31","startPrice":2795000,"hood":"Eker� Hummelvreten","lat":59.2746644,"squareMeters":130}
+{"lon":18.0644881,"address":"Katsen 11","startPrice":4125000,"hood":"Sigtuna - Bj�rkbacka","lat":59.3327881,"squareMeters":144}
+{"lon":18.0644881,"address":"Katsen 15","startPrice":4195000,"hood":"Sigtuna - Bj�rkbacka","lat":59.3327881,"squareMeters":144}
+{"lon":18.0644881,"address":"Katsen 17","startPrice":4225000,"hood":"Sigtuna - Bj�rkbacka","lat":59.3327881,"squareMeters":144}
+{"lon":17.6113687,"address":"Killinge Byv�g 32","startPrice":2850000,"hood":"H�tuna","lat":59.6025527,"squareMeters":187}
+{"lon":18.0644881,"address":"Killingev�gen 24B","startPrice":5950000,"hood":"Killinge","lat":59.3327881,"squareMeters":165}
+{"lon":18.0644881,"address":"Kils Hagv�g 15","startPrice":5785000,"hood":"Kilsviken - Baggensfj�rden","lat":59.3327881,"squareMeters":1808}
+{"lon":18.0644881,"address":"Kimstalund 385","startPrice":1995000,"hood":"Rosersberg-Kimsta","lat":59.3327881,"squareMeters":93}
+{"lon":18.0644881,"address":"Kistav�gen 15","startPrice":3550000,"hood":"Norrviken","lat":59.3327881,"squareMeters":125}
+{"lon":18.0644881,"address":"Kittelv�gen 22","startPrice":3475000,"hood":"K�sta - Nyproduktion","lat":59.3327881,"squareMeters":130}
+{"lon":18.0644881,"address":"Klapperv�gen 20","startPrice":2975000,"hood":"�stra Vallabrink","lat":59.3327881,"squareMeters":171}
+{"lon":18.204683,"address":"Klarb�rsv�gen 28","startPrice":4200000,"hood":" ","lat":59.3542185,"squareMeters":152}
+{"lon":18.0644881,"address":"Klarb�rsv�gen 45","startPrice":4650000,"hood":"Killinge","lat":59.3327881,"squareMeters":135}
+{"lon":17.9289103,"address":"Klasrov�gen 23b","startPrice":5495000,"hood":"H�ggvik","lat":59.4418935,"squareMeters":160}
+{"lon":17.9518519,"address":"Klasrov�gen 59 S�LD","startPrice":5000000,"hood":"Sollentuna H�ggvik","lat":59.428478,"squareMeters":152}
+{"lon":17.7835316,"address":"Klavergr�nd 7","startPrice":2990000,"hood":"Viksj�","lat":59.4006599,"squareMeters":141}
+{"lon":17.9477648,"address":"Klintv�gen 24","startPrice":3400000,"hood":"Segeltorp","lat":59.2798892,"squareMeters":125}
+{"lon":17.7034308,"address":"Klippans V�g 36","startPrice":2450000,"hood":"F�rings� Hillesh�g","lat":59.3899936,"squareMeters":66}
+{"lon":18.7112656,"address":"Klippgatan 2","startPrice":5700000,"hood":"Kvisthamra","lat":59.754723,"squareMeters":220}
+{"lon":18.3738749,"address":"Klippv�gen 3 - ACCEPTPRIS","startPrice":1550000,"hood":"Garns-Ekskogen","lat":59.6127483,"squareMeters":49}
+{"lon":18.0644881,"address":"Klippv�gen 5","startPrice":4375000,"hood":"Vallabrink","lat":59.3327881,"squareMeters":188}
+{"lon":18.271479,"address":"Klippv�gen 9","startPrice":5350000,"hood":"Tyres� Strand","lat":59.2509039,"squareMeters":220}
+{"lon":17.6397641,"address":"Klockarv�gen 3","startPrice":4150000,"hood":"Bro","lat":59.5128747,"squareMeters":194}
+{"lon":17.7490762,"address":"Klodalsv�gen","startPrice":4595000,"hood":"Lennartsn�s Kungs�ngen","lat":59.4787695,"squareMeters":180}
+{"lon":17.6899619,"address":"Klubbstigen 8","startPrice":3695000,"hood":"F�rings� Stenhamra","lat":59.3337253,"squareMeters":156}
+{"lon":18.3516436,"address":"Kl�vbergsv�gen 34","startPrice":2775000,"hood":"Brevik","lat":59.2149471,"squareMeters":91}
+{"lon":17.4402879,"address":"Kl�verv�gen 3","startPrice":2595000,"hood":"NYKVARN �ngsborgsomr�det","lat":59.1702365,"squareMeters":149}
+{"address":"Knutbyv�gen 1","startPrice":2695000,"hood":"F�gels�ngen","squareMeters":96}
+{"lon":18.1985047,"address":"Knut Pernos V�g 8","startPrice":6500000,"hood":"Saltsj�-Duvn�s","lat":59.3013258,"squareMeters":174}
+{"lon":18.2883965,"address":"Knut Wallenbergs V�g 42","startPrice":5950000,"hood":"Saltsj�baden Tattby","lat":59.2813413,"squareMeters":127}
+{"lon":18.0644881,"address":"Kn�ckepilsgr�nd 37","startPrice":3975000,"hood":"H�sselby Norra Villastad","lat":59.3327881,"squareMeters":201}
+{"lon":18.0644881,"address":"Kn�ckepilsgr�nd 62","startPrice":2375000,"hood":"H�sselby Norra Villastad","lat":59.3327881,"squareMeters":120}
+{"lon":17.8251175,"address":"Koggev�gen 10","startPrice":5575000,"hood":"Sigtuna - Munkholmen","lat":59.5261823,"squareMeters":164}
+{"lon":18.6256822,"address":"Kohagsbacken 2449","startPrice":3475000,"hood":"Bergshamra","lat":59.6396249,"squareMeters":105}
+{"lon":18.6026192,"address":"Kolartorpsv�gen 8","startPrice":1275000,"hood":"Skebobruk","lat":59.95792,"squareMeters":100}
+{"lon":18.0644881,"address":"Kolmilev�gen 2","startPrice":2970000,"hood":"Bj�rkhaga","lat":59.3327881,"squareMeters":70}
+{"lon":17.8354884,"address":"KOLONISTIGEN 3, 9 och 11","startPrice":3600000,"hood":"Torp�ngen\/Storvreten - Tumba","lat":59.1988136,"squareMeters":1237}
+{"lon":17.8354884,"address":"Kolonistigen 6","startPrice":1295000,"hood":"Tumba","lat":59.1988136,"squareMeters":0}
+{"lon":18.86635,"address":"Kolsvik 50","startPrice":3365000,"hood":"Yxlan","lat":59.611528,"squareMeters":230}
+{"lon":18.0644881,"address":"Koltrastv�gen 29","startPrice":2950000,"hood":"N�sbypark - Norskogen","lat":59.3327881,"squareMeters":106}
+{"lon":17.9937679,"address":"Koltrastv�gen 52","startPrice":4850000,"hood":"Sj�berg","lat":59.4249938,"squareMeters":164}
+{"lon":18.1614028,"address":"Konsertv�gen 20","startPrice":0,"hood":"Skog�s","lat":59.2269308,"squareMeters":120}
+{"lon":18.2803375,"address":"Konstn�rsv�gen 17","startPrice":3800000,"hood":"Tyres� Strand","lat":59.2439927,"squareMeters":122}
+{"lon":18.0844201,"address":"Konvaljev�gen 5","startPrice":0,"hood":"V�sterhaninge\/J�gartorp","lat":59.1242666,"squareMeters":126}
+{"lon":18.0644881,"address":"Kopernikus V�g 1","startPrice":3475000,"hood":"Tumba Solh�jden","lat":59.3327881,"squareMeters":140}
+{"lon":18.0644881,"address":"Kopernikus V�g 17","startPrice":3395000,"hood":"Tumba Solh�jden","lat":59.3327881,"squareMeters":140}
+{"lon":18.0644881,"address":"Korpralv�gen\/L�jtnantsv�gen Folkhem","startPrice":4375000,"hood":"Barkarby - Barkarbystaden","lat":59.3327881,"squareMeters":114}
+{"lon":18.0644881,"address":"Korpralv�gen\/L�jtnantsv�gen Folkhem","startPrice":4675000,"hood":"Barkarby - Barkarbystaden","lat":59.3327881,"squareMeters":129}
+{"lon":18.0018359,"address":"Korsmyrav�gen 29","startPrice":1795000,"hood":"Tungelsta","lat":59.1088229,"squareMeters":80}
+{"lon":18.2476351,"address":"Korta V�gen 1","startPrice":3975000,"hood":"�ringe","lat":59.2478699,"squareMeters":109}
+{"lon":18.216863,"address":"Kragen�sv�gen 11","startPrice":9950000,"hood":"Brevik","lat":59.3449398,"squareMeters":220}
+{"lon":18.0345249,"address":"Kristinebergsv�gen 17","startPrice":3650000,"hood":"Vallatorp","lat":59.4614879,"squareMeters":121}
+{"lon":18.0598348,"address":"Kristinelundsv�gen 8","startPrice":2500000,"hood":"Svartvik","lat":59.2403573,"squareMeters":63}
+{"lon":18.1321953,"address":"Krogt�ppan 129","startPrice":2150000,"hood":"Norra Jordbro","lat":59.1441852,"squareMeters":190}
+{"lon":18.6431711,"address":"Krokusv�gen 13-15","startPrice":7500000,"hood":"V�rmd� - �lvsala","lat":59.3050985,"squareMeters":265}
+{"lon":17.835981,"address":"Krokv�gen 21","startPrice":1255000,"hood":"Riala, S�ttra","lat":59.5325917,"squareMeters":69}
+{"lon":17.9725336,"address":"Krusv�gen 4","startPrice":3575000,"hood":"Huddinge, Fullersta, Rosendal","lat":59.248201,"squareMeters":128}
+{"lon":17.8373323,"address":"Kryddg�rdsv�gen 103","startPrice":2990000,"hood":"Slagsta \/ Norsborg","lat":59.2439992,"squareMeters":126}
+{"lon":18.0644881,"address":"Kr�kb�rsv�gen 18","startPrice":5500000,"hood":"Tr�ngsund\/Sj��ngen","lat":59.3327881,"squareMeters":164}
+{"lon":18.0644881,"address":"Kullav�gen 26","startPrice":7750000,"hood":"H�gberga","lat":59.3327881,"squareMeters":210}
+{"lon":18.1321953,"address":"Kullerstensv�gen 62","startPrice":1845000,"hood":"S�dra Jordbro","lat":59.1441852,"squareMeters":120}
+{"lon":18.0934496,"address":"Kulst�tarv�gen 64","startPrice":3600000,"hood":"Tallkrogen","lat":59.2673853,"squareMeters":68}
+{"lon":18.2763543,"address":"Kulv�gen 2a","startPrice":5795000,"hood":"Bj�rkn�s\/Saltsj�-Boo","lat":59.3111718,"squareMeters":174}
+{"lon":18.59795,"address":"Kul�rgr�nd 1","startPrice":3895000,"hood":"Viksj� Hummelmora","lat":59.46347,"squareMeters":147}
+{"lon":18.3662867,"address":"Kundby 5184","startPrice":925000,"hood":"Rimbo","lat":59.7443982,"squareMeters":65}
+{"lon":18.0644881,"address":"Kundby 8:8","startPrice":895000,"hood":"Rimbo - Kundby","lat":59.3327881,"squareMeters":46}
+{"lon":17.7377002,"address":"Kung Olofs V�g 19","startPrice":7500000,"hood":"Sigtuna - Munkholmen","lat":59.6105378,"squareMeters":169}
+{"lon":18.3535802,"address":"Kungsbacksv�gen 48","startPrice":5185000,"hood":"Margretelund","lat":59.4628488,"squareMeters":165}
+{"lon":18.3483042,"address":"Kungsgatan 3A","startPrice":3750000,"hood":"Vaxholm","lat":59.4029004,"squareMeters":114}
+{"lon":18.6031961,"address":"Kvarnbacksv�gen 13 SALTAR�","startPrice":2300000,"hood":"SALTAR� V�rmd�","lat":59.3439625,"squareMeters":58}
+{"lon":18.5706604,"address":"Kvarnberget 1","startPrice":1200000,"hood":"Ljuster�","lat":59.4692331,"squareMeters":40}
+{"lon":17.6986248,"address":"Kvarnbergsv�gen 43A - Acceptpris","startPrice":2800000,"hood":"H�rningsn�s","lat":59.0631801,"squareMeters":149}

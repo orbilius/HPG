@@ -1,0 +1,19 @@
+{"address":"Ockrav√§gen 3","startPrice":5200000,"hood":"Bromma - Beckomberga","squareMeters":141}
+{"address":"Feriev√§gen 4","startPrice":5950000,"hood":"Bromma-Nockebyhov","squareMeters":158}
+{"address":"Dr√∂mstigen 30","startPrice":7500000,"hood":"Bromma - Smedsl√§tten","squareMeters":137}
+{"address":"Beckombergav√§gen 65","startPrice":3275000,"hood":"Bromma - Norra √Ñngby","squareMeters":50}
+{"address":"Kyrkoherdev√§gen 53","startPrice":3450000,"hood":"Bromma - Eneby","squareMeters":103}
+{"address":"*Allmogev√§gen  12","startPrice":3975000,"hood":"Sp√\u2022nga - Sundby","squareMeters":139}
+{"address":"Pimpstensv√§gen 21","startPrice":4990000,"hood":"Beckomberga","squareMeters":131}
+{"address":"Plommonv√§gen 22","startPrice":2850000,"hood":"Bromma - Eneby","squareMeters":66}
+{"address":"Brf B√\u2022tsman","startPrice":3890000,"hood":"Bromma - Annedal","squareMeters":113}
+{"address":"Ockrav√§gen 1-17","startPrice":5200000,"hood":"Bromma - Beckomberga","squareMeters":141}
+{"address":"Gr√∂nviksv√§gen 14","startPrice":9975000,"hood":"Bromma - H√∂glandet","squareMeters":229}
+{"address":"J√§rpstigen 14","startPrice":13000000,"hood":"Bromma - √Ölsten","squareMeters":389}
+{"address":"Hugleiksv√§gen 8","startPrice":2995000,"hood":"Bromma Norra √Ñngby","squareMeters":71}
+{"address":"Ottarsv√§gen 3","startPrice":5200000,"hood":"Bromma - Norra √Ñngby","squareMeters":97}
+{"address":"Poppelv√§gen 4","startPrice":9900000,"hood":"Bromma - √Ñppelviken","squareMeters":186}
+{"address":"Peringski√∂ldsv√§gen 56","startPrice":5900000,"hood":"Bromma - Norra √Ñngby","squareMeters":133}
+{"address":"Brunflogatan 12","startPrice":3375000,"hood":"R√\u2022cksta","squareMeters":116}
+{"address":"Gr√∂nviksv√§gen 168","startPrice":6900000,"hood":"Bromma - Nockeby","squareMeters":154}
+{"address":"Gr√∂nviksv√§gen 112","startPrice":10900000,"hood":"Bromma - Nockeby","squareMeters":262}

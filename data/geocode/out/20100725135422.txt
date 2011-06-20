@@ -1,0 +1,10 @@
+{"lon":17.95031,"address":"Flyttblocksvägen 10","startPrice":4795000,"hood":"Bromma - Mariehäll","lat":59.3581301,"squareMeters":151}
+{"lon":17.9340225,"address":"Gamla Bromstensvägen 37","startPrice":3300000,"hood":"Bällsta","lat":59.3639771,"squareMeters":88}
+{"lon":17.8713727,"address":"Edebyvägen 51","startPrice":9500000,"hood":"Ekerö Drottningholm","lat":59.3059201,"squareMeters":180}
+{"lon":17.9203401,"address":"Carl Barks Väg 13K","startPrice":2695000,"hood":"Spånga Bromsten","lat":59.3771816,"squareMeters":121}
+{"lon":17.9177631,"address":"Båtsman Stens väg 51C","startPrice":3175000,"hood":"Spånga - Bromsten","lat":59.3847935,"squareMeters":104}
+{"lon":18.0644881,"address":"Västra Johannelund - Hus 13","startPrice":3350000,"hood":"Vällingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":18.0644881,"address":"Västra Johannelund - Hus 1","startPrice":3315000,"hood":"Vällingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":18.0644881,"address":"Linjemästarvägen 4-Toppklass!","startPrice":5950000,"hood":"Nälsta","lat":59.3327881,"squareMeters":172}
+{"lon":18.0644881,"address":"Västra Johannelund - Hus 6 (Bokad)","startPrice":2750000,"hood":"Vällingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":17.8205013,"address":"Åbroddsvägen 53","startPrice":3850000,"hood":"Hässelby Södra Villastad","lat":59.3771274,"squareMeters":152}

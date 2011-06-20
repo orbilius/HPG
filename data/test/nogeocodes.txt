@@ -1,0 +1,7 @@
+{"kommun":"Botkyrka","hood":"Tullinge Trädgårdsstad","address":"Petunievägen 5 B","rooms":5,"squareMeters":100,"fee":0,"lotarea":260,"startPrice":2395000,"type":"Par/Rad/Kedjehus","information":"Fantastisk trädgård"}
+{"kommun":"Botkyrka","hood":"Tumba Östra Storvreten","address":"Barkvägen 38","rooms":5,"squareMeters":120,"fee":0,"lotarea":403,"startPrice":2295000,"type":"Par/Rad/Kedjehus","information":"Lugnt och familjärt!"}
+{"kommun":"Botkyrka","hood":"Tumba","address":"unknown","rooms":6,"squareMeters":157,"fee":0,"lotarea":771,"startPrice":0,"type":"Friliggande villa","information":"Villa med högt läge!"}
+{"kommun":"Botkyrka","hood":"Tullinge","address":"Pinnvägen 8","rooms":7,"squareMeters":169,"fee":0,"lotarea":1,"startPrice":3950000,"type":"Friliggande villa","information":"Huset med alla rätt!"}
+{"kommun":"Botkyrka","hood":"Tullinge - Brantbrink","address":"Bertheliusvägen 28","rooms":4,"squareMeters":118,"fee":0,"lotarea":1,"startPrice":3250000,"type":"Friliggande villa","information":"Stor plan tomt"}
+{"kommun":"Botkyrka","hood":"Alby","address":"Storskiftesvägen 44","rooms":5,"squareMeters":136,"fee":0,"lotarea":223,"startPrice":1695000,"type":"Par/Rad/Kedjehus","information":"unknown"}
+{"kommun":"Botkyrka","hood":"Norsborg","address":"Tomtbergavägen 257","rooms":5,"squareMeters":136,"fee":0,"lotarea":324,"startPrice":2550000,"type":"Par/Rad/Kedjehus","information":"Friköpt gavelradhus!"}

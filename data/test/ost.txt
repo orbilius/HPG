@@ -1,0 +1,9 @@
+~/Projects/m/HousePriceInfoGrapher/war/WEB-INF/classes ~/Projects/m/HousePriceInfoGrapher/data/test
+~/Projects/m/HousePriceInfoGrapher/data/test
+{"address":"Petunievägen 5 B","startPrice":2395000,"hood":"Tullinge Trädgårdsstad","squareMeters":100}
+{"address":"Barkvägen 38","startPrice":2295000,"hood":"Tumba Östra Storvreten","squareMeters":120}
+{"address":"unknown","startPrice":0,"hood":"Tumba","squareMeters":157}
+{"address":"Pinnvägen 8","startPrice":3950000,"hood":"Tullinge","squareMeters":169}
+{"address":"Bertheliusvägen 28","startPrice":3250000,"hood":"Tullinge - Brantbrink","squareMeters":118}
+{"address":"Storskiftesvägen 44","startPrice":1695000,"hood":"Alby","squareMeters":136}
+{"address":"Tomtbergavägen 257","startPrice":2550000,"hood":"Norsborg","squareMeters":136}

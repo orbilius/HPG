@@ -1,0 +1,10 @@
+{"lon":17.9239827,"address":"Oskarsv�gen 4a","startPrice":5295000,"hood":"Sp�nga - Sundby","lat":59.3718803,"squareMeters":163}
+{"lon":17.9027561,"address":"Agatv�gen 11","startPrice":4150000,"hood":"Bromma Beckomberga","lat":59.3606361,"squareMeters":104}
+{"lon":17.892147,"address":"Cederstr�msv�gen 12","startPrice":3195000,"hood":"Bromma Norra �ngby","lat":59.3472707,"squareMeters":66}
+{"lon":18.0644881,"address":"Bj�rkhagsv�gen 10","startPrice":4900000,"hood":"Duvbo","lat":59.3327881,"squareMeters":140}
+{"lon":18.0644881,"address":"Eriksv�gen 39","startPrice":7575000,"hood":"Duvbo","lat":59.3327881,"squareMeters":169}
+{"lon":17.8991364,"address":"Ehrenstrahlsv�gen 28","startPrice":6900000,"hood":"Bromma - S�dra �ngby","lat":59.3410546,"squareMeters":161}
+{"lon":17.9253542,"address":"Bromma Kyrkv�g 455 B","startPrice":3250000,"hood":"Bromma, Bromma Kyrka","lat":59.3506342,"squareMeters":109}
+{"lon":17.9617803,"address":"F�ltmarskalksv�gen 41","startPrice":5850000,"hood":"BROMMA - ULVSUNDA","lat":59.3384135,"squareMeters":135}
+{"lon":17.9275471,"address":"Dalkarlsgr�nd 6a","startPrice":3275000,"hood":"Bromma Kyrka","lat":59.3553704,"squareMeters":0}
+{"lon":17.9298854,"address":"Brynhildsv�gen 23","startPrice":7300000,"hood":"BROMMA - NOCKEBY","lat":59.3298706,"squareMeters":126}

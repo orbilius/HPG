@@ -1,0 +1,10 @@
+{"fee":0,"lon":17.9275333,"_id":"hemnet_1173795","address":"Kakvägen 51   - SÅLD -","startPrice":0,"hood":"Bromma Bällsta","lat":59.3658028,"url":"\/beskrivning\/1173795?r=2","squareMeters":54}
+{"fee":0,"lon":17.907993,"_id":"hemnet_1157656","address":"Hjortronvägen 9","startPrice":3475000,"hood":"Bromma Eneby","lat":59.3594907,"url":"\/beskrivning\/1157656?r=2","squareMeters":66}
+{"fee":0,"lon":17.9242636,"_id":"hemnet_1078457","address":"Rånövägen 5","startPrice":17000000,"hood":"Nockebyhov","lat":59.3333402,"url":"\/beskrivning\/1078457?r=2","squareMeters":0}
+{"fee":0,"lon":17.9066844,"_id":"hemnet_1184704","address":"Karlebyvägen 3","startPrice":2500000,"hood":"Bromma - Norra Ängby","lat":59.3433029,"url":"\/beskrivning\/1184704?r=2","squareMeters":52}
+{"fee":0,"lon":17.9346748,"_id":"hemnet_1170575","address":"Gamla Bromstensvägen 31","startPrice":3650000,"hood":"Bromma, Bällsta","lat":59.3635732,"url":"\/beskrivning\/1170575?r=2","squareMeters":65}
+{"fee":0,"lon":17.8912777,"_id":"hemnet_1138215","address":"Zornvägen 66 ***","startPrice":12975000,"hood":"Södra Ängby","lat":59.3387278,"url":"\/beskrivning\/1138215?r=2","squareMeters":210}
+{"fee":0,"lon":17.8431118,"_id":"hemnet_1160116","address":"Barkarby 10 \/ Rörbyvägen 47","startPrice":3750000,"hood":"Drottningholm","lat":59.3283447,"url":"\/beskrivning\/1160116?r=2","squareMeters":78}
+{"fee":0,"lon":17.9473834,"_id":"hemnet_1180756","address":"Vildkattsvägen 8","startPrice":10400000,"hood":"Bromma - Ålsten","lat":59.3265659,"url":"\/beskrivning\/1180756?r=2","squareMeters":187}
+{"fee":0,"lon":17.9646182,"_id":"hemnet_1179256","address":"Lövåsvägen 20","startPrice":3990000,"hood":"Bromma Ulvsunda","lat":59.3378944,"url":"\/beskrivning\/1179256?r=2","squareMeters":101}
+{"fee":0,"lon":17.9644489,"_id":"hemnet_1184560","address":"Lokattsvägen 42","startPrice":8250000,"hood":"Bromma Stora Mossen","lat":59.3308202,"url":"\/beskrivning\/1184560?r=2","squareMeters":170}

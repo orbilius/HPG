@@ -1,0 +1,34 @@
+{"lon":18.0644881,"address":"Enebyv√§gen 21","startPrice":3375000,"hood":"Bromma Eneby","lat":59.3327881,"squareMeters":81}
+{"lon":18.0644881,"address":"Dr√∂mstigen 30","startPrice":7500000,"hood":"Bromma - Smedsl√§tten","lat":59.3327881,"squareMeters":137}
+{"lon":18.0644881,"address":"Gamla Bromstensv√§gen 37","startPrice":3300000,"hood":"B√§llsta","lat":59.3327881,"squareMeters":88}
+{"lon":18.0644881,"address":"Flyttblocksv√§gen 10","startPrice":4795000,"hood":"Bromma - Marieh√§ll","lat":59.3327881,"squareMeters":151}
+{"lon":17.8926439,"address":"Brunflogatan 12","startPrice":3375000,"hood":"R√\u2022cksta","lat":59.3596088,"squareMeters":116}
+{"lon":18.0644881,"address":"Edebyv√§gen 51","startPrice":9500000,"hood":"Eker√∂ Drottningholm","lat":59.3327881,"squareMeters":180}
+{"lon":18.0644881,"address":"B√\u2022tsman Stens v√§g 51C","startPrice":3175000,"hood":"Sp√\u2022nga - Bromsten","lat":59.3327881,"squareMeters":104}
+{"lon":18.0644881,"address":"K√§rrgr√§nd 102","startPrice":0,"hood":"V√§llingby - K√§lvesta","lat":59.3327881,"squareMeters":114}
+{"lon":18.0644881,"address":"Aspl√∂vsgr√§nd 56","startPrice":2675000,"hood":"Norra H√§sselby","lat":59.3327881,"squareMeters":131}
+{"lon":18.0644881,"address":"V√§stra Johannelund - Hus 13","startPrice":3350000,"hood":"V√§llingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":18.0644881,"address":"√Öngermannagatan 36","startPrice":2695000,"hood":" ","lat":59.3327881,"squareMeters":80}
+{"lon":18.0644881,"address":"V√§stra Johannelund - Hus 1","startPrice":3315000,"hood":"V√§llingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":18.0644881,"address":"Timr√\u2022gatan 60","startPrice":0,"hood":"V√§llingbyh√∂jden","lat":59.3327881,"squareMeters":133}
+{"lon":18.0644881,"address":"Linjem√§starv√§gen 4-Toppklass!","startPrice":5950000,"hood":"N√§lsta","lat":59.3327881,"squareMeters":172}
+{"lon":18.0644881,"address":"V√§stra Johannelund - Hus 6 (Bokad)","startPrice":2750000,"hood":"V√§llingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":18.0644881,"address":"Starbov√§gen 10","startPrice":1995000,"hood":"V√§llingby \/ N√§lsta","lat":59.3327881,"squareMeters":115}
+{"lon":18.0644881,"address":"V√§xthusv√§gen","startPrice":2825000,"hood":"H√§sselby Norra Villastad","lat":59.3327881,"squareMeters":1145}
+{"lon":18.0644881,"address":"V√§stra Johannelund - Hus 10","startPrice":2895000,"hood":"V√§llingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":18.0644881,"address":"V√§stra Johannelund - Hus 3","startPrice":2895000,"hood":"V√§llingby - Vinsta","lat":59.3327881,"squareMeters":105}
+{"lon":18.0644881,"address":"Pilb√\u2022gsv√§gen 8","startPrice":2995000,"hood":"Sp√\u2022nga - Flysta","lat":59.3327881,"squareMeters":0}
+{"lon":18.0644881,"address":"B√\u2022tsman Stens v√§g 51D","startPrice":3225000,"hood":"Sp√\u2022nga - Bromsten","lat":59.3327881,"squareMeters":104}
+{"lon":18.0644881,"address":"Sj√∂torpsbrinken 6A + 6B","startPrice":3990000,"hood":"H√§sselby S√∂dra Villastad","lat":59.3327881,"squareMeters":116}
+{"lon":18.0644881,"address":"Torpstugegr√§nd 13","startPrice":2790000,"hood":"Sp√\u2022nga Bromsten","lat":59.3327881,"squareMeters":119}
+{"lon":18.0644881,"address":"Loviselundsv√§gen 71","startPrice":2175000,"hood":"H√§sselby G√\u2022rd","lat":59.3327881,"squareMeters":95}
+{"lon":18.0644881,"address":"Enebyv√§gen 21","startPrice":3375000,"hood":"Bromma Eneby","lat":59.3327881,"squareMeters":81}
+{"lon":18.0644881,"address":"J√§ringegr√§nd 82","startPrice":2650000,"hood":"Sp√\u2022nga Hjulsta","lat":59.3327881,"squareMeters":126}
+{"lon":17.8877106,"address":"Drevkroken 33","startPrice":4575000,"hood":"Sp√\u2022nga Solhem","lat":59.3791433,"squareMeters":170}
+{"lon":17.8926439,"address":"Brunflogatan 12","startPrice":3375000,"hood":"R√\u2022cksta","lat":59.3596088,"squareMeters":116}
+{"lon":18.0644881,"address":"Sandviksv√§gen 99","startPrice":3750000,"hood":"H√§sselby Villastad","lat":59.3327881,"squareMeters":175}
+{"lon":18.0644881,"address":"Storvretsv√§gen 71","startPrice":4500000,"hood":"Sp√\u2022nga - N√§lsta","lat":59.3327881,"squareMeters":152}
+{"lon":17.8879845,"address":"Lostigen 6","startPrice":4800000,"hood":"Sp√\u2022nga - Solhem","lat":59.3782515,"squareMeters":212}
+{"lon":18.0644881,"address":"Gamla Bromstensv√§gen 37","startPrice":3300000,"hood":"B√§llsta","lat":59.3327881,"squareMeters":88}
+{"lon":18.0644881,"address":"Flyttblocksv√§gen 10","startPrice":4795000,"hood":"Bromma - Marieh√§ll","lat":59.3327881,"squareMeters":151}
+{"lon":18.0644881,"address":"H√§sselby Strandv√§g 20","startPrice":4900000,"hood":"H√§sselby Villastad","lat":59.3327881,"squareMeters":177}

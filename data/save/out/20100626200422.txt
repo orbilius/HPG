@@ -1,0 +1,67 @@
+{"address":"Norlindsv√§gen 34","startPrice":3895000,"hood":"Bromma, Bromma Kyrka","squareMeters":65}
+{"address":"Edebyv√§gen 51","startPrice":9500000,"hood":"Eker√∂ Drottningholm","squareMeters":180}
+{"address":"Enebyv√§gen 21","startPrice":3375000,"hood":"Bromma Eneby","squareMeters":81}
+{"address":"Dr√∂mstigen 30","startPrice":7500000,"hood":"Bromma - Smedsl√§tten","squareMeters":137}
+{"address":"Hugleiksv√§gen 15","startPrice":4295000,"hood":"Bromma Norra √Ñngby","squareMeters":110}
+{"address":"Flyttblocksv√§gen 10","startPrice":4795000,"hood":"Bromma - Marieh√§ll","squareMeters":151}
+{"address":"Duvkullav√§gen 37","startPrice":7100000,"hood":"Duvbo","squareMeters":178}
+{"address":"Edebyv√§gen 47","startPrice":7500000,"hood":"Drottningholm","squareMeters":229}
+{"address":"Brunflogatan 12, ACCEPTPRIS!","startPrice":3375000,"hood":"R√\u2022cksta","squareMeters":116}
+{"address":"Guttormsv√§gen 4","startPrice":7950000,"hood":"Bromma - Nockeby","squareMeters":193}
+{"address":"Attundav√§gen 44","startPrice":5300000,"hood":"Bromma, Bromma Kyrka","squareMeters":130}
+{"address":"Kr√\u2022kdungen 8","startPrice":3995000,"hood":"Bromma Marieh√§ll","squareMeters":150}
+{"address":"Falkstigen 5","startPrice":3990000,"hood":"Duvbo","squareMeters":141}
+{"address":"Blackebergsv√§gen 52","startPrice":760000,"hood":"Bromma S√∂dra √Ñngby","squareMeters":25}
+{"address":"Lill√§ngsgatan 28","startPrice":5275000,"hood":"Bromma Kyrka","squareMeters":150}
+{"address":"Sandviksv√§gen 99","startPrice":3750000,"hood":"H√§sselby Villastad","squareMeters":175}
+{"address":"Lingonrisgr√§nd 7","startPrice":2995000,"hood":"H√§sselby Norra Villastad","squareMeters":128}
+{"address":"Storvretsv√§gen 124","startPrice":0,"hood":"V√§llingby, N√§lsta","squareMeters":144}
+{"address":"Enebyv√§gen 21","startPrice":3375000,"hood":"Bromma Eneby","squareMeters":81}
+{"address":"Sm√\u2022bj√∂rksv√§gen 49","startPrice":2375000,"hood":"Sp√\u2022nga - Bromsten","squareMeters":89}
+{"address":"Loviselundsv√§gen 71","startPrice":2175000,"hood":"H√§sselby G√\u2022rd","squareMeters":95}
+{"address":"Flyttblocksv√§gen 10","startPrice":4795000,"hood":"Bromma - Marieh√§ll","squareMeters":151}
+{"address":"Tallskogsgr√§nd 17","startPrice":3750000,"hood":"H√§sselby Norra Villastad","squareMeters":155}
+{"address":"Avestagatan 51","startPrice":3875000,"hood":"Sp√\u2022nga, Solhem","squareMeters":135}
+{"address":"Storvretsv√§gen 71","startPrice":4500000,"hood":"Sp√\u2022nga - N√§lsta","squareMeters":152}
+{"address":"B√\u2022tsman Stens v√§g 51A (Bokad)","startPrice":2875000,"hood":"Sp√\u2022nga - Bromsten","squareMeters":104}
+{"address":"Aspl√∂vsgr√§nd 56","startPrice":2675000,"hood":"Norra H√§sselby","squareMeters":131}
+{"address":"Utg√\u2022rdsv√§gen 69","startPrice":2995000,"hood":"Sp√\u2022nga - Solhem","squareMeters":100}
+{"address":"B√\u2022tsman Stens v√§g 51C","startPrice":3175000,"hood":"Sp√\u2022nga - Bromsten","squareMeters":104}
+{"address":"J√§ringegr√§nd 82","startPrice":2650000,"hood":"Sp√\u2022nga Hjulsta","squareMeters":126}
+{"address":"Hugleiksv√§gen 15","startPrice":4295000,"hood":"Bromma Norra √Ñngby","squareMeters":110}
+{"address":"Sj√∂torpsbrinken 12","startPrice":4475000,"hood":"H√§sselby Villastad S√∂dra","squareMeters":234}
+{"address":"V√§stra Johannelund - Hus 13","startPrice":3350000,"hood":"V√§llingby - Vinsta","squareMeters":105}
+{"address":"Vandrarstigen 7","startPrice":4975000,"hood":"Sp√\u2022nga - Sundby","squareMeters":157}
+{"address":"J√§rneksv√§gen 42","startPrice":2395000,"hood":"Sp√\u2022nga N√§lsta","squareMeters":118}
+{"address":"Solhemsbackarna","startPrice":3995000,"hood":"Sp√\u2022nga","squareMeters":1585}
+{"address":"√Öngermannagatan 36","startPrice":2695000,"hood":" ","squareMeters":80}
+{"address":"V√§stra Johannelund - Hus 1","startPrice":3315000,"hood":"V√§llingby - Vinsta","squareMeters":105}
+{"address":"Valborgsstigen 32","startPrice":2675000,"hood":"V√§llingby - N√§lsta","squareMeters":118}
+{"address":"Aprikosgatan 92","startPrice":1395000,"hood":"H√§sselby Strand","squareMeters":121}
+{"address":"Linjem√§starv√§gen 4-Toppklass!","startPrice":5950000,"hood":"N√§lsta","squareMeters":172}
+{"address":"Kr√\u2022kdungen 8","startPrice":3995000,"hood":"Bromma Marieh√§ll","squareMeters":150}
+{"address":"B√\u2022tsman Stens V√§g 68A","startPrice":3300000,"hood":"Sp√\u2022nga - Bromsten","squareMeters":134}
+{"address":"V√§stra Johannelund - Hus 6 (Bokad)","startPrice":2750000,"hood":"V√§llingby - Vinsta","squareMeters":105}
+{"address":"V√§xthusv√§gen","startPrice":2825000,"hood":"H√§sselby Norra Villastad","squareMeters":1145}
+{"address":"Starbov√§gen 10","startPrice":1995000,"hood":"V√§llingby \/ N√§lsta","squareMeters":115}
+{"address":"V√§stra Johannelund - Hus 10","startPrice":2895000,"hood":"V√§llingby - Vinsta","squareMeters":105}
+{"address":"Pilb√\u2022gsv√§gen 8","startPrice":2995000,"hood":"Sp√\u2022nga - Flysta","squareMeters":0}
+{"address":"Sandviksv√§gen 38","startPrice":3475000,"hood":"H√§sselby S√∂dra Villastad","squareMeters":158}
+{"address":"Brunflogatan 12, ACCEPTPRIS!","startPrice":3375000,"hood":"R√\u2022cksta","squareMeters":116}
+{"address":"Vitpilsgr√§nd 19","startPrice":2895000,"hood":"H√§sselby Villastad Norra","squareMeters":120}
+{"address":"√Ñngsullsv√§gen 158","startPrice":2375000,"hood":"V√§llingby, K√§lvesta","squareMeters":131}
+{"address":"Dalk√§rrsleden 101","startPrice":3575000,"hood":"V√§llingby  N√§lsta","squareMeters":125}
+{"address":"√Öbroddsv√§gen 46","startPrice":3700000,"hood":"H√§sselby S√∂dra Villastad","squareMeters":134}
+{"address":"K√§rrgr√§nd 102","startPrice":0,"hood":"V√§llingby - K√§lvesta","squareMeters":114}
+{"address":"V√§stra Johannelund - Hus 3","startPrice":2895000,"hood":"V√§llingby - Vinsta","squareMeters":105}
+{"address":"Berghamnsbrinken 15 A","startPrice":9000000,"hood":"H√§sselby S√∂dra Villastad","squareMeters":183}
+{"address":"Gartnerstigen 5","startPrice":3975000,"hood":"H√§sselby villastad","squareMeters":137}
+{"address":"Valfrid Brodds V√§g 49","startPrice":4295000,"hood":"H√§sselby S√∂dra Villastad","squareMeters":140}
+{"address":"Ribegatan 19","startPrice":2890000,"hood":"Kista","squareMeters":145}
+{"address":"B√\u2022tsman Stens v√§g 51D","startPrice":3225000,"hood":"Sp√\u2022nga - Bromsten","squareMeters":104}
+{"address":"Hjulsta Backar 12 C","startPrice":1495000,"hood":"Tensta","squareMeters":107}
+{"address":"Sj√∂torpsbrinken 6A + 6B","startPrice":3990000,"hood":"H√§sselby S√∂dra Villastad","squareMeters":116}
+{"address":"H√§sselby Strandv√§g 20","startPrice":4900000,"hood":"H√§sselby Villastad","squareMeters":177}
+{"address":"B√\u2022tsman Stens v√§g 51B (Bokad)","startPrice":3125000,"hood":"Sp√\u2022nga - Bromsten","squareMeters":104}
+{"address":"Drevkroken 33","startPrice":4575000,"hood":"Sp√\u2022nga Solhem","squareMeters":170}
+{"address":"Astrakangatan 130","startPrice":1975000,"hood":"H√§sselby G√\u2022rd","squareMeters":131}
