@@ -1,0 +1,2 @@
+pushd /Users/polopoly/projects/HPG/war/WEB-INF/classes/ && jar -cf /Users/polopoly/projects/HPG/data/lib/housepriceinfo.jar * && pushd
+java  -cp /Users/polopoly/projects/HPG/lib/jtidy-r938.jar:/Users/polopoly/projects/HPG/war/WEB-INF/lib/mongo-1.4.jar:/Users/polopoly/projects/HPG/war/WEB-INF/lib/commons-io-1.4.jar:/Users/polopoly/projects/HPG/war/WEB-INF/lib/json_simple-1.1.jar:/Users/polopoly/projects/HPG/data/lib/housepriceinfo.jar se.orbilius.service.ServiceRunner -serviceempty -inmodehemnetfile -infile$1 -outmodestd -log/Users/polopoly/projects/HPG/data/parse/out

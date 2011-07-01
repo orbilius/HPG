@@ -1,13 +1,13 @@
-{"fee":0,"_id":null,"address":"Torgnyv�gen 4, Bromma, Sweden","startPrice":3000000,"hood":null,"url":null,"squareMeters":100}
-{"fee":0,"_id":null,"address":"K�glestigen 4, Bromma, Sweden","startPrice":3200000,"hood":null,"url":null,"squareMeters":200}
-{"fee":0,"_id":null,"address":"Alstr�mmergatan 22, Stockholm, Sweden","startPrice":5000000,"hood":null,"url":null,"squareMeters":300}
-{"fee":0,"_id":null,"address":"Flyttblocksv�gen 10, Bromma - Marieh�ll","startPrice":4795000,"hood":null,"url":null,"squareMeters":151}
-{"fee":0,"_id":null,"address":"Gamla Bromstensv�gen 37, B�llsta","startPrice":3300000,"hood":null,"url":null,"squareMeters":88}
-{"fee":0,"_id":null,"address":"Edebyv�gen 51, Eker� Drottningholm","startPrice":9500000,"hood":null,"url":null,"squareMeters":180}
-{"fee":0,"_id":null,"address":"Carl Barks V�g 13K, Sp�nga Bromsten","startPrice":2695000,"hood":null,"url":null,"squareMeters":121}
-{"fee":0,"_id":null,"address":"B�tsman Stens v�g 51C, Sp�nga - Bromsten","startPrice":3175000,"hood":null,"url":null,"squareMeters":104}
-{"fee":0,"_id":null,"address":"V�stra Johannelund - Hus 13, V�llingby - Vinsta","startPrice":3350000,"hood":null,"url":null,"squareMeters":105}
-{"fee":0,"_id":null,"address":"V�stra Johannelund - Hus 1, V�llingby - Vinsta","startPrice":3315000,"hood":null,"url":null,"squareMeters":105}
-{"fee":0,"_id":null,"address":"Linjem�starv�gen 4-Toppklass!, N�lsta","startPrice":5950000,"hood":null,"url":null,"squareMeters":172}
-{"fee":0,"_id":null,"address":"V�stra Johannelund - Hus 6 (Bokad), V�llingby - Vinsta","startPrice":2750000,"hood":null,"url":null,"squareMeters":105}
-{"fee":0,"_id":null,"address":"�broddsv�gen 53, H�sselby S�dra Villastad","startPrice":3850000,"hood":null,"url":null,"squareMeters":152}
+{"fee":0,"_id":null,"address":"TorgnyvÔøΩgen 4, Bromma, Sweden","startPrice":3000000,"hood":null,"url":null,"squareMeters":100}
+{"fee":0,"_id":null,"address":"KÔøΩglestigen 4, Bromma, Sweden","startPrice":3200000,"hood":null,"url":null,"squareMeters":200}
+{"fee":0,"_id":null,"address":"AlstrÔøΩmmergatan 22, Stockholm, Sweden","startPrice":5000000,"hood":null,"url":null,"squareMeters":300}
+{"fee":0,"_id":null,"address":"FlyttblocksvÔøΩgen 10, Bromma - MariehÔøΩll","startPrice":4795000,"hood":null,"url":null,"squareMeters":151}
+{"fee":0,"_id":null,"address":"Gamla BromstensvÔøΩgen 37, BÔøΩllsta","startPrice":3300000,"hood":null,"url":null,"squareMeters":88}
+{"fee":0,"_id":null,"address":"EdebyvÔøΩgen 51, EkerÔøΩ Drottningholm","startPrice":9500000,"hood":null,"url":null,"squareMeters":180}
+{"fee":0,"_id":null,"address":"Carl Barks VÔøΩg 13K, SpÔøΩnga Bromsten","startPrice":2695000,"hood":null,"url":null,"squareMeters":121}
+{"fee":0,"_id":null,"address":"BÔøΩtsman Stens vÔøΩg 51C, SpÔøΩnga - Bromsten","startPrice":3175000,"hood":null,"url":null,"squareMeters":104}
+{"fee":0,"_id":null,"address":"VÔøΩstra Johannelund - Hus 13, VÔøΩllingby - Vinsta","startPrice":3350000,"hood":null,"url":null,"squareMeters":105}
+{"fee":0,"_id":null,"address":"VÔøΩstra Johannelund - Hus 1, VÔøΩllingby - Vinsta","startPrice":3315000,"hood":null,"url":null,"squareMeters":105}
+{"fee":0,"_id":null,"address":"LinjemÔøΩstarvÔøΩgen 4-Toppklass!, NÔøΩlsta","startPrice":5950000,"hood":null,"url":null,"squareMeters":172}
+{"fee":0,"_id":null,"address":"VÔøΩstra Johannelund - Hus 6 (Bokad), VÔøΩllingby - Vinsta","startPrice":2750000,"hood":null,"url":null,"squareMeters":105}
+{"fee":0,"_id":null,"address":"ÔøΩbroddsvÔøΩgen 53, HÔøΩsselby SÔøΩdra Villastad","startPrice":3850000,"hood":null,"url":null,"squareMeters":152}
